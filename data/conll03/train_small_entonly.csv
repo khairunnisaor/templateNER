@@ -1,0 +1,940 @@
+Source sentence,Answer sentence
+EU rejects German call to boycott British lamb .,EU is an organization entity
+EU rejects German call to boycott British lamb .,German is an other entity
+EU rejects German call to boycott British lamb .,British is an other entity
+Peter Blackburn,Peter Blackburn is a person entity
+BRUSSELS 1996-08-22,BRUSSELS is a location entity
+The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .,European Commission is an organization entity
+The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .,German is an other entity
+The European Commission said on Thursday it disagreed with German advice to consumers to shun British lamb until scientists determine whether mad cow disease can be transmitted to sheep .,British is an other entity
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .,Germany is a location entity
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .,European Union is an organization entity
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .,Werner Zwingmann is a person entity
+Germany 's representative to the European Union 's veterinary committee Werner Zwingmann said on Wednesday consumers should buy sheepmeat from countries other than Britain until the scientific advice was clearer .,Britain is a location entity
+""" We do n't support any such recommendation because we do n't see any grounds for it , "" the Commission 's chief spokesman Nikolaus van der Pas told a news briefing .",Commission is an organization entity
+""" We do n't support any such recommendation because we do n't see any grounds for it , "" the Commission 's chief spokesman Nikolaus van der Pas told a news briefing .",Nikolaus van der Pas is a person entity
+He said further scientific study was required and if it was found that action was needed it should be taken by the European Union .,European Union is an organization entity
+"He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains , spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health .",EU is an organization entity
+"He said a proposal last month by EU Farm Commissioner Franz Fischler to ban sheep brains , spleens and spinal cords from the human and animal food chains was a highly specific and precautionary move to protect human health .",Franz Fischler is a person entity
+Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .,Fischler is a person entity
+Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .,EU-wide is an other entity
+Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .,Britain is a location entity
+Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .,France is a location entity
+Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .,Bovine Spongiform Encephalopathy is an other entity
+Fischler proposed EU-wide measures after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .,BSE is an other entity
+"But Fischler agreed to review his proposal after the EU 's standing veterinary committee , mational animal health officials , questioned if such action was justified as there was only a slight risk to human health .",Fischler is a person entity
+"But Fischler agreed to review his proposal after the EU 's standing veterinary committee , mational animal health officials , questioned if such action was justified as there was only a slight risk to human health .",EU is an organization entity
+"Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers ' meeting of causing unjustified alarm through "" dangerous generalisation . """,Spanish is an other entity
+"Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers ' meeting of causing unjustified alarm through "" dangerous generalisation . """,Loyola de Palacio is a person entity
+"Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers ' meeting of causing unjustified alarm through "" dangerous generalisation . """,Fischler is a person entity
+"Spanish Farm Minister Loyola de Palacio had earlier accused Fischler at an EU farm ministers ' meeting of causing unjustified alarm through "" dangerous generalisation . """,EU is an organization entity
+Only France and Britain backed Fischler 's proposal .,France is a location entity
+Only France and Britain backed Fischler 's proposal .,Britain is a location entity
+Only France and Britain backed Fischler 's proposal .,Fischler is a person entity
+The EU 's scientific veterinary and multidisciplinary committees are due to re-examine the issue early next month and make recommendations to the senior veterinary officials .,EU is an organization entity
+"Sheep have long been known to contract scrapie , a brain-wasting disease similar to BSE which is believed to have been transferred to cattle through feed containing animal waste .",BSE is an other entity
+"British farmers denied on Thursday there was any danger to human health from their sheep , but expressed concern that German government advice to consumers to avoid British lamb might influence consumers across Europe .",British is an other entity
+"British farmers denied on Thursday there was any danger to human health from their sheep , but expressed concern that German government advice to consumers to avoid British lamb might influence consumers across Europe .",German is an other entity
+"British farmers denied on Thursday there was any danger to human health from their sheep , but expressed concern that German government advice to consumers to avoid British lamb might influence consumers across Europe .",Europe is a location entity
+""" What we have to be extremely careful of is how other countries are going to take Germany 's lead , "" Welsh National Farmers ' Union ( NFU ) chairman John Lloyd Jones said on BBC radio .",Germany is a location entity
+""" What we have to be extremely careful of is how other countries are going to take Germany 's lead , "" Welsh National Farmers ' Union ( NFU ) chairman John Lloyd Jones said on BBC radio .",Welsh National Farmers ' Union is an organization entity
+""" What we have to be extremely careful of is how other countries are going to take Germany 's lead , "" Welsh National Farmers ' Union ( NFU ) chairman John Lloyd Jones said on BBC radio .",NFU is an organization entity
+""" What we have to be extremely careful of is how other countries are going to take Germany 's lead , "" Welsh National Farmers ' Union ( NFU ) chairman John Lloyd Jones said on BBC radio .",John Lloyd Jones is a person entity
+""" What we have to be extremely careful of is how other countries are going to take Germany 's lead , "" Welsh National Farmers ' Union ( NFU ) chairman John Lloyd Jones said on BBC radio .",BBC radio is an organization entity
+Bonn has led efforts to protect public health after consumer confidence collapsed in March after a British report suggested humans could contract an illness similar to mad cow disease by eating contaminated beef .,Bonn is a location entity
+Bonn has led efforts to protect public health after consumer confidence collapsed in March after a British report suggested humans could contract an illness similar to mad cow disease by eating contaminated beef .,British is an other entity
+"Germany imported 47,600 sheep from Britain last year , nearly half of total imports .",Germany is a location entity
+"Germany imported 47,600 sheep from Britain last year , nearly half of total imports .",Britain is a location entity
+"It brought in 4,275 tonnes of British mutton , some 10 percent of overall imports .",British is an other entity
+"Rare Hendrix song draft sells for almost $ 17,000 .",Hendrix is a person entity
+LONDON 1996-08-22,LONDON is a location entity
+"A rare early handwritten draft of a song by U.S. guitar legend Jimi Hendrix was sold for almost $ 17,000 on Thursday at an auction of some of the late musician 's favourite possessions .",U.S. is a location entity
+"A rare early handwritten draft of a song by U.S. guitar legend Jimi Hendrix was sold for almost $ 17,000 on Thursday at an auction of some of the late musician 's favourite possessions .",Jimi Hendrix is a person entity
+"A Florida restaurant paid 10,925 pounds ( $ 16,935 ) for the draft of "" Ai n't no telling "" , which Hendrix penned on a piece of London hotel stationery in late 1966 .",Florida is a location entity
+"A Florida restaurant paid 10,925 pounds ( $ 16,935 ) for the draft of "" Ai n't no telling "" , which Hendrix penned on a piece of London hotel stationery in late 1966 .",Ai n't no telling is an other entity
+"A Florida restaurant paid 10,925 pounds ( $ 16,935 ) for the draft of "" Ai n't no telling "" , which Hendrix penned on a piece of London hotel stationery in late 1966 .",Hendrix is a person entity
+"A Florida restaurant paid 10,925 pounds ( $ 16,935 ) for the draft of "" Ai n't no telling "" , which Hendrix penned on a piece of London hotel stationery in late 1966 .",London is a location entity
+"At the end of a January 1967 concert in the English city of Nottingham he threw the sheet of paper into the audience , where it was retrieved by a fan .",English is an other entity
+"At the end of a January 1967 concert in the English city of Nottingham he threw the sheet of paper into the audience , where it was retrieved by a fan .",Nottingham is a location entity
+"Buyers also snapped up 16 other items that were put up for auction by Hendrix 's former girlfriend Kathy Etchingham , who lived with him from 1966 to 1969 .",Hendrix is a person entity
+"Buyers also snapped up 16 other items that were put up for auction by Hendrix 's former girlfriend Kathy Etchingham , who lived with him from 1966 to 1969 .",Kathy Etchingham is a person entity
+"They included a black lacquer and mother of pearl inlaid box used by Hendrix to store his drugs , which an anonymous Australian purchaser bought for 5,060 pounds ( $ 7,845 ) .",Hendrix is a person entity
+"They included a black lacquer and mother of pearl inlaid box used by Hendrix to store his drugs , which an anonymous Australian purchaser bought for 5,060 pounds ( $ 7,845 ) .",Australian is an other entity
+China says Taiwan spoils atmosphere for talks .,China is a location entity
+China says Taiwan spoils atmosphere for talks .,Taiwan is a location entity
+BEIJING 1996-08-22,BEIJING is a location entity
+China on Thursday accused Taipei of spoiling the atmosphere for a resumption of talks across the Taiwan Strait with a visit to Ukraine by Taiwanese Vice President Lien Chan this week that infuriated Beijing .,China is a location entity
+China on Thursday accused Taipei of spoiling the atmosphere for a resumption of talks across the Taiwan Strait with a visit to Ukraine by Taiwanese Vice President Lien Chan this week that infuriated Beijing .,Taipei is a location entity
+China on Thursday accused Taipei of spoiling the atmosphere for a resumption of talks across the Taiwan Strait with a visit to Ukraine by Taiwanese Vice President Lien Chan this week that infuriated Beijing .,Taiwan Strait is a location entity
+China on Thursday accused Taipei of spoiling the atmosphere for a resumption of talks across the Taiwan Strait with a visit to Ukraine by Taiwanese Vice President Lien Chan this week that infuriated Beijing .,Ukraine is a location entity
+China on Thursday accused Taipei of spoiling the atmosphere for a resumption of talks across the Taiwan Strait with a visit to Ukraine by Taiwanese Vice President Lien Chan this week that infuriated Beijing .,Taiwanese is an other entity
+China on Thursday accused Taipei of spoiling the atmosphere for a resumption of talks across the Taiwan Strait with a visit to Ukraine by Taiwanese Vice President Lien Chan this week that infuriated Beijing .,Lien Chan is a person entity
+China on Thursday accused Taipei of spoiling the atmosphere for a resumption of talks across the Taiwan Strait with a visit to Ukraine by Taiwanese Vice President Lien Chan this week that infuriated Beijing .,Beijing is a location entity
+"Speaking only hours after Chinese state media said the time was right to engage in political talks with Taiwan , Foreign Ministry spokesman Shen Guofang told Reuters : "" The necessary atmosphere for the opening of the talks has been disrupted by the Taiwan authorities . """,Chinese is an other entity
+"Speaking only hours after Chinese state media said the time was right to engage in political talks with Taiwan , Foreign Ministry spokesman Shen Guofang told Reuters : "" The necessary atmosphere for the opening of the talks has been disrupted by the Taiwan authorities . """,Taiwan is a location entity
+"Speaking only hours after Chinese state media said the time was right to engage in political talks with Taiwan , Foreign Ministry spokesman Shen Guofang told Reuters : "" The necessary atmosphere for the opening of the talks has been disrupted by the Taiwan authorities . """,Foreign Ministry is an organization entity
+"Speaking only hours after Chinese state media said the time was right to engage in political talks with Taiwan , Foreign Ministry spokesman Shen Guofang told Reuters : "" The necessary atmosphere for the opening of the talks has been disrupted by the Taiwan authorities . """,Shen Guofang is a person entity
+"Speaking only hours after Chinese state media said the time was right to engage in political talks with Taiwan , Foreign Ministry spokesman Shen Guofang told Reuters : "" The necessary atmosphere for the opening of the talks has been disrupted by the Taiwan authorities . """,Reuters is an organization entity
+"State media quoted China 's top negotiator with Taipei , Tang Shubei , as telling a visiting group from Taiwan on Wednesday that it was time for the rivals to hold political talks .",China is a location entity
+"State media quoted China 's top negotiator with Taipei , Tang Shubei , as telling a visiting group from Taiwan on Wednesday that it was time for the rivals to hold political talks .",Taipei is a location entity
+"State media quoted China 's top negotiator with Taipei , Tang Shubei , as telling a visiting group from Taiwan on Wednesday that it was time for the rivals to hold political talks .",Tang Shubei is a person entity
+"State media quoted China 's top negotiator with Taipei , Tang Shubei , as telling a visiting group from Taiwan on Wednesday that it was time for the rivals to hold political talks .",Taiwan is a location entity
+"that is to end the state of hostility , "" Thursday 's overseas edition of the People 's Daily quoted Tang as saying .",People 's Daily is an organization entity
+"that is to end the state of hostility , "" Thursday 's overseas edition of the People 's Daily quoted Tang as saying .",Tang is a person entity
+"The foreign ministry 's Shen told Reuters Television in an interview he had read reports of Tang 's comments but gave no details of why the negotiator had considered the time right for talks with Taiwan , which Beijing considers a renegade province .",Shen is an organization entity
+"The foreign ministry 's Shen told Reuters Television in an interview he had read reports of Tang 's comments but gave no details of why the negotiator had considered the time right for talks with Taiwan , which Beijing considers a renegade province .",Reuters Television is an organization entity
+"The foreign ministry 's Shen told Reuters Television in an interview he had read reports of Tang 's comments but gave no details of why the negotiator had considered the time right for talks with Taiwan , which Beijing considers a renegade province .",Tang is a person entity
+"The foreign ministry 's Shen told Reuters Television in an interview he had read reports of Tang 's comments but gave no details of why the negotiator had considered the time right for talks with Taiwan , which Beijing considers a renegade province .",Taiwan is a location entity
+"The foreign ministry 's Shen told Reuters Television in an interview he had read reports of Tang 's comments but gave no details of why the negotiator had considered the time right for talks with Taiwan , which Beijing considers a renegade province .",Beijing is a location entity
+"China , which has long opposed all Taipei efforts to gain greater international recognition , was infuriated by a visit to Ukraine this week by Taiwanese Vice President Lien .",China is a location entity
+"China , which has long opposed all Taipei efforts to gain greater international recognition , was infuriated by a visit to Ukraine this week by Taiwanese Vice President Lien .",Taipei is a location entity
+"China , which has long opposed all Taipei efforts to gain greater international recognition , was infuriated by a visit to Ukraine this week by Taiwanese Vice President Lien .",Ukraine is a location entity
+"China , which has long opposed all Taipei efforts to gain greater international recognition , was infuriated by a visit to Ukraine this week by Taiwanese Vice President Lien .",Taiwanese is an other entity
+"China , which has long opposed all Taipei efforts to gain greater international recognition , was infuriated by a visit to Ukraine this week by Taiwanese Vice President Lien .",Lien is a person entity
+China says time right for Taiwan talks .,China is a location entity
+China says time right for Taiwan talks .,Taiwan is a location entity
+BEIJING 1996-08-22,BEIJING is a location entity
+China has said it was time for political talks with Taiwan and that the rival island should take practical steps towards that goal .,China is a location entity
+China has said it was time for political talks with Taiwan and that the rival island should take practical steps towards that goal .,Taiwan is a location entity
+"Consultations should be held to set the time and format of the talks , the official Xinhua news agency quoted Tang Shubei , executive vice chairman of the Association for Relations Across the Taiwan Straits , as saying late on Wednesday .",Xinhua is an organization entity
+"Consultations should be held to set the time and format of the talks , the official Xinhua news agency quoted Tang Shubei , executive vice chairman of the Association for Relations Across the Taiwan Straits , as saying late on Wednesday .",Tang Shubei is a person entity
+"Consultations should be held to set the time and format of the talks , the official Xinhua news agency quoted Tang Shubei , executive vice chairman of the Association for Relations Across the Taiwan Straits , as saying late on Wednesday .",Association for Relations Across the Taiwan Straits is an organization entity
+German July car registrations up 14.2 pct yr / yr .,German is an other entity
+FRANKFURT 1996-08-22,FRANKFURT is a location entity
+"German first-time registrations of motor vehicles jumped 14.2 percent in July this year from the year-earlier period , the Federal office for motor vehicles said on Thursday .",German is an other entity
+"German first-time registrations of motor vehicles jumped 14.2 percent in July this year from the year-earlier period , the Federal office for motor vehicles said on Thursday .",Federal office for motor vehicles is an organization entity
+"The growth was partly due to an increased number of Germans buying German cars abroad , while manufacturers said that domestic demand was weak , the federal office said .",Germans is an other entity
+"The growth was partly due to an increased number of Germans buying German cars abroad , while manufacturers said that domestic demand was weak , the federal office said .",German is an other entity
+Almost all German car manufacturers posted gains in registration numbers in the period .,German is an other entity
+"Volkswagen AG won 77,719 registrations , slightly more than a quarter of the total .",Volkswagen AG is an organization entity
+"Opel AG together with General Motors came in second place with 49,269 registrations , 16.4 percent of the overall figure .",Opel AG is an organization entity
+"Opel AG together with General Motors came in second place with 49,269 registrations , 16.4 percent of the overall figure .",General Motors is an organization entity
+"Third was Ford with 35,563 registrations , or 11.7 percent .",Ford is an organization entity
+Only Seat and Porsche had fewer registrations in July 1996 compared to last year 's July .,Seat is an organization entity
+Only Seat and Porsche had fewer registrations in July 1996 compared to last year 's July .,Porsche is an organization entity
+"Seat posted 3,420 registrations compared with 5522 registrations in July a year earlier .",Seat is an organization entity
+Porsche 's registrations fell to 554 from 643 .,Porsche is an organization entity
+GREEK SOCIALISTS GIVE GREEN LIGHT TO PM FOR ELECTIONS .,GREEK is an other entity
+ATHENS 1996-08-22,ATHENS is a location entity
+"The Greek socialist party 's executive bureau gave the green light to Prime Minister Costas Simitis to call snap elections , its general secretary Costas Skandalidis told reporters .",Greek is an other entity
+"The Greek socialist party 's executive bureau gave the green light to Prime Minister Costas Simitis to call snap elections , its general secretary Costas Skandalidis told reporters .",Costas Simitis is a person entity
+"The Greek socialist party 's executive bureau gave the green light to Prime Minister Costas Simitis to call snap elections , its general secretary Costas Skandalidis told reporters .",Costas Skandalidis is a person entity
+"Prime Minister Costas Simitis is going to make an official announcement after a cabinet meeting later on Thursday , said Skandalidis .",Costas Simitis is a person entity
+"Prime Minister Costas Simitis is going to make an official announcement after a cabinet meeting later on Thursday , said Skandalidis .",Skandalidis is a person entity
+"-- Dimitris Kontogiannis , Athens Newsroom +301 3311812-4",Dimitris Kontogiannis is a person entity
+"-- Dimitris Kontogiannis , Athens Newsroom +301 3311812-4",Athens Newsroom is an organization entity
+BayerVB sets C$ 100 million six-year bond .,BayerVB is an organization entity
+BayerVB sets C$ 100 million six-year bond .,C$ is an other entity
+LONDON 1996-08-22,LONDON is a location entity
+The following bond was announced by lead manager Toronto Dominion .,Toronto Dominion is a person entity
+BORROWER BAYERISCHE VEREINSBANK,BAYERISCHE VEREINSBANK is an organization entity
+AMT C$ 100 MLN COUPON 6.625 MATURITY 24.SEP.02,C$ is an other entity
+S&P = DENOMS ( K ) 1-10-100 SALE LIMITS US / UK / CA,S&P is an organization entity
+S&P = DENOMS ( K ) 1-10-100 SALE LIMITS US / UK / CA,US is a location entity
+S&P = DENOMS ( K ) 1-10-100 SALE LIMITS US / UK / CA,UK is a location entity
+S&P = DENOMS ( K ) 1-10-100 SALE LIMITS US / UK / CA,CA is a location entity
+GOV LAW GERMAN HOME CTRY = TAX PROVS STANDARD,GERMAN is an other entity
+NOTES BAYERISCHE VEREINSBANK IS JOINT LEAD MANAGER,BAYERISCHE VEREINSBANK is an organization entity
+-- London Newsroom +44 171 542 7658,London Newsroom is an organization entity
+Venantius sets $ 300 million January 1999 FRN .,Venantius is an organization entity
+LONDON 1996-08-22,LONDON is a location entity
+The following floating-rate issue was announced by lead manager Lehman Brothers International .,Lehman Brothers International is an organization entity
+BORROWER VENANTIUS AB ( SWEDISH NATIONAL MORTGAGE AGENCY ),VENANTIUS AB is an organization entity
+BORROWER VENANTIUS AB ( SWEDISH NATIONAL MORTGAGE AGENCY ),SWEDISH is an other entity
+TYPE FRN BASE 3M LIBOR PAY DATE S23.SEP.96,3M is an organization entity
+LAST S&P AA+ REOFFER =,S&P is an organization entity
+LISTING LONDON DENOMS ( K ) 1-10-100 SALE LIMITS US / UK / JP / FR,LONDON is a location entity
+LISTING LONDON DENOMS ( K ) 1-10-100 SALE LIMITS US / UK / JP / FR,US is a location entity
+LISTING LONDON DENOMS ( K ) 1-10-100 SALE LIMITS US / UK / JP / FR,UK is a location entity
+LISTING LONDON DENOMS ( K ) 1-10-100 SALE LIMITS US / UK / JP / FR,JP is a location entity
+LISTING LONDON DENOMS ( K ) 1-10-100 SALE LIMITS US / UK / JP / FR,FR is a location entity
+GOV LAW ENGLISH HOME CTRY SWEDEN TAX PROVS STANDARD,ENGLISH is an other entity
+GOV LAW ENGLISH HOME CTRY SWEDEN TAX PROVS STANDARD,SWEDEN is a location entity
+-- London Newsroom +44 171 542 8863,London Newsroom is an organization entity
+Port conditions update - Syria - Lloyds Shipping .,Syria is a location entity
+Port conditions update - Syria - Lloyds Shipping .,Lloyds Shipping is an organization entity
+Port conditions from Lloyds Shipping Intelligence Service --,Lloyds Shipping Intelligence Service is an organization entity
+"LATTAKIA , Aug 10 - waiting time at Lattakia and Tartous presently 24 hours .",LATTAKIA is a location entity
+"LATTAKIA , Aug 10 - waiting time at Lattakia and Tartous presently 24 hours .",Lattakia is a location entity
+"LATTAKIA , Aug 10 - waiting time at Lattakia and Tartous presently 24 hours .",Tartous is a location entity
+Israel plays down fears of war with Syria .,Israel is a location entity
+Israel plays down fears of war with Syria .,Syria is a location entity
+Colleen Siegel,Colleen Siegel is a person entity
+JERUSALEM 1996-08-22,JERUSALEM is a location entity
+Israel 's outgoing peace negotiator with Syria said on Thursday current tensions between the two countries appeared to be a storm in a teacup .,Israel is a location entity
+Israel 's outgoing peace negotiator with Syria said on Thursday current tensions between the two countries appeared to be a storm in a teacup .,Syria is a location entity
+"Itamar Rabinovich , who as Israel 's ambassador to Washington conducted unfruitful negotiations with Syria , told Israel Radio it looked like Damascus wanted to talk rather than fight .",Itamar Rabinovich is a person entity
+"Itamar Rabinovich , who as Israel 's ambassador to Washington conducted unfruitful negotiations with Syria , told Israel Radio it looked like Damascus wanted to talk rather than fight .",Israel is a location entity
+"Itamar Rabinovich , who as Israel 's ambassador to Washington conducted unfruitful negotiations with Syria , told Israel Radio it looked like Damascus wanted to talk rather than fight .",Washington is a location entity
+"Itamar Rabinovich , who as Israel 's ambassador to Washington conducted unfruitful negotiations with Syria , told Israel Radio it looked like Damascus wanted to talk rather than fight .",Syria is a location entity
+"Itamar Rabinovich , who as Israel 's ambassador to Washington conducted unfruitful negotiations with Syria , told Israel Radio it looked like Damascus wanted to talk rather than fight .",Israel Radio is an organization entity
+"Itamar Rabinovich , who as Israel 's ambassador to Washington conducted unfruitful negotiations with Syria , told Israel Radio it looked like Damascus wanted to talk rather than fight .",Damascus is a location entity
+""" It appears to me the Syrian priority is still to negotiate .",Syrian is an other entity
+"The Syrians are confused , they are definitely tense , but the general assessment here in Washington is that this is essentially a storm in a teacup , "" he said .",Syrians is an other entity
+"The Syrians are confused , they are definitely tense , but the general assessment here in Washington is that this is essentially a storm in a teacup , "" he said .",Washington is a location entity
+Rabinovich is winding up his term as ambassador .,Rabinovich is a person entity
+"He will be replaced by Eliahu Ben-Elissar , a former Israeli envoy to Egypt and right-wing Likud party politician .",Eliahu Ben-Elissar is a person entity
+"He will be replaced by Eliahu Ben-Elissar , a former Israeli envoy to Egypt and right-wing Likud party politician .",Israeli is an other entity
+"He will be replaced by Eliahu Ben-Elissar , a former Israeli envoy to Egypt and right-wing Likud party politician .",Egypt is a location entity
+"He will be replaced by Eliahu Ben-Elissar , a former Israeli envoy to Egypt and right-wing Likud party politician .",Likud is an organization entity
+"Israel on Wednesday sent Syria a message , via Washington , saying it was committed to peace and wanted to open negotiations without preconditions .",Israel is a location entity
+"Israel on Wednesday sent Syria a message , via Washington , saying it was committed to peace and wanted to open negotiations without preconditions .",Syria is a location entity
+"Israel on Wednesday sent Syria a message , via Washington , saying it was committed to peace and wanted to open negotiations without preconditions .",Washington is a location entity
+But it slammed Damascus for creating what it called a dangerous atmosphere .,Damascus is a location entity
+Syria accused Israel on Wednesday of launching a hysterical campaign against it after Israeli television reported that Damascus had recently test fired a missile .,Syria is a location entity
+Syria accused Israel on Wednesday of launching a hysterical campaign against it after Israeli television reported that Damascus had recently test fired a missile .,Israel is a location entity
+Syria accused Israel on Wednesday of launching a hysterical campaign against it after Israeli television reported that Damascus had recently test fired a missile .,Israeli is an other entity
+Syria accused Israel on Wednesday of launching a hysterical campaign against it after Israeli television reported that Damascus had recently test fired a missile .,Damascus is a location entity
+""" The message that we sent to ( Syrian President Hafez al- ) Assad is that Israel is ready at any time without preconditions to enter peace negotiations , "" Israeli Foreign Minister David Levy told Israel Radio in an interview .",Syrian is an other entity
+""" The message that we sent to ( Syrian President Hafez al- ) Assad is that Israel is ready at any time without preconditions to enter peace negotiations , "" Israeli Foreign Minister David Levy told Israel Radio in an interview .",Hafez al- is a person entity
+""" The message that we sent to ( Syrian President Hafez al- ) Assad is that Israel is ready at any time without preconditions to enter peace negotiations , "" Israeli Foreign Minister David Levy told Israel Radio in an interview .",Assad is a person entity
+""" The message that we sent to ( Syrian President Hafez al- ) Assad is that Israel is ready at any time without preconditions to enter peace negotiations , "" Israeli Foreign Minister David Levy told Israel Radio in an interview .",Israel is a location entity
+""" The message that we sent to ( Syrian President Hafez al- ) Assad is that Israel is ready at any time without preconditions to enter peace negotiations , "" Israeli Foreign Minister David Levy told Israel Radio in an interview .",Israeli is an other entity
+""" The message that we sent to ( Syrian President Hafez al- ) Assad is that Israel is ready at any time without preconditions to enter peace negotiations , "" Israeli Foreign Minister David Levy told Israel Radio in an interview .",David Levy is a person entity
+""" The message that we sent to ( Syrian President Hafez al- ) Assad is that Israel is ready at any time without preconditions to enter peace negotiations , "" Israeli Foreign Minister David Levy told Israel Radio in an interview .",Israel Radio is an organization entity
+Tension has mounted since Israeli Prime Minister Benjamin Netanyahu took office in June vowing to retain the Golan Heights Israel captured from Syria in the 1967 Middle East war .,Israeli is an other entity
+Tension has mounted since Israeli Prime Minister Benjamin Netanyahu took office in June vowing to retain the Golan Heights Israel captured from Syria in the 1967 Middle East war .,Benjamin Netanyahu is a person entity
+Tension has mounted since Israeli Prime Minister Benjamin Netanyahu took office in June vowing to retain the Golan Heights Israel captured from Syria in the 1967 Middle East war .,Golan Heights is a location entity
+Tension has mounted since Israeli Prime Minister Benjamin Netanyahu took office in June vowing to retain the Golan Heights Israel captured from Syria in the 1967 Middle East war .,Israel is a location entity
+Tension has mounted since Israeli Prime Minister Benjamin Netanyahu took office in June vowing to retain the Golan Heights Israel captured from Syria in the 1967 Middle East war .,Syria is a location entity
+Tension has mounted since Israeli Prime Minister Benjamin Netanyahu took office in June vowing to retain the Golan Heights Israel captured from Syria in the 1967 Middle East war .,Middle East is a location entity
+Israeli-Syrian peace talks have been deadlocked over the Golan since 1991 despite the previous government 's willingness to make Golan concessions .,Israeli-Syrian is an other entity
+Israeli-Syrian peace talks have been deadlocked over the Golan since 1991 despite the previous government 's willingness to make Golan concessions .,Golan is a location entity
+""" The voices coming out of Damascus are bad , not good .",Damascus is a location entity
+"this artificial atmosphere is very dangerous because those who spread it could become its prisoners , "" Levy said .",Levy is a person entity
+""" We expect from Syria , if its face is to peace , that it will answer Israel 's message to enter peace negotiations because that is our goal , "" he said . """,Syria is a location entity
+""" We expect from Syria , if its face is to peace , that it will answer Israel 's message to enter peace negotiations because that is our goal , "" he said . """,Israel is a location entity
+"We do not want a war , God forbid .",God is a person entity
+"Israel 's Channel Two television said Damascus had sent a "" calming signal "" to Israel .",Israel is a location entity
+"Israel 's Channel Two television said Damascus had sent a "" calming signal "" to Israel .",Channel Two is an organization entity
+"Israel 's Channel Two television said Damascus had sent a "" calming signal "" to Israel .",Damascus is a location entity
+Netanyahu and Levy 's spokesmen said they could not confirm it .,Netanyahu is a person entity
+Netanyahu and Levy 's spokesmen said they could not confirm it .,Levy is a person entity
+"The television also said that Netanyahu had sent messages to reassure Syria via Cairo , the United States and Moscow .",Netanyahu is a person entity
+"The television also said that Netanyahu had sent messages to reassure Syria via Cairo , the United States and Moscow .",Syria is a location entity
+"The television also said that Netanyahu had sent messages to reassure Syria via Cairo , the United States and Moscow .",Cairo is a location entity
+"The television also said that Netanyahu had sent messages to reassure Syria via Cairo , the United States and Moscow .",United States is a location entity
+"The television also said that Netanyahu had sent messages to reassure Syria via Cairo , the United States and Moscow .",Moscow is a location entity
+Polish diplomat denies nurses stranded in Libya .,Polish is an other entity
+Polish diplomat denies nurses stranded in Libya .,Libya is a location entity
+TUNIS 1996-08-22,TUNIS is a location entity
+A Polish diplomat on Thursday denied a Polish tabloid report this week that Libya was refusing exit visas to 100 Polish nurses trying to return home after working in the North African country .,Polish is an other entity
+A Polish diplomat on Thursday denied a Polish tabloid report this week that Libya was refusing exit visas to 100 Polish nurses trying to return home after working in the North African country .,Libya is a location entity
+A Polish diplomat on Thursday denied a Polish tabloid report this week that Libya was refusing exit visas to 100 Polish nurses trying to return home after working in the North African country .,North African is an other entity
+"Up to today , we have no knowledge of any nurse stranded or kept in Libya without her will , and we have not received any complaint , "" the Polish embassy 's charge d'affaires in Tripoli , Tadeusz Awdankiewicz , told Reuters by telephone .",Libya is a location entity
+"Up to today , we have no knowledge of any nurse stranded or kept in Libya without her will , and we have not received any complaint , "" the Polish embassy 's charge d'affaires in Tripoli , Tadeusz Awdankiewicz , told Reuters by telephone .",Polish is an other entity
+"Up to today , we have no knowledge of any nurse stranded or kept in Libya without her will , and we have not received any complaint , "" the Polish embassy 's charge d'affaires in Tripoli , Tadeusz Awdankiewicz , told Reuters by telephone .",Tripoli is a location entity
+"Up to today , we have no knowledge of any nurse stranded or kept in Libya without her will , and we have not received any complaint , "" the Polish embassy 's charge d'affaires in Tripoli , Tadeusz Awdankiewicz , told Reuters by telephone .",Tadeusz Awdankiewicz is a person entity
+"Up to today , we have no knowledge of any nurse stranded or kept in Libya without her will , and we have not received any complaint , "" the Polish embassy 's charge d'affaires in Tripoli , Tadeusz Awdankiewicz , told Reuters by telephone .",Reuters is an organization entity
+"Poland 's labour ministry said this week it would send a team to Libya to investigate , but Awdankiewicz said the probe was prompted by some nurses complaining about their work conditions such as non-payment of their salaries .",Poland is a location entity
+"Poland 's labour ministry said this week it would send a team to Libya to investigate , but Awdankiewicz said the probe was prompted by some nurses complaining about their work conditions such as non-payment of their salaries .",Libya is a location entity
+"Poland 's labour ministry said this week it would send a team to Libya to investigate , but Awdankiewicz said the probe was prompted by some nurses complaining about their work conditions such as non-payment of their salaries .",Awdankiewicz is a person entity
+He said that there are an estimated 800 Polish nurses working in Libya .,Polish is an other entity
+He said that there are an estimated 800 Polish nurses working in Libya .,Libya is a location entity
+Two Iranian opposition leaders meet in Baghdad .,Iranian is an other entity
+Two Iranian opposition leaders meet in Baghdad .,Baghdad is a location entity
+Hassan Hafidh,Hassan Hafidh is a person entity
+BAGHDAD 1996-08-22,BAGHDAD is a location entity
+An Iranian exile group based in Iraq vowed on Thursday to extend support to Iran 's Kurdish rebels after they were attacked by Iranian troops deep inside Iraq last month .,Iranian is an other entity
+An Iranian exile group based in Iraq vowed on Thursday to extend support to Iran 's Kurdish rebels after they were attacked by Iranian troops deep inside Iraq last month .,Iraq is a location entity
+An Iranian exile group based in Iraq vowed on Thursday to extend support to Iran 's Kurdish rebels after they were attacked by Iranian troops deep inside Iraq last month .,Iran is a location entity
+An Iranian exile group based in Iraq vowed on Thursday to extend support to Iran 's Kurdish rebels after they were attacked by Iranian troops deep inside Iraq last month .,Kurdish is an other entity
+A Mujahideen Khalq statement said its leader Massoud Rajavi met in Baghdad the Secretary-General of the Kurdistan Democratic Party of Iran ( KDPI ) Hassan Rastegar on Wednesday and voiced his support to Iran 's rebel Kurds .,Mujahideen Khalq is an organization entity
+A Mujahideen Khalq statement said its leader Massoud Rajavi met in Baghdad the Secretary-General of the Kurdistan Democratic Party of Iran ( KDPI ) Hassan Rastegar on Wednesday and voiced his support to Iran 's rebel Kurds .,Massoud Rajavi is a person entity
+A Mujahideen Khalq statement said its leader Massoud Rajavi met in Baghdad the Secretary-General of the Kurdistan Democratic Party of Iran ( KDPI ) Hassan Rastegar on Wednesday and voiced his support to Iran 's rebel Kurds .,Baghdad is a location entity
+A Mujahideen Khalq statement said its leader Massoud Rajavi met in Baghdad the Secretary-General of the Kurdistan Democratic Party of Iran ( KDPI ) Hassan Rastegar on Wednesday and voiced his support to Iran 's rebel Kurds .,Kurdistan Democratic Party of Iran is an organization entity
+A Mujahideen Khalq statement said its leader Massoud Rajavi met in Baghdad the Secretary-General of the Kurdistan Democratic Party of Iran ( KDPI ) Hassan Rastegar on Wednesday and voiced his support to Iran 's rebel Kurds .,KDPI is an organization entity
+A Mujahideen Khalq statement said its leader Massoud Rajavi met in Baghdad the Secretary-General of the Kurdistan Democratic Party of Iran ( KDPI ) Hassan Rastegar on Wednesday and voiced his support to Iran 's rebel Kurds .,Hassan Rastegar is a person entity
+A Mujahideen Khalq statement said its leader Massoud Rajavi met in Baghdad the Secretary-General of the Kurdistan Democratic Party of Iran ( KDPI ) Hassan Rastegar on Wednesday and voiced his support to Iran 's rebel Kurds .,Iran is a location entity
+A Mujahideen Khalq statement said its leader Massoud Rajavi met in Baghdad the Secretary-General of the Kurdistan Democratic Party of Iran ( KDPI ) Hassan Rastegar on Wednesday and voiced his support to Iran 's rebel Kurds .,Kurds is an other entity
+""" Rajavi emphasised that the Iranian Resistance would continue to stand side by side with their Kurdish compatriots and the resistance movement in Iranian Kurdistan , "" it said .",Rajavi is an other entity
+""" Rajavi emphasised that the Iranian Resistance would continue to stand side by side with their Kurdish compatriots and the resistance movement in Iranian Kurdistan , "" it said .",Iranian is an other entity
+""" Rajavi emphasised that the Iranian Resistance would continue to stand side by side with their Kurdish compatriots and the resistance movement in Iranian Kurdistan , "" it said .",Resistance is an organization entity
+""" Rajavi emphasised that the Iranian Resistance would continue to stand side by side with their Kurdish compatriots and the resistance movement in Iranian Kurdistan , "" it said .",Kurdish is an other entity
+""" Rajavi emphasised that the Iranian Resistance would continue to stand side by side with their Kurdish compatriots and the resistance movement in Iranian Kurdistan , "" it said .",Iranian Kurdistan is a location entity
+"A spokesman for the group said the meeting "" signals a new level of cooperation between Mujahideen Khalq and the Iranian Kurdish oppositions "" .",Mujahideen Khalq is an organization entity
+"A spokesman for the group said the meeting "" signals a new level of cooperation between Mujahideen Khalq and the Iranian Kurdish oppositions "" .",Iranian Kurdish is an other entity
+Iran heavily bombarded targets in northern Iraq in July in pursuit of KDPI guerrillas based in Iraqi Kurdish areas outside the control of the government in Baghdad .,Iran is a location entity
+Iran heavily bombarded targets in northern Iraq in July in pursuit of KDPI guerrillas based in Iraqi Kurdish areas outside the control of the government in Baghdad .,Iraq is a location entity
+Iran heavily bombarded targets in northern Iraq in July in pursuit of KDPI guerrillas based in Iraqi Kurdish areas outside the control of the government in Baghdad .,KDPI is an organization entity
+Iran heavily bombarded targets in northern Iraq in July in pursuit of KDPI guerrillas based in Iraqi Kurdish areas outside the control of the government in Baghdad .,Iraqi Kurdish is an other entity
+Iran heavily bombarded targets in northern Iraq in July in pursuit of KDPI guerrillas based in Iraqi Kurdish areas outside the control of the government in Baghdad .,Baghdad is a location entity
+Iraqi Kurdish areas bordering Iran are under the control of guerrillas of the Iraqi Kurdish Patriotic Union of Kurdistan ( PUK ) group .,Iraqi Kurdish is an other entity
+Iraqi Kurdish areas bordering Iran are under the control of guerrillas of the Iraqi Kurdish Patriotic Union of Kurdistan ( PUK ) group .,Iran is a location entity
+Iraqi Kurdish areas bordering Iran are under the control of guerrillas of the Iraqi Kurdish Patriotic Union of Kurdistan ( PUK ) group .,Iraqi Kurdish Patriotic Union of Kurdistan is an organization entity
+Iraqi Kurdish areas bordering Iran are under the control of guerrillas of the Iraqi Kurdish Patriotic Union of Kurdistan ( PUK ) group .,PUK is an organization entity
+"PUK and Iraq 's Kurdistan Democratic Party ( KDP ) the two main Iraqi Kurdish factions , have had northern Iraq under their control since Iraqi forces were ousted from Kuwait in the 1991 Gulf War .",PUK is an organization entity
+"PUK and Iraq 's Kurdistan Democratic Party ( KDP ) the two main Iraqi Kurdish factions , have had northern Iraq under their control since Iraqi forces were ousted from Kuwait in the 1991 Gulf War .",Iraq is a location entity
+"PUK and Iraq 's Kurdistan Democratic Party ( KDP ) the two main Iraqi Kurdish factions , have had northern Iraq under their control since Iraqi forces were ousted from Kuwait in the 1991 Gulf War .",Kurdistan Democratic Party is an organization entity
+"PUK and Iraq 's Kurdistan Democratic Party ( KDP ) the two main Iraqi Kurdish factions , have had northern Iraq under their control since Iraqi forces were ousted from Kuwait in the 1991 Gulf War .",KDP is an organization entity
+"PUK and Iraq 's Kurdistan Democratic Party ( KDP ) the two main Iraqi Kurdish factions , have had northern Iraq under their control since Iraqi forces were ousted from Kuwait in the 1991 Gulf War .",Iraqi Kurdish is an other entity
+"PUK and Iraq 's Kurdistan Democratic Party ( KDP ) the two main Iraqi Kurdish factions , have had northern Iraq under their control since Iraqi forces were ousted from Kuwait in the 1991 Gulf War .",Iraqi is an other entity
+"PUK and Iraq 's Kurdistan Democratic Party ( KDP ) the two main Iraqi Kurdish factions , have had northern Iraq under their control since Iraqi forces were ousted from Kuwait in the 1991 Gulf War .",Kuwait is a location entity
+"PUK and Iraq 's Kurdistan Democratic Party ( KDP ) the two main Iraqi Kurdish factions , have had northern Iraq under their control since Iraqi forces were ousted from Kuwait in the 1991 Gulf War .",Gulf War is an other entity
+Clashes between the two parties broke out at the weekend in the most serious fighting since a U.S.-sponsored ceasefire last year .,U.S.-sponsored is an other entity
+Mujahideen Khalq said Iranian troops had also been shelling KDP positions in Qasri region in Suleimaniya province near the Iranian border over the last two days .,Mujahideen Khalq is an organization entity
+Mujahideen Khalq said Iranian troops had also been shelling KDP positions in Qasri region in Suleimaniya province near the Iranian border over the last two days .,Iranian is an other entity
+Mujahideen Khalq said Iranian troops had also been shelling KDP positions in Qasri region in Suleimaniya province near the Iranian border over the last two days .,KDP is an organization entity
+Mujahideen Khalq said Iranian troops had also been shelling KDP positions in Qasri region in Suleimaniya province near the Iranian border over the last two days .,Qasri is a location entity
+Mujahideen Khalq said Iranian troops had also been shelling KDP positions in Qasri region in Suleimaniya province near the Iranian border over the last two days .,Suleimaniya is a location entity
+It said about 100 Iraqi Kurds were killed or wounded in the attack .,Iraqi Kurds is an other entity
+Both Iran and Turkey mount air and land strikes at targets in northern Iraq in pursuit of their own Kurdish rebels .,Iran is a location entity
+Both Iran and Turkey mount air and land strikes at targets in northern Iraq in pursuit of their own Kurdish rebels .,Turkey is a location entity
+Both Iran and Turkey mount air and land strikes at targets in northern Iraq in pursuit of their own Kurdish rebels .,Iraq is a location entity
+Both Iran and Turkey mount air and land strikes at targets in northern Iraq in pursuit of their own Kurdish rebels .,Kurdish is an other entity
+A U.S.-led air force in southern Turkey protects Iraqi Kurds from possible attacks by Baghdad troops .,U.S.-led is an other entity
+A U.S.-led air force in southern Turkey protects Iraqi Kurds from possible attacks by Baghdad troops .,Turkey is a location entity
+A U.S.-led air force in southern Turkey protects Iraqi Kurds from possible attacks by Baghdad troops .,Iraqi Kurds is an other entity
+A U.S.-led air force in southern Turkey protects Iraqi Kurds from possible attacks by Baghdad troops .,Baghdad is a location entity
+Saudi riyal rates steady in quiet summer trade .,Saudi is an other entity
+MANAMA 1996-08-22,MANAMA is a location entity
+"The spot Saudi riyal against the dollar and riyal interbank deposit rates were mainly steady this week in quiet summer trade , dealers in the kingdom said .",Saudi is an other entity
+""" There were no changes in Saudi riyal rates .",Saudi is an other entity
+"One-month interbank deposits were at 5-1/2 , 3/8 percent , three months were 5-5/8 , 1/2 percent and six months were 5-3/4 , 5/8 percent .",One-month is an other entity
+"One-year funds were at six , 5-7/8 percent .",One-year is an other entity
+Israel approves Arafat 's flight to West Bank .,Israel is a location entity
+Israel approves Arafat 's flight to West Bank .,Arafat is a person entity
+Israel approves Arafat 's flight to West Bank .,West Bank is a location entity
+JERUSALEM 1996-08-22,JERUSALEM is a location entity
+"Israel gave Palestinian President Yasser Arafat permission on Thursday to fly over its territory to the West Bank , ending a brief Israeli-PLO crisis , an Arafat adviser said .",Israel is a location entity
+"Israel gave Palestinian President Yasser Arafat permission on Thursday to fly over its territory to the West Bank , ending a brief Israeli-PLO crisis , an Arafat adviser said .",Palestinian is an other entity
+"Israel gave Palestinian President Yasser Arafat permission on Thursday to fly over its territory to the West Bank , ending a brief Israeli-PLO crisis , an Arafat adviser said .",Yasser Arafat is a person entity
+"Israel gave Palestinian President Yasser Arafat permission on Thursday to fly over its territory to the West Bank , ending a brief Israeli-PLO crisis , an Arafat adviser said .",West Bank is a location entity
+"Israel gave Palestinian President Yasser Arafat permission on Thursday to fly over its territory to the West Bank , ending a brief Israeli-PLO crisis , an Arafat adviser said .",Israeli-PLO is an other entity
+"Israel gave Palestinian President Yasser Arafat permission on Thursday to fly over its territory to the West Bank , ending a brief Israeli-PLO crisis , an Arafat adviser said .",Arafat is a person entity
+"The president 's aircraft has received permission to pass through Israeli airspace but the president is not expected to travel to the West Bank before Monday , "" Nabil Abu Rdainah told Reuters .",Israeli is an other entity
+"The president 's aircraft has received permission to pass through Israeli airspace but the president is not expected to travel to the West Bank before Monday , "" Nabil Abu Rdainah told Reuters .",West Bank is a location entity
+"The president 's aircraft has received permission to pass through Israeli airspace but the president is not expected to travel to the West Bank before Monday , "" Nabil Abu Rdainah told Reuters .",Nabil Abu Rdainah is a person entity
+"The president 's aircraft has received permission to pass through Israeli airspace but the president is not expected to travel to the West Bank before Monday , "" Nabil Abu Rdainah told Reuters .",Reuters is an organization entity
+Arafat had been scheduled to meet former Israeli prime minister Shimon Peres in the West Bank town of Ramallah on Thursday but the venue was changed to Gaza after Israel denied flight clearance to the Palestinian leader 's helicopters .,Arafat is a person entity
+Arafat had been scheduled to meet former Israeli prime minister Shimon Peres in the West Bank town of Ramallah on Thursday but the venue was changed to Gaza after Israel denied flight clearance to the Palestinian leader 's helicopters .,Israeli is an other entity
+Arafat had been scheduled to meet former Israeli prime minister Shimon Peres in the West Bank town of Ramallah on Thursday but the venue was changed to Gaza after Israel denied flight clearance to the Palestinian leader 's helicopters .,Shimon Peres is a person entity
+Arafat had been scheduled to meet former Israeli prime minister Shimon Peres in the West Bank town of Ramallah on Thursday but the venue was changed to Gaza after Israel denied flight clearance to the Palestinian leader 's helicopters .,West Bank is a location entity
+Arafat had been scheduled to meet former Israeli prime minister Shimon Peres in the West Bank town of Ramallah on Thursday but the venue was changed to Gaza after Israel denied flight clearance to the Palestinian leader 's helicopters .,Ramallah is a location entity
+Arafat had been scheduled to meet former Israeli prime minister Shimon Peres in the West Bank town of Ramallah on Thursday but the venue was changed to Gaza after Israel denied flight clearance to the Palestinian leader 's helicopters .,Gaza is a location entity
+Arafat had been scheduled to meet former Israeli prime minister Shimon Peres in the West Bank town of Ramallah on Thursday but the venue was changed to Gaza after Israel denied flight clearance to the Palestinian leader 's helicopters .,Israel is a location entity
+Arafat had been scheduled to meet former Israeli prime minister Shimon Peres in the West Bank town of Ramallah on Thursday but the venue was changed to Gaza after Israel denied flight clearance to the Palestinian leader 's helicopters .,Palestinian is an other entity
+Palestinian officials accused right-wing Prime Minister Benjamin Netanyahu of trying to stop the Ramallah meeting by keeping Arafat grounded .,Palestinian is an other entity
+Palestinian officials accused right-wing Prime Minister Benjamin Netanyahu of trying to stop the Ramallah meeting by keeping Arafat grounded .,Benjamin Netanyahu is a person entity
+Palestinian officials accused right-wing Prime Minister Benjamin Netanyahu of trying to stop the Ramallah meeting by keeping Arafat grounded .,Ramallah is a location entity
+Palestinian officials accused right-wing Prime Minister Benjamin Netanyahu of trying to stop the Ramallah meeting by keeping Arafat grounded .,Arafat is a person entity
+"Arafat subsequently cancelled a meeting between Israeli and PLO officials , on civilian affairs , at the Allenby Bridge crossing between Jordan and the West Bank .",Arafat is a person entity
+"Arafat subsequently cancelled a meeting between Israeli and PLO officials , on civilian affairs , at the Allenby Bridge crossing between Jordan and the West Bank .",Israeli is an other entity
+"Arafat subsequently cancelled a meeting between Israeli and PLO officials , on civilian affairs , at the Allenby Bridge crossing between Jordan and the West Bank .",PLO is an organization entity
+"Arafat subsequently cancelled a meeting between Israeli and PLO officials , on civilian affairs , at the Allenby Bridge crossing between Jordan and the West Bank .",Allenby Bridge is a location entity
+"Arafat subsequently cancelled a meeting between Israeli and PLO officials , on civilian affairs , at the Allenby Bridge crossing between Jordan and the West Bank .",Jordan is a location entity
+"Arafat subsequently cancelled a meeting between Israeli and PLO officials , on civilian affairs , at the Allenby Bridge crossing between Jordan and the West Bank .",West Bank is a location entity
+"Abu Rdainah said Arafat had decided against flying to the West Bank on Thursday , after Israel lifted the ban , because he had a busy schedule in Gaza and would not be free until Monday .",Abu Rdainah is a person entity
+"Abu Rdainah said Arafat had decided against flying to the West Bank on Thursday , after Israel lifted the ban , because he had a busy schedule in Gaza and would not be free until Monday .",Arafat is a person entity
+"Abu Rdainah said Arafat had decided against flying to the West Bank on Thursday , after Israel lifted the ban , because he had a busy schedule in Gaza and would not be free until Monday .",West Bank is a location entity
+"Abu Rdainah said Arafat had decided against flying to the West Bank on Thursday , after Israel lifted the ban , because he had a busy schedule in Gaza and would not be free until Monday .",Israel is a location entity
+"Abu Rdainah said Arafat had decided against flying to the West Bank on Thursday , after Israel lifted the ban , because he had a busy schedule in Gaza and would not be free until Monday .",Gaza is a location entity
+Arafat to meet Peres in Gaza after flight ban .,Arafat is a person entity
+Arafat to meet Peres in Gaza after flight ban .,Peres is a person entity
+Arafat to meet Peres in Gaza after flight ban .,Gaza is a location entity
+JERUSALEM 1996-08-22,JERUSALEM is a location entity
+Yasser Arafat will meet Shimon Peres in Gaza on Thursday after Palestinians said the right-wing Israeli government had barred the Palestinian leader from flying to the West Bank for talks with the former prime minister .,Yasser Arafat is a person entity
+Yasser Arafat will meet Shimon Peres in Gaza on Thursday after Palestinians said the right-wing Israeli government had barred the Palestinian leader from flying to the West Bank for talks with the former prime minister .,Shimon Peres is a person entity
+Yasser Arafat will meet Shimon Peres in Gaza on Thursday after Palestinians said the right-wing Israeli government had barred the Palestinian leader from flying to the West Bank for talks with the former prime minister .,Gaza is a location entity
+Yasser Arafat will meet Shimon Peres in Gaza on Thursday after Palestinians said the right-wing Israeli government had barred the Palestinian leader from flying to the West Bank for talks with the former prime minister .,Palestinians is an other entity
+Yasser Arafat will meet Shimon Peres in Gaza on Thursday after Palestinians said the right-wing Israeli government had barred the Palestinian leader from flying to the West Bank for talks with the former prime minister .,Israeli is an other entity
+Yasser Arafat will meet Shimon Peres in Gaza on Thursday after Palestinians said the right-wing Israeli government had barred the Palestinian leader from flying to the West Bank for talks with the former prime minister .,Palestinian is an other entity
+Yasser Arafat will meet Shimon Peres in Gaza on Thursday after Palestinians said the right-wing Israeli government had barred the Palestinian leader from flying to the West Bank for talks with the former prime minister .,West Bank is a location entity
+""" The meeting between Peres and Arafat will take place at Erez checkpoint in Gaza and not in Ramallah as planned , "" Peres ' office said .",Peres is a person entity
+""" The meeting between Peres and Arafat will take place at Erez checkpoint in Gaza and not in Ramallah as planned , "" Peres ' office said .",Arafat is a person entity
+""" The meeting between Peres and Arafat will take place at Erez checkpoint in Gaza and not in Ramallah as planned , "" Peres ' office said .",Erez is a location entity
+""" The meeting between Peres and Arafat will take place at Erez checkpoint in Gaza and not in Ramallah as planned , "" Peres ' office said .",Gaza is a location entity
+""" The meeting between Peres and Arafat will take place at Erez checkpoint in Gaza and not in Ramallah as planned , "" Peres ' office said .",Ramallah is a location entity
+Palestinian officials said the Israeli government had barred Arafat from overflying Israel in a Palestinian helicopter to the West Bank in an attempt to bar the meeting with Peres .,Palestinian is an other entity
+Palestinian officials said the Israeli government had barred Arafat from overflying Israel in a Palestinian helicopter to the West Bank in an attempt to bar the meeting with Peres .,Israeli is an other entity
+Palestinian officials said the Israeli government had barred Arafat from overflying Israel in a Palestinian helicopter to the West Bank in an attempt to bar the meeting with Peres .,Arafat is a person entity
+Palestinian officials said the Israeli government had barred Arafat from overflying Israel in a Palestinian helicopter to the West Bank in an attempt to bar the meeting with Peres .,Israel is a location entity
+Palestinian officials said the Israeli government had barred Arafat from overflying Israel in a Palestinian helicopter to the West Bank in an attempt to bar the meeting with Peres .,West Bank is a location entity
+Palestinian officials said the Israeli government had barred Arafat from overflying Israel in a Palestinian helicopter to the West Bank in an attempt to bar the meeting with Peres .,Peres is a person entity
+"Israeli Prime Minister Benjamin Netanyahu has accused opposition leader Peres , who he defeated in May elections , of trying to undermine his Likud government 's authority to conduct peace talks .",Israeli is an other entity
+"Israeli Prime Minister Benjamin Netanyahu has accused opposition leader Peres , who he defeated in May elections , of trying to undermine his Likud government 's authority to conduct peace talks .",Benjamin Netanyahu is a person entity
+"Israeli Prime Minister Benjamin Netanyahu has accused opposition leader Peres , who he defeated in May elections , of trying to undermine his Likud government 's authority to conduct peace talks .",Peres is a person entity
+"Israeli Prime Minister Benjamin Netanyahu has accused opposition leader Peres , who he defeated in May elections , of trying to undermine his Likud government 's authority to conduct peace talks .",Likud is an organization entity
+Afghan UAE embassy says Taleban guards going home .,Afghan is an other entity
+Afghan UAE embassy says Taleban guards going home .,UAE is a location entity
+Afghan UAE embassy says Taleban guards going home .,Taleban is an other entity
+Hilary Gush,Hilary Gush is a person entity
+DUBAI 1996-08-22,DUBAI is a location entity
+"Three Afghan guards brought to the United Arab Emirates last week by Russian hostages who escaped from the Taleban militia will return to Afghanistan in a few days , the Afghan embassy in Abu Dhabi said on Thursday .",Afghan is an other entity
+"Three Afghan guards brought to the United Arab Emirates last week by Russian hostages who escaped from the Taleban militia will return to Afghanistan in a few days , the Afghan embassy in Abu Dhabi said on Thursday .",United Arab Emirates is a location entity
+"Three Afghan guards brought to the United Arab Emirates last week by Russian hostages who escaped from the Taleban militia will return to Afghanistan in a few days , the Afghan embassy in Abu Dhabi said on Thursday .",Russian is an other entity
+"Three Afghan guards brought to the United Arab Emirates last week by Russian hostages who escaped from the Taleban militia will return to Afghanistan in a few days , the Afghan embassy in Abu Dhabi said on Thursday .",Taleban is an other entity
+"Three Afghan guards brought to the United Arab Emirates last week by Russian hostages who escaped from the Taleban militia will return to Afghanistan in a few days , the Afghan embassy in Abu Dhabi said on Thursday .",Afghanistan is a location entity
+"Three Afghan guards brought to the United Arab Emirates last week by Russian hostages who escaped from the Taleban militia will return to Afghanistan in a few days , the Afghan embassy in Abu Dhabi said on Thursday .",Abu Dhabi is a location entity
+""" Our ambassador is in touch with the UAE foreign ministry .",UAE is a location entity
+"Their return to Afghanistan will take place in two or three days , "" an embassy official said .",Afghanistan is a location entity
+The three Islamic Taleban guards were overpowered by seven Russian aircrew who escaped to UAE state Sharjah last Friday on board their own aircraft after a year in the captivity of Taleban militia in Kandahar in southern Afghanistan .,Islamic Taleban is an other entity
+The three Islamic Taleban guards were overpowered by seven Russian aircrew who escaped to UAE state Sharjah last Friday on board their own aircraft after a year in the captivity of Taleban militia in Kandahar in southern Afghanistan .,Russian is an other entity
+The three Islamic Taleban guards were overpowered by seven Russian aircrew who escaped to UAE state Sharjah last Friday on board their own aircraft after a year in the captivity of Taleban militia in Kandahar in southern Afghanistan .,UAE is a location entity
+The three Islamic Taleban guards were overpowered by seven Russian aircrew who escaped to UAE state Sharjah last Friday on board their own aircraft after a year in the captivity of Taleban militia in Kandahar in southern Afghanistan .,Sharjah is a location entity
+The three Islamic Taleban guards were overpowered by seven Russian aircrew who escaped to UAE state Sharjah last Friday on board their own aircraft after a year in the captivity of Taleban militia in Kandahar in southern Afghanistan .,Taleban is an other entity
+The three Islamic Taleban guards were overpowered by seven Russian aircrew who escaped to UAE state Sharjah last Friday on board their own aircraft after a year in the captivity of Taleban militia in Kandahar in southern Afghanistan .,Kandahar is a location entity
+The three Islamic Taleban guards were overpowered by seven Russian aircrew who escaped to UAE state Sharjah last Friday on board their own aircraft after a year in the captivity of Taleban militia in Kandahar in southern Afghanistan .,Afghanistan is a location entity
+"The UAE said on Monday it would hand over the three to the International Red Crescent , possibly last Tuesday .",UAE is a location entity
+"The UAE said on Monday it would hand over the three to the International Red Crescent , possibly last Tuesday .",International Red Crescent is an organization entity
+"When asked whether the three guards would travel back to Kandahar or the Afghan capital Kabul , the embassy official said : "" That has not been decided , but possibly Kandahar . """,Kandahar is a location entity
+"When asked whether the three guards would travel back to Kandahar or the Afghan capital Kabul , the embassy official said : "" That has not been decided , but possibly Kandahar . """,Afghan is an other entity
+"When asked whether the three guards would travel back to Kandahar or the Afghan capital Kabul , the embassy official said : "" That has not been decided , but possibly Kandahar . """,Kabul is a location entity
+Kandahar is the headquarters of the opposition Taleban militia .,Kandahar is a location entity
+Kandahar is the headquarters of the opposition Taleban militia .,Taleban is an other entity
+"Kabul is controlled by President Burhanuddin Rabbani 's government , which Taleban is fighting to overthrow .",Kabul is a location entity
+"Kabul is controlled by President Burhanuddin Rabbani 's government , which Taleban is fighting to overthrow .",Burhanuddin Rabbani is a person entity
+"Kabul is controlled by President Burhanuddin Rabbani 's government , which Taleban is fighting to overthrow .",Taleban is an other entity
+"The embassy official said the three men , believed to be in their 20s , were currently in Abu Dhabi .",Abu Dhabi is a location entity
+"The Russians , working for the Aerostan firm in the Russian republic of Tatarstan , were taken hostage after a Taleban MiG-19 fighter forced their cargo plane to land in August 1995 .",Russians is an other entity
+"The Russians , working for the Aerostan firm in the Russian republic of Tatarstan , were taken hostage after a Taleban MiG-19 fighter forced their cargo plane to land in August 1995 .",Aerostan is an organization entity
+"The Russians , working for the Aerostan firm in the Russian republic of Tatarstan , were taken hostage after a Taleban MiG-19 fighter forced their cargo plane to land in August 1995 .",Russian is an other entity
+"The Russians , working for the Aerostan firm in the Russian republic of Tatarstan , were taken hostage after a Taleban MiG-19 fighter forced their cargo plane to land in August 1995 .",Tatarstan is a location entity
+"The Russians , working for the Aerostan firm in the Russian republic of Tatarstan , were taken hostage after a Taleban MiG-19 fighter forced their cargo plane to land in August 1995 .",Taleban is an other entity
+"The Russians , working for the Aerostan firm in the Russian republic of Tatarstan , were taken hostage after a Taleban MiG-19 fighter forced their cargo plane to land in August 1995 .",MiG-19 is an other entity
+Taleban said its shipment of ammunition from Albania was evidence of Russian military support for Rabbani 's government .,Taleban is an other entity
+Taleban said its shipment of ammunition from Albania was evidence of Russian military support for Rabbani 's government .,Albania is a location entity
+Taleban said its shipment of ammunition from Albania was evidence of Russian military support for Rabbani 's government .,Russian is an other entity
+Taleban said its shipment of ammunition from Albania was evidence of Russian military support for Rabbani 's government .,Rabbani is a person entity
+Moscow said the crew 's nationality was coincidental .,Moscow is a location entity
+"The Russians , who said they overpowered the guards -- two armed with Kalashnikov automatic rifles -- while doing regular maintenance work on their Ilyushin 76 cargo plane last Friday , left the UAE capital Abu Dhabi for home on Sunday .",Russians is an other entity
+"The Russians , who said they overpowered the guards -- two armed with Kalashnikov automatic rifles -- while doing regular maintenance work on their Ilyushin 76 cargo plane last Friday , left the UAE capital Abu Dhabi for home on Sunday .",Kalashnikov is an other entity
+"The Russians , who said they overpowered the guards -- two armed with Kalashnikov automatic rifles -- while doing regular maintenance work on their Ilyushin 76 cargo plane last Friday , left the UAE capital Abu Dhabi for home on Sunday .",Ilyushin 76 is an other entity
+"The Russians , who said they overpowered the guards -- two armed with Kalashnikov automatic rifles -- while doing regular maintenance work on their Ilyushin 76 cargo plane last Friday , left the UAE capital Abu Dhabi for home on Sunday .",UAE is a location entity
+"The Russians , who said they overpowered the guards -- two armed with Kalashnikov automatic rifles -- while doing regular maintenance work on their Ilyushin 76 cargo plane last Friday , left the UAE capital Abu Dhabi for home on Sunday .",Abu Dhabi is a location entity
+Iraq 's Saddam meets Russia 's Zhirinovsky .,Iraq is a location entity
+Iraq 's Saddam meets Russia 's Zhirinovsky .,Saddam is a person entity
+Iraq 's Saddam meets Russia 's Zhirinovsky .,Russia is a location entity
+Iraq 's Saddam meets Russia 's Zhirinovsky .,Zhirinovsky is a person entity
+BAGHDAD 1996-08-22,BAGHDAD is a location entity
+"Iraqi President Saddam Hussein has told visiting Russian ultra-nationalist Vladimir Zhirinovsky that Baghdad wanted to maintain "" friendship and cooperation "" with Moscow , official Iraqi newspapers said on Thursday .",Iraqi is an other entity
+"Iraqi President Saddam Hussein has told visiting Russian ultra-nationalist Vladimir Zhirinovsky that Baghdad wanted to maintain "" friendship and cooperation "" with Moscow , official Iraqi newspapers said on Thursday .",Saddam Hussein is a person entity
+"Iraqi President Saddam Hussein has told visiting Russian ultra-nationalist Vladimir Zhirinovsky that Baghdad wanted to maintain "" friendship and cooperation "" with Moscow , official Iraqi newspapers said on Thursday .",Russian is an other entity
+"Iraqi President Saddam Hussein has told visiting Russian ultra-nationalist Vladimir Zhirinovsky that Baghdad wanted to maintain "" friendship and cooperation "" with Moscow , official Iraqi newspapers said on Thursday .",Vladimir Zhirinovsky is a person entity
+"Iraqi President Saddam Hussein has told visiting Russian ultra-nationalist Vladimir Zhirinovsky that Baghdad wanted to maintain "" friendship and cooperation "" with Moscow , official Iraqi newspapers said on Thursday .",Baghdad is a location entity
+"Iraqi President Saddam Hussein has told visiting Russian ultra-nationalist Vladimir Zhirinovsky that Baghdad wanted to maintain "" friendship and cooperation "" with Moscow , official Iraqi newspapers said on Thursday .",Moscow is a location entity
+""" President Saddam Hussein stressed during the meeting Iraq 's keenness to maintain friendship and cooperation with Russia , "" the papers said .",Saddam Hussein is a person entity
+""" President Saddam Hussein stressed during the meeting Iraq 's keenness to maintain friendship and cooperation with Russia , "" the papers said .",Iraq is a location entity
+""" President Saddam Hussein stressed during the meeting Iraq 's keenness to maintain friendship and cooperation with Russia , "" the papers said .",Russia is a location entity
+"They said Zhirinovsky told Saddam before he left Baghdad on Wednesday that his Liberal Democratic party and the Russian Duma ( parliament ) "" are calling for an immediate lifting of the embargo "" imposed on Iraq after its 1990 invasion of Kuwait .",Zhirinovsky is a person entity
+"They said Zhirinovsky told Saddam before he left Baghdad on Wednesday that his Liberal Democratic party and the Russian Duma ( parliament ) "" are calling for an immediate lifting of the embargo "" imposed on Iraq after its 1990 invasion of Kuwait .",Saddam is a person entity
+"They said Zhirinovsky told Saddam before he left Baghdad on Wednesday that his Liberal Democratic party and the Russian Duma ( parliament ) "" are calling for an immediate lifting of the embargo "" imposed on Iraq after its 1990 invasion of Kuwait .",Baghdad is a location entity
+"They said Zhirinovsky told Saddam before he left Baghdad on Wednesday that his Liberal Democratic party and the Russian Duma ( parliament ) "" are calling for an immediate lifting of the embargo "" imposed on Iraq after its 1990 invasion of Kuwait .",Liberal Democratic party is an organization entity
+"They said Zhirinovsky told Saddam before he left Baghdad on Wednesday that his Liberal Democratic party and the Russian Duma ( parliament ) "" are calling for an immediate lifting of the embargo "" imposed on Iraq after its 1990 invasion of Kuwait .",Russian is an other entity
+"They said Zhirinovsky told Saddam before he left Baghdad on Wednesday that his Liberal Democratic party and the Russian Duma ( parliament ) "" are calling for an immediate lifting of the embargo "" imposed on Iraq after its 1990 invasion of Kuwait .",Duma is an organization entity
+"They said Zhirinovsky told Saddam before he left Baghdad on Wednesday that his Liberal Democratic party and the Russian Duma ( parliament ) "" are calling for an immediate lifting of the embargo "" imposed on Iraq after its 1990 invasion of Kuwait .",Iraq is a location entity
+"They said Zhirinovsky told Saddam before he left Baghdad on Wednesday that his Liberal Democratic party and the Russian Duma ( parliament ) "" are calling for an immediate lifting of the embargo "" imposed on Iraq after its 1990 invasion of Kuwait .",Kuwait is a location entity
+Zhirinovsky said on Tuesday he would press the Russian government to help end U.N. trade sanctions on Iraq and blamed Moscow for delaying establishment of good ties with Baghdad .,Zhirinovsky is a person entity
+Zhirinovsky said on Tuesday he would press the Russian government to help end U.N. trade sanctions on Iraq and blamed Moscow for delaying establishment of good ties with Baghdad .,Russian is an other entity
+Zhirinovsky said on Tuesday he would press the Russian government to help end U.N. trade sanctions on Iraq and blamed Moscow for delaying establishment of good ties with Baghdad .,U.N. is an organization entity
+Zhirinovsky said on Tuesday he would press the Russian government to help end U.N. trade sanctions on Iraq and blamed Moscow for delaying establishment of good ties with Baghdad .,Iraq is a location entity
+Zhirinovsky said on Tuesday he would press the Russian government to help end U.N. trade sanctions on Iraq and blamed Moscow for delaying establishment of good ties with Baghdad .,Moscow is a location entity
+Zhirinovsky said on Tuesday he would press the Russian government to help end U.N. trade sanctions on Iraq and blamed Moscow for delaying establishment of good ties with Baghdad .,Baghdad is a location entity
+""" Our stand is firm , namely we are calling on ( the Russian ) government to end the economic embargo on Iraq and resume trade ties between Russia and Iraq , "" he told reporters .",Russian is an other entity
+""" Our stand is firm , namely we are calling on ( the Russian ) government to end the economic embargo on Iraq and resume trade ties between Russia and Iraq , "" he told reporters .",Iraq is a location entity
+""" Our stand is firm , namely we are calling on ( the Russian ) government to end the economic embargo on Iraq and resume trade ties between Russia and Iraq , "" he told reporters .",Russia is a location entity
+Zhirinovsky visited Iraq twice in 1995 .,Zhirinovsky is a person entity
+Zhirinovsky visited Iraq twice in 1995 .,Iraq is a location entity
+"Last October he was invited to attend the referendum held on Iraq 's presidency , which extended Saddam 's term for seven more years .",Iraq is a location entity
+"Last October he was invited to attend the referendum held on Iraq 's presidency , which extended Saddam 's term for seven more years .",Saddam is a person entity
+PRESS DIGEST - Iraq - Aug 22 .,Iraq is a location entity
+BAGHDAD 1996-08-22,BAGHDAD is a location entity
+These are some of the leading stories in the official Iraqi press on Thursday .,Iraqi is an other entity
+Reuters has not verified these stories and does not vouch for their accuracy .,Reuters is an organization entity
+THAWRA,THAWRA is an organization entity
+- Iraq 's President Saddam Hussein meets with chairman of the Russian liberal democratic party Vladimir Zhirinovsky .,Iraq is a location entity
+- Iraq 's President Saddam Hussein meets with chairman of the Russian liberal democratic party Vladimir Zhirinovsky .,Saddam Hussein is a person entity
+- Iraq 's President Saddam Hussein meets with chairman of the Russian liberal democratic party Vladimir Zhirinovsky .,Russian is an other entity
+- Iraq 's President Saddam Hussein meets with chairman of the Russian liberal democratic party Vladimir Zhirinovsky .,Vladimir Zhirinovsky is a person entity
+- Turkish foreign minister says Turkey will take part in the Baghdad trade fair that will be held in November .,Turkish is an other entity
+- Turkish foreign minister says Turkey will take part in the Baghdad trade fair that will be held in November .,Turkey is a location entity
+- Turkish foreign minister says Turkey will take part in the Baghdad trade fair that will be held in November .,Baghdad is a location entity
+IRAQ,IRAQ is a location entity
+- A shipload of 12 tonnes of rice arrives in Umm Qasr port in the Gulf .,Umm Qasr is a location entity
+- A shipload of 12 tonnes of rice arrives in Umm Qasr port in the Gulf .,Gulf is a location entity
+PRESS DIGEST - Lebanon - Aug 22 .,Lebanon is a location entity
+BEIRUT 1996-08-22,BEIRUT is a location entity
+These are the leading stories in the Beirut press on Thursday .,Beirut is a location entity
+Reuters has not verified these stories and does not vouch for their accuracy .,Reuters is an organization entity
+AN-NAHAR,AN-NAHAR is an organization entity
+- Confrontation is escalating between Hizbollah and the government .,Hizbollah is an organization entity
+- Prime Minister Hariri : Israeli threats do no serve peace .,Hariri is a person entity
+- Prime Minister Hariri : Israeli threats do no serve peace .,Israeli is an other entity
+AS-SAFIR,AS-SAFIR is an organization entity
+- Parliament Speaker Berri : Israel is preparing for war against Syria and Lebanon .,Berri is a person entity
+- Parliament Speaker Berri : Israel is preparing for war against Syria and Lebanon .,Israel is a location entity
+- Parliament Speaker Berri : Israel is preparing for war against Syria and Lebanon .,Syria is a location entity
+- Parliament Speaker Berri : Israel is preparing for war against Syria and Lebanon .,Lebanon is a location entity
+- Parliamentary battle in Beirut ..,Beirut is a location entity
+AL-ANWAR,AL-ANWAR is an organization entity
+- Continued criticism of law violation incidents -- which occurred in the Mount Lebanon elections last Sunday .,Mount Lebanon is a location entity
+AD-DIYAR,AD-DIYAR is an organization entity
+- Financial negotiations between Lebanon and Pakistan .,Lebanon is a location entity
+- Financial negotiations between Lebanon and Pakistan .,Pakistan is a location entity
+- Hariri to step into the election battle with an incomplete list .,Hariri is a person entity
+NIDA'A AL-WATAN,NIDA'A AL-WATAN is an organization entity
+- Maronite Patriarch Sfeir expressed sorrow over the violations in Sunday ' elections .,Maronite is an organization entity
+- Maronite Patriarch Sfeir expressed sorrow over the violations in Sunday ' elections .,Sfeir is a person entity
+CME live and feeder cattle calls range mixed .,CME is an organization entity
+CHICAGO 1996-08-22,CHICAGO is a location entity
+"Early calls on CME live and feeder cattle futures ranged from 0.200 cent higher to 0.100 lower , livestock analysts said .",CME is an organization entity
+"MONTGOMERY , Ala .",MONTGOMERY is a location entity
+"MONTGOMERY , Ala .",Ala is a location entity
+KinderCare Learning Centers Inc said on Thursday that a debt buyback would mean an extraordinary loss of $ 1.2 million in its fiscal 1997 first quarter .,KinderCare Learning Centers Inc is an organization entity
+"Philip Maslowe , chief financial officer of the preschool and child care company , said the buyback "" offered an opportunity to reduce the company 's weighted average interest costs and improve future cash flows and earnings . """,Philip Maslowe is a person entity
+RESEARCH ALERT - Lehman starts SNET .,Lehman is an organization entity
+RESEARCH ALERT - Lehman starts SNET .,SNET is an organization entity
+"-- Lehman analyst Blake Bath started Southern New England Telecommunciations Corp with an outperform rating , his office said .",Lehman is an organization entity
+"-- Lehman analyst Blake Bath started Southern New England Telecommunciations Corp with an outperform rating , his office said .",Blake Bath is a person entity
+"-- Lehman analyst Blake Bath started Southern New England Telecommunciations Corp with an outperform rating , his office said .",Southern New England Telecommunciations Corp is an organization entity
+-- Southern New England closed at 38-1/2 Wednesday .,Southern New England is an organization entity
+"-- E. Auchard , Wall Street bureau , 212-859-1736",E. Auchard is a person entity
+"-- E. Auchard , Wall Street bureau , 212-859-1736",Wall Street bureau is an organization entity
+Gateway Data Sciences Q2 net rises .,Gateway Data Sciences is an organization entity
+PHOENIX 1996-08-22,PHOENIX is a location entity
+Summary of Consolidated Financial Data,Consolidated Financial Data is an organization entity
+Greek socialists give PM green light for election .,Greek is an other entity
+ATHENS 1996-08-22,ATHENS is a location entity
+"The Greek socialist party 's executive bureau gave Prime Minister Costas Simitis its backing if he chooses to call snap elections , its general secretary Costas Skandalidis told reporters on Thursday .",Greek is an other entity
+"The Greek socialist party 's executive bureau gave Prime Minister Costas Simitis its backing if he chooses to call snap elections , its general secretary Costas Skandalidis told reporters on Thursday .",Costas Simitis is a person entity
+"The Greek socialist party 's executive bureau gave Prime Minister Costas Simitis its backing if he chooses to call snap elections , its general secretary Costas Skandalidis told reporters on Thursday .",Costas Skandalidis is a person entity
+"Prime Minister Costas Simitis will make an official announcement after a cabinet meeting later on Thursday , said Skandalidis .",Costas Simitis is a person entity
+"Prime Minister Costas Simitis will make an official announcement after a cabinet meeting later on Thursday , said Skandalidis .",Skandalidis is a person entity
+"-- Dimitris Kontogiannis , Athens Newsroom +301 3311812-4",Dimitris Kontogiannis is a person entity
+"-- Dimitris Kontogiannis , Athens Newsroom +301 3311812-4",Athens Newsroom is an organization entity
+PRESS DIGEST - France - Le Monde Aug 22 .,France is a location entity
+PRESS DIGEST - France - Le Monde Aug 22 .,Le Monde is an organization entity
+PARIS 1996-08-22,PARIS is a location entity
+"These are leading stories in Thursday 's afternoon daily Le Monde , dated Aug 23 .",Le Monde is an organization entity
+"-- Africans seeking to renew or obtain work and residence rights say Prime Minister Alain Juppe 's proposals are insufficient as hunger strike enters 49th day in Paris church and Wednesday rally attracts 8,000 sympathisers .",Africans is an other entity
+"-- Africans seeking to renew or obtain work and residence rights say Prime Minister Alain Juppe 's proposals are insufficient as hunger strike enters 49th day in Paris church and Wednesday rally attracts 8,000 sympathisers .",Alain Juppe is a person entity
+"-- Africans seeking to renew or obtain work and residence rights say Prime Minister Alain Juppe 's proposals are insufficient as hunger strike enters 49th day in Paris church and Wednesday rally attracts 8,000 sympathisers .",Paris is a location entity
+-- FLNC Corsican nationalist movement announces end of truce after last night 's attacks .,FLNC is an organization entity
+-- FLNC Corsican nationalist movement announces end of truce after last night 's attacks .,Corsican is an other entity
+"-- Shutdown of Bally 's French factories points up shoe industry crisis , with French manufacturers undercut by low-wage country competition and failure to keep abreast of trends .",Bally is an organization entity
+"-- Shutdown of Bally 's French factories points up shoe industry crisis , with French manufacturers undercut by low-wage country competition and failure to keep abreast of trends .",French is an other entity
+-- Secretary general of the Sud-PTT trade union at France Telecom all the elements are in place for social unrest in the next few weeks .,Sud-PTT is an other entity
+-- Secretary general of the Sud-PTT trade union at France Telecom all the elements are in place for social unrest in the next few weeks .,France Telecom is an organization entity
+-- Paris Newsroom +33 1 42 21 53 81,Paris Newsroom is an organization entity
+Well repairs to lift Heidrun oil output - Statoil .,Heidrun is a location entity
+Well repairs to lift Heidrun oil output - Statoil .,Statoil is an organization entity
+OSLO 1996-08-22,OSLO is a location entity
+"Three plugged water injection wells on the Heidrun oilfield off mid-Norway will be reopened over the next month , operator Den Norske Stats Oljeselskap AS ( Statoil ) said on Thursday .",Heidrun is a location entity
+"Three plugged water injection wells on the Heidrun oilfield off mid-Norway will be reopened over the next month , operator Den Norske Stats Oljeselskap AS ( Statoil ) said on Thursday .",mid-Norway is an other entity
+"Three plugged water injection wells on the Heidrun oilfield off mid-Norway will be reopened over the next month , operator Den Norske Stats Oljeselskap AS ( Statoil ) said on Thursday .",Den Norske Stats Oljeselskap AS is an organization entity
+"Three plugged water injection wells on the Heidrun oilfield off mid-Norway will be reopened over the next month , operator Den Norske Stats Oljeselskap AS ( Statoil ) said on Thursday .",Statoil is an organization entity
+"The plugged wells have accounted for a dip of 30,000 barrels per day ( bpd ) in Heidrun output to roughly 220,000 bpd , according to the company 's Status Weekly newsletter .",Heidrun is a location entity
+"The plugged wells have accounted for a dip of 30,000 barrels per day ( bpd ) in Heidrun output to roughly 220,000 bpd , according to the company 's Status Weekly newsletter .",Status Weekly is an organization entity
+-- Oslo newsroom +47 22 42 50 41,Oslo is a location entity
+Finnish April trade surplus 3.8 billion markka - NCB .,Finnish is an other entity
+Finnish April trade surplus 3.8 billion markka - NCB .,NCB is an organization entity
+HELSINKI 1996-08-22,HELSINKI is a location entity
+"Finland 's trade surplus rose to 3.83 billion markka in April from 3.43 billion in March , the National Customs Board ( NCB ) said in a statement on Thursday .",Finland is a location entity
+"Finland 's trade surplus rose to 3.83 billion markka in April from 3.43 billion in March , the National Customs Board ( NCB ) said in a statement on Thursday .",National Customs Board is an organization entity
+"Finland 's trade surplus rose to 3.83 billion markka in April from 3.43 billion in March , the National Customs Board ( NCB ) said in a statement on Thursday .",NCB is an organization entity
+"The value of exports fell one percent year-on-year in April and the value of imports fell two percent , NCB said .",NCB is an organization entity
+The Bank of Finland earlier estimated the April trade surplus at 3.2 billion markka with exports projected at 14.5 billion and imports at 11.3 billion .,Bank of Finland is an organization entity
+The NCB 's official monthly trade statistics are lagging behind due to changes in customs procedures when Finland joined the European Union at the start of 1995 .,NCB is an organization entity
+The NCB 's official monthly trade statistics are lagging behind due to changes in customs procedures when Finland joined the European Union at the start of 1995 .,Finland is a location entity
+The NCB 's official monthly trade statistics are lagging behind due to changes in customs procedures when Finland joined the European Union at the start of 1995 .,European Union is an organization entity
+-- Helsinki Newsroom +358 - 0 - 680 50 245,Helsinki Newsroom is an organization entity
+Dutch state raises tap sale price to 99.95 .,Dutch is an other entity
+AMSTERDAM 1996-08-22,AMSTERDAM is a location entity
+The Finance Ministry raised the price for tap sales of the Dutch government 's new 5.75 percent bond due September 2002 to 99.95 from 99.90 .,Finance Ministry is an organization entity
+The Finance Ministry raised the price for tap sales of the Dutch government 's new 5.75 percent bond due September 2002 to 99.95 from 99.90 .,Dutch is an other entity
+Tap sales began on Monday and are being held daily from 07.00 GMT to 15.00 GMT until further notice .,GMT is an other entity
+-- Amsterdam newsroom +31 20 504 5000,Amsterdam is a location entity
+German farm ministry tells consumers to avoid British mutton .,German is an other entity
+German farm ministry tells consumers to avoid British mutton .,British is an other entity
+BONN 1996-08-22,BONN is a location entity
+Germany 's Agriculture Ministry suggested on Wednesday that consumers avoid eating meat from British sheep until scientists determine whether mad cow disease can be transmitted to the animals .,Germany is a location entity
+Germany 's Agriculture Ministry suggested on Wednesday that consumers avoid eating meat from British sheep until scientists determine whether mad cow disease can be transmitted to the animals .,Agriculture Ministry is an organization entity
+Germany 's Agriculture Ministry suggested on Wednesday that consumers avoid eating meat from British sheep until scientists determine whether mad cow disease can be transmitted to the animals .,British is an other entity
+""" Until this is cleared up by the European Union 's scientific panels -- and we have asked this to be done as quickly as possible -- ( consumers ) should if at all possible give preference to sheepmeat from other countries , "" ministry official Werner Zwingmann told ZDF television .",European Union is an organization entity
+""" Until this is cleared up by the European Union 's scientific panels -- and we have asked this to be done as quickly as possible -- ( consumers ) should if at all possible give preference to sheepmeat from other countries , "" ministry official Werner Zwingmann told ZDF television .",Werner Zwingmann is a person entity
+""" Until this is cleared up by the European Union 's scientific panels -- and we have asked this to be done as quickly as possible -- ( consumers ) should if at all possible give preference to sheepmeat from other countries , "" ministry official Werner Zwingmann told ZDF television .",ZDF is an organization entity
+"Bonn has led efforts to ensure consumer protection tops the list of priorities in dealing with the mad cow crisis , which erupted in March when Britain acknowledged humans could contract a similar illness by eating contaminated beef .",Bonn is a location entity
+"Bonn has led efforts to ensure consumer protection tops the list of priorities in dealing with the mad cow crisis , which erupted in March when Britain acknowledged humans could contract a similar illness by eating contaminated beef .",Britain is a location entity
+The European Commission agreed this month to rethink a proposal to ban the use of suspect sheep tissue after some EU veterinary experts questioned whether it was justified .,European Commission is an organization entity
+The European Commission agreed this month to rethink a proposal to ban the use of suspect sheep tissue after some EU veterinary experts questioned whether it was justified .,EU is an organization entity
+"EU Farm Commissioner Franz Fischler had proposed banning sheep brains , spleens and spinal cords from the human and animal food chains after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .",EU is an organization entity
+"EU Farm Commissioner Franz Fischler had proposed banning sheep brains , spleens and spinal cords from the human and animal food chains after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .",Franz Fischler is a person entity
+"EU Farm Commissioner Franz Fischler had proposed banning sheep brains , spleens and spinal cords from the human and animal food chains after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .",Britain is a location entity
+"EU Farm Commissioner Franz Fischler had proposed banning sheep brains , spleens and spinal cords from the human and animal food chains after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .",France is a location entity
+"EU Farm Commissioner Franz Fischler had proposed banning sheep brains , spleens and spinal cords from the human and animal food chains after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .",Bovine Spongiform Encephalopathy is an other entity
+"EU Farm Commissioner Franz Fischler had proposed banning sheep brains , spleens and spinal cords from the human and animal food chains after reports from Britain and France that under laboratory conditions sheep could contract Bovine Spongiform Encephalopathy ( BSE ) -- mad cow disease .",BSE is an other entity
+But some members of the EU 's standing veterinary committee questioned whether the action was necessary given the slight risk to human health .,EU is an organization entity
+The question is being studied separately by two EU scientific committees .,EU is an organization entity
+"Sheep have long been known to contract scrapie , a similar brain-wasting disease to BSE which is believed to have been transferred to cattle through feed containing animal waste .",BSE is an other entity
+British officials say sheep meat is perfectly safe to eat .,British is an other entity
+"ZDF said Germany imported 47,600 sheep from Britain last year , nearly half of total imports .",ZDF is an organization entity
+"ZDF said Germany imported 47,600 sheep from Britain last year , nearly half of total imports .",Germany is a location entity
+"ZDF said Germany imported 47,600 sheep from Britain last year , nearly half of total imports .",Britain is a location entity
+"It brought in 4,275 tonnes of British mutton , some 10 percent of overall imports .",British is an other entity
+"After the British government admitted a possible link between mad cow disease and its fatal human equivalent , the EU imposed a worldwide ban on British beef exports .",British is an other entity
+"After the British government admitted a possible link between mad cow disease and its fatal human equivalent , the EU imposed a worldwide ban on British beef exports .",EU is an organization entity
+EU leaders agreed at a summit in June to a progressive lifting of the ban as Britain takes parallel measures to eradicate the disease .,EU is an organization entity
+EU leaders agreed at a summit in June to a progressive lifting of the ban as Britain takes parallel measures to eradicate the disease .,Britain is a location entity
+GOLF - SCORES AT WORLD SERIES OF GOLF .,WORLD SERIES OF GOLF is an other entity
+"AKRON , Ohio 1996-08-22",AKRON is a location entity
+"AKRON , Ohio 1996-08-22",Ohio is a location entity
+million NEC World Series of Golf after the first round,NEC World Series of Golf is an other entity
+"Thursday at the 7,149 yard , par 70 Firestone C.C course",Firestone C.C is a location entity
+( players U.S. unless stated ) :,U.S. is a location entity
+"66 Paul Goydos , Billy Mayfair , Hidemichi Tanaka ( Japan )",Paul Goydos is a person entity
+"66 Paul Goydos , Billy Mayfair , Hidemichi Tanaka ( Japan )",Billy Mayfair is a person entity
+"66 Paul Goydos , Billy Mayfair , Hidemichi Tanaka ( Japan )",Hidemichi Tanaka is a person entity
+"66 Paul Goydos , Billy Mayfair , Hidemichi Tanaka ( Japan )",Japan is a location entity
+68 Steve Stricker,Steve Stricker is a person entity
+"69 Justin Leonard , Mark Brooks",Justin Leonard is a person entity
+"69 Justin Leonard , Mark Brooks",Mark Brooks is a person entity
+"70 Tim Herron , Duffy Waldorf , Davis Love , Anders Forsbrand",Tim Herron is a person entity
+"70 Tim Herron , Duffy Waldorf , Davis Love , Anders Forsbrand",Duffy Waldorf is a person entity
+"70 Tim Herron , Duffy Waldorf , Davis Love , Anders Forsbrand",Davis Love is a person entity
+"70 Tim Herron , Duffy Waldorf , Davis Love , Anders Forsbrand",Anders Forsbrand is a person entity
+"( Sweden ) , Nick Faldo ( Britain ) , John Cook , Steve Jones , Phil",Sweden is a location entity
+"( Sweden ) , Nick Faldo ( Britain ) , John Cook , Steve Jones , Phil",Nick Faldo is a person entity
+"( Sweden ) , Nick Faldo ( Britain ) , John Cook , Steve Jones , Phil",Britain is a location entity
+"( Sweden ) , Nick Faldo ( Britain ) , John Cook , Steve Jones , Phil",John Cook is a person entity
+"( Sweden ) , Nick Faldo ( Britain ) , John Cook , Steve Jones , Phil",Steve Jones is a person entity
+"( Sweden ) , Nick Faldo ( Britain ) , John Cook , Steve Jones , Phil",Phil is a person entity
+"Mickelson , Greg Norman ( Australia )",Mickelson is a person entity
+"Mickelson , Greg Norman ( Australia )",Greg Norman is a person entity
+"Mickelson , Greg Norman ( Australia )",Australia is a location entity
+"71 Ernie Els ( South Africa ) , Scott Hoch",Ernie Els is a person entity
+"71 Ernie Els ( South Africa ) , Scott Hoch",South Africa is a location entity
+"71 Ernie Els ( South Africa ) , Scott Hoch",Scott Hoch is a person entity
+"72 Clarence Rose , Loren Roberts , Fred Funk , Sven Struver",Clarence Rose is a person entity
+"72 Clarence Rose , Loren Roberts , Fred Funk , Sven Struver",Loren Roberts is a person entity
+"72 Clarence Rose , Loren Roberts , Fred Funk , Sven Struver",Fred Funk is a person entity
+"72 Clarence Rose , Loren Roberts , Fred Funk , Sven Struver",Sven Struver is a person entity
+"( Germany ) , Alexander Cejka ( Germany ) , Hal Sutton , Tom Lehman",Germany is a location entity
+"( Germany ) , Alexander Cejka ( Germany ) , Hal Sutton , Tom Lehman",Alexander Cejka is a person entity
+"( Germany ) , Alexander Cejka ( Germany ) , Hal Sutton , Tom Lehman",Hal Sutton is a person entity
+"( Germany ) , Alexander Cejka ( Germany ) , Hal Sutton , Tom Lehman",Tom Lehman is a person entity
+"73 D.A. Weibring , Brad Bryant , Craig Parry ( Australia ) ,",D.A. Weibring is a person entity
+"73 D.A. Weibring , Brad Bryant , Craig Parry ( Australia ) ,",Brad Bryant is a person entity
+"73 D.A. Weibring , Brad Bryant , Craig Parry ( Australia ) ,",Craig Parry is a person entity
+"73 D.A. Weibring , Brad Bryant , Craig Parry ( Australia ) ,",Australia is a location entity
+"Stewart Ginn ( Australia ) , Corey Pavin , Craig Stadler , Mark",Stewart Ginn is a person entity
+"Stewart Ginn ( Australia ) , Corey Pavin , Craig Stadler , Mark",Australia is a location entity
+"Stewart Ginn ( Australia ) , Corey Pavin , Craig Stadler , Mark",Corey Pavin is a person entity
+"Stewart Ginn ( Australia ) , Corey Pavin , Craig Stadler , Mark",Craig Stadler is a person entity
+"Stewart Ginn ( Australia ) , Corey Pavin , Craig Stadler , Mark",Mark is a person entity
+"O'Meara , Fred Couples",O'Meara is a person entity
+"O'Meara , Fred Couples",Fred Couples is a person entity
+"74 Paul Stankowski , Costantino Rocca ( Italy )",Paul Stankowski is a person entity
+"74 Paul Stankowski , Costantino Rocca ( Italy )",Costantino Rocca is a person entity
+"74 Paul Stankowski , Costantino Rocca ( Italy )",Italy is a location entity
+"75 Jim Furyk , Satoshi Higashi ( Japan ) , Willie Wood , Shigeki",Jim Furyk is a person entity
+"75 Jim Furyk , Satoshi Higashi ( Japan ) , Willie Wood , Shigeki",Satoshi Higashi is a person entity
+"75 Jim Furyk , Satoshi Higashi ( Japan ) , Willie Wood , Shigeki",Japan is a location entity
+"75 Jim Furyk , Satoshi Higashi ( Japan ) , Willie Wood , Shigeki",Willie Wood is a person entity
+"75 Jim Furyk , Satoshi Higashi ( Japan ) , Willie Wood , Shigeki",Shigeki is a person entity
+Maruyama ( Japan ),Maruyama is a person entity
+Maruyama ( Japan ),Japan is a location entity
+76 Scott McCarron,Scott McCarron is a person entity
+"77 Wayne Westner ( South Africa ) , Steve Schneiter",Wayne Westner is a person entity
+"77 Wayne Westner ( South Africa ) , Steve Schneiter",South Africa is a location entity
+"77 Wayne Westner ( South Africa ) , Steve Schneiter",Steve Schneiter is a person entity
+79 Tom Watson,Tom Watson is a person entity
+81 Seiki Okuda ( Japan ),Seiki Okuda is a person entity
+81 Seiki Okuda ( Japan ),Japan is a location entity
+SOCCER - GLORIA BISTRITA BEAT 2-1 F.C. VALLETTA .,GLORIA BISTRITA is an organization entity
+SOCCER - GLORIA BISTRITA BEAT 2-1 F.C. VALLETTA .,F.C. VALLETTA is an organization entity
+BISTRITA 1996-08-22,BISTRITA is a location entity
+"Gloria Bistrita ( Romania ) beat 2-1 ( halftime 1-1 ) F.C. Valletta ( Malta ) in their Cup winners Cup match , second leg of the preliminary round , on Thursday .",Gloria Bistrita is an organization entity
+"Gloria Bistrita ( Romania ) beat 2-1 ( halftime 1-1 ) F.C. Valletta ( Malta ) in their Cup winners Cup match , second leg of the preliminary round , on Thursday .",Romania is a location entity
+"Gloria Bistrita ( Romania ) beat 2-1 ( halftime 1-1 ) F.C. Valletta ( Malta ) in their Cup winners Cup match , second leg of the preliminary round , on Thursday .",F.C. Valletta is an organization entity
+"Gloria Bistrita ( Romania ) beat 2-1 ( halftime 1-1 ) F.C. Valletta ( Malta ) in their Cup winners Cup match , second leg of the preliminary round , on Thursday .",Malta is a location entity
+"Gloria Bistrita ( Romania ) beat 2-1 ( halftime 1-1 ) F.C. Valletta ( Malta ) in their Cup winners Cup match , second leg of the preliminary round , on Thursday .",Cup winners Cup is an other entity
+"Gloria Bistrita - Ilie Lazar ( 32nd ) , Eugen Voica ( 84th )",Gloria Bistrita is an organization entity
+"Gloria Bistrita - Ilie Lazar ( 32nd ) , Eugen Voica ( 84th )",Ilie Lazar is a person entity
+"Gloria Bistrita - Ilie Lazar ( 32nd ) , Eugen Voica ( 84th )",Eugen Voica is a person entity
+F.C. La Valletta - Gilbert Agius ( 24th ),F.C. La Valletta is an organization entity
+F.C. La Valletta - Gilbert Agius ( 24th ),Gilbert Agius is a person entity
+Gloria Bistrita won 4-2 on aggregate and qualified for the first round of the Cup winners Cup .,Gloria Bistrita is an organization entity
+Gloria Bistrita won 4-2 on aggregate and qualified for the first round of the Cup winners Cup .,Cup winners Cup is an other entity
+REUTER,REUTER is a person entity
+HORSE RACING - PIVOTAL ENDS 25-YEAR WAIT FOR TRAINER PRESCOTT .,PIVOTAL is a person entity
+HORSE RACING - PIVOTAL ENDS 25-YEAR WAIT FOR TRAINER PRESCOTT .,PRESCOTT is a person entity
+"YORK , England 1996-08-22",YORK is a location entity
+"YORK , England 1996-08-22",England is a location entity
+"Sir Mark Prescott landed his first group one victory in 25 years as a trainer when his top sprinter Pivotal , a 100-30 chance , won the Nunthorpe Stakes on Thursday .",Mark Prescott is a person entity
+"Sir Mark Prescott landed his first group one victory in 25 years as a trainer when his top sprinter Pivotal , a 100-30 chance , won the Nunthorpe Stakes on Thursday .",Pivotal is a person entity
+"Sir Mark Prescott landed his first group one victory in 25 years as a trainer when his top sprinter Pivotal , a 100-30 chance , won the Nunthorpe Stakes on Thursday .",Nunthorpe Stakes is an other entity
+"The three-year-old , partnered by veteran George Duffield , snatched a short head verdict in the last stride to deny Eveningperformance ( 16-1 ) , trained by Henry Candy and ridden by Chris Rutter .",George Duffield is a person entity
+"The three-year-old , partnered by veteran George Duffield , snatched a short head verdict in the last stride to deny Eveningperformance ( 16-1 ) , trained by Henry Candy and ridden by Chris Rutter .",Eveningperformance is a person entity
+"The three-year-old , partnered by veteran George Duffield , snatched a short head verdict in the last stride to deny Eveningperformance ( 16-1 ) , trained by Henry Candy and ridden by Chris Rutter .",Henry Candy is a person entity
+"The three-year-old , partnered by veteran George Duffield , snatched a short head verdict in the last stride to deny Eveningperformance ( 16-1 ) , trained by Henry Candy and ridden by Chris Rutter .",Chris Rutter is a person entity
+"Hever Golf Rose ( 11-4 ) , last year 's Prix de l ' Abbaye winner at Longchamp , finished third , a further one and a quarter lengths away with the 7-4 favourite Mind Games in fourth .",Hever Golf Rose is a person entity
+"Hever Golf Rose ( 11-4 ) , last year 's Prix de l ' Abbaye winner at Longchamp , finished third , a further one and a quarter lengths away with the 7-4 favourite Mind Games in fourth .",Prix de l ' Abbaye is an other entity
+"Hever Golf Rose ( 11-4 ) , last year 's Prix de l ' Abbaye winner at Longchamp , finished third , a further one and a quarter lengths away with the 7-4 favourite Mind Games in fourth .",Longchamp is a location entity
+"Hever Golf Rose ( 11-4 ) , last year 's Prix de l ' Abbaye winner at Longchamp , finished third , a further one and a quarter lengths away with the 7-4 favourite Mind Games in fourth .",Mind Games is a person entity
+"Pivotal , a Royal Ascot winner in June , may now be aimed at this season 's Abbaye , Europe 's top sprint race .",Pivotal is a person entity
+"Pivotal , a Royal Ascot winner in June , may now be aimed at this season 's Abbaye , Europe 's top sprint race .",Royal Ascot is a person entity
+"Pivotal , a Royal Ascot winner in June , may now be aimed at this season 's Abbaye , Europe 's top sprint race .",Abbaye is an other entity
+"Pivotal , a Royal Ascot winner in June , may now be aimed at this season 's Abbaye , Europe 's top sprint race .",Europe is a location entity
+"Prescott , reluctant to go into the winner 's enclosure until the result of the photo-finish was announced , said : "" Twenty-five years and I have never been there so I thought I had better wait a bit longer . """,Prescott is a person entity
+"He added : "" It 's very sad to beat Henry Candy because I am godfather to his daughter . """,Henry Candy is a person entity
+"Like Prescott , Jack Berry , trainer of Mind Games , had gone into Thursday 's race in search of a first group one success after many years around the top of his profession .",Prescott is a person entity
+"Like Prescott , Jack Berry , trainer of Mind Games , had gone into Thursday 's race in search of a first group one success after many years around the top of his profession .",Jack Berry is a person entity
+"Like Prescott , Jack Berry , trainer of Mind Games , had gone into Thursday 's race in search of a first group one success after many years around the top of his profession .",Mind Games is a person entity
+"Berry said : "" I`m disappointed but I do n't feel suicidal .",Berry is a person entity
+"He ( Mind Games ) was going as well as any of them one and a half furlongs ( 300 metres ) out but he just did n't quicken . """,Mind Games is a person entity
+"YORK , England 1996-08-22",YORK is a location entity
+"YORK , England 1996-08-22",England is a location entity
+"Result of the Nunthorpe Stakes , a group one race for two-year-olds and upwards , run over five furlongs ( 1 km ) on Thursday :",Nunthorpe Stakes is an other entity
+1. Pivotal 100-30 ( ridden by George Duffield ),Pivotal is a person entity
+1. Pivotal 100-30 ( ridden by George Duffield ),George Duffield is a person entity
+2. Eveningperformance 16-1 ( Chris Rutter ),Eveningperformance is a person entity
+2. Eveningperformance 16-1 ( Chris Rutter ),Chris Rutter is a person entity
+3. Hever Golf Rose 11-4 ( Jason Weaver ),Hever Golf Rose is a person entity
+3. Hever Golf Rose 11-4 ( Jason Weaver ),Jason Weaver is a person entity
+Favourite : Mind Games ( 7-4 ) finished 4th,Mind Games is a person entity
+Winner owned by the Cheveley Park Stud and trained by Sir,Cheveley Park Stud is an organization entity
+Mark Prescott at Newmarket .,Mark Prescott is a person entity
+Mark Prescott at Newmarket .,Newmarket is a location entity
+TENNIS - RESULTS AT TOSHIBA CLASSIC .,TOSHIBA CLASSIC is an other entity
+"CARLSBAD , California 1996-08-21",CARLSBAD is a location entity
+"CARLSBAD , California 1996-08-21",California is a location entity
+"$ 450,000 Toshiba Classic tennis tournament on Wednesday",Toshiba Classic is an other entity
+1 - Arantxa Sanchez Vicario ( Spain ) beat Naoko Kijimuta ( Japan ),Arantxa Sanchez Vicario is a person entity
+1 - Arantxa Sanchez Vicario ( Spain ) beat Naoko Kijimuta ( Japan ),Spain is a location entity
+1 - Arantxa Sanchez Vicario ( Spain ) beat Naoko Kijimuta ( Japan ),Naoko Kijimuta is a person entity
+1 - Arantxa Sanchez Vicario ( Spain ) beat Naoko Kijimuta ( Japan ),Japan is a location entity
+4 - Kimiko Date ( Japan ) beat Yone Kamio ( Japan ) 6-2 7-5,Kimiko Date is a person entity
+4 - Kimiko Date ( Japan ) beat Yone Kamio ( Japan ) 6-2 7-5,Japan is a location entity
+4 - Kimiko Date ( Japan ) beat Yone Kamio ( Japan ) 6-2 7-5,Yone Kamio is a person entity
+Sandrine Testud ( France ) beat 7 - Ai Sugiyama ( Japan ) 6-3 4-6,Sandrine Testud is a person entity
+Sandrine Testud ( France ) beat 7 - Ai Sugiyama ( Japan ) 6-3 4-6,France is a location entity
+Sandrine Testud ( France ) beat 7 - Ai Sugiyama ( Japan ) 6-3 4-6,Ai Sugiyama is a person entity
+Sandrine Testud ( France ) beat 7 - Ai Sugiyama ( Japan ) 6-3 4-6,Japan is a location entity
+8 - Nathalie Tauziat ( France ) beat Shi-Ting Wang ( Taiwan ) 6-4,Nathalie Tauziat is a person entity
+8 - Nathalie Tauziat ( France ) beat Shi-Ting Wang ( Taiwan ) 6-4,France is a location entity
+8 - Nathalie Tauziat ( France ) beat Shi-Ting Wang ( Taiwan ) 6-4,Shi-Ting Wang is a person entity
+8 - Nathalie Tauziat ( France ) beat Shi-Ting Wang ( Taiwan ) 6-4,Taiwan is a location entity
+TENNIS - RESULTS AT HAMLET CUP .,HAMLET CUP is an other entity
+"COMMACK , New York 1996-08-21",COMMACK is a location entity
+"COMMACK , New York 1996-08-21",New York is a location entity
+Waldbaum Hamlet Cup tennis tournament on Wednesday ( prefix,Waldbaum Hamlet Cup is an other entity
+1 - Michael Chang ( U.S. ) beat Sergi Bruguera ( Spain ) 6-3 6-2,Michael Chang is a person entity
+1 - Michael Chang ( U.S. ) beat Sergi Bruguera ( Spain ) 6-3 6-2,U.S. is a location entity
+1 - Michael Chang ( U.S. ) beat Sergi Bruguera ( Spain ) 6-3 6-2,Sergi Bruguera is a person entity
+1 - Michael Chang ( U.S. ) beat Sergi Bruguera ( Spain ) 6-3 6-2,Spain is a location entity
+Michael Joyce ( U.S. ) beat 3 - Richey Reneberg ( U.S. ) 3-6 6-4,Michael Joyce is a person entity
+Michael Joyce ( U.S. ) beat 3 - Richey Reneberg ( U.S. ) 3-6 6-4,U.S. is a location entity
+Michael Joyce ( U.S. ) beat 3 - Richey Reneberg ( U.S. ) 3-6 6-4,Richey Reneberg is a person entity
+Martin Damm ( Czech Republic ) beat 6 - Younes El Aynaoui,Martin Damm is a person entity
+Martin Damm ( Czech Republic ) beat 6 - Younes El Aynaoui,Czech Republic is a location entity
+Martin Damm ( Czech Republic ) beat 6 - Younes El Aynaoui,Younes El Aynaoui is a person entity
+( Morocco ) 5-7 6-3 3-0 retired,Morocco is a location entity
+Karol Kucera ( Slovakia ) beat Hicham Arazi ( Morocco ) 7-6 ( 7-4 ),Karol Kucera is a person entity
+Karol Kucera ( Slovakia ) beat Hicham Arazi ( Morocco ) 7-6 ( 7-4 ),Slovakia is a location entity
+Karol Kucera ( Slovakia ) beat Hicham Arazi ( Morocco ) 7-6 ( 7-4 ),Hicham Arazi is a person entity
+Karol Kucera ( Slovakia ) beat Hicham Arazi ( Morocco ) 7-6 ( 7-4 ),Morocco is a location entity
+SOCCER - DALGLISH SAD OVER BLACKBURN PARTING .,DALGLISH is a person entity
+SOCCER - DALGLISH SAD OVER BLACKBURN PARTING .,BLACKBURN is an organization entity
+LONDON 1996-08-22,LONDON is a location entity
+"Kenny Dalglish spoke on Thursday of his sadness at leaving Blackburn , the club he led to the English premier league title in 1994-95 .",Kenny Dalglish is a person entity
+"Kenny Dalglish spoke on Thursday of his sadness at leaving Blackburn , the club he led to the English premier league title in 1994-95 .",Blackburn is an organization entity
+"Kenny Dalglish spoke on Thursday of his sadness at leaving Blackburn , the club he led to the English premier league title in 1994-95 .",English is an other entity
+Blackburn announced on Wednesday they and Dalglish had parted by mutual consent .,Blackburn is an organization entity
+Blackburn announced on Wednesday they and Dalglish had parted by mutual consent .,Dalglish is a person entity
+"But the ex-manager confessed on Thursday to being "" sad "" at leaving after taking Blackburn from the second division to the premier league title inside three and a half years .",Blackburn is an organization entity
+"In a telephone call to a local newspaper from his holiday home in Spain , Dalglish said : "" We came to the same opinion , albeit the club came to it a little bit earlier than me . """,Spain is a location entity
+"In a telephone call to a local newspaper from his holiday home in Spain , Dalglish said : "" We came to the same opinion , albeit the club came to it a little bit earlier than me . """,Dalglish is a person entity
+"Dalglish had been with Blackburn for nearly five years , first as manager and then , for the past 15 months , as director of football .",Dalglish is a person entity
+"Dalglish had been with Blackburn for nearly five years , first as manager and then , for the past 15 months , as director of football .",Blackburn is an organization entity
+CRICKET - ENGLISH COUNTY CHAMPIONSHIP SCORES .,ENGLISH COUNTY CHAMPIONSHIP is an other entity
+LONDON 1996-08-22,LONDON is a location entity
+English County Championship cricket matches on Thursday :,English is an other entity
+English County Championship cricket matches on Thursday :,County Championship is an other entity
+"At Weston-super-Mare : Durham 326 ( D. Cox 95 not out ,",Weston-super-Mare is a location entity
+"At Weston-super-Mare : Durham 326 ( D. Cox 95 not out ,",Durham is an organization entity
+"At Weston-super-Mare : Durham 326 ( D. Cox 95 not out ,",D. Cox is a person entity
+S. Campbell 69 ; G. Rose 7-73 ) .,S. Campbell is a person entity
+S. Campbell 69 ; G. Rose 7-73 ) .,G. Rose is a person entity
+Somerset 236-4 ( M. Lathwell 85 ) .,Somerset is an organization entity
+Somerset 236-4 ( M. Lathwell 85 ) .,M. Lathwell is a person entity
+"At Colchester : Gloucestershire 280 ( J. Russell 63 , A. Symonds",Colchester is a location entity
+"At Colchester : Gloucestershire 280 ( J. Russell 63 , A. Symonds",Gloucestershire is an organization entity
+"At Colchester : Gloucestershire 280 ( J. Russell 63 , A. Symonds",J. Russell is a person entity
+"At Colchester : Gloucestershire 280 ( J. Russell 63 , A. Symonds",A. Symonds is a person entity
+52 ; A. Cowan 5-68 ) .,A. Cowan is a person entity
+Essex 72-0 .,Essex is an organization entity
+"At Cardiff : Kent 128-1 ( M. Walker 59 , D. Fulton 53 not out ) v",Cardiff is a location entity
+"At Cardiff : Kent 128-1 ( M. Walker 59 , D. Fulton 53 not out ) v",Kent is an organization entity
+"At Cardiff : Kent 128-1 ( M. Walker 59 , D. Fulton 53 not out ) v",M. Walker is a person entity
+"At Cardiff : Kent 128-1 ( M. Walker 59 , D. Fulton 53 not out ) v",D. Fulton is a person entity
+Glamorgan .,Glamorgan is an organization entity
+"At Leicester : Leicestershire 343-8 ( P. Simmons 108 , P. Nixon",Leicester is a location entity
+"At Leicester : Leicestershire 343-8 ( P. Simmons 108 , P. Nixon",Leicestershire is an organization entity
+"At Leicester : Leicestershire 343-8 ( P. Simmons 108 , P. Nixon",P. Simmons is a person entity
+"At Leicester : Leicestershire 343-8 ( P. Simmons 108 , P. Nixon",P. Nixon is a person entity
+67 not out ) v Hampshire .,Hampshire is an organization entity
+"At Northampton : Sussex 368-7 ( N. Lenham 145 , V. Drakes 59 not",Northampton is a location entity
+"At Northampton : Sussex 368-7 ( N. Lenham 145 , V. Drakes 59 not",Sussex is an organization entity
+"At Northampton : Sussex 368-7 ( N. Lenham 145 , V. Drakes 59 not",N. Lenham is a person entity
+"At Northampton : Sussex 368-7 ( N. Lenham 145 , V. Drakes 59 not",V. Drakes is a person entity
+"out , A. Wells 51 ) v Northamptonshire .",A. Wells is a person entity
+"out , A. Wells 51 ) v Northamptonshire .",Northamptonshire is an organization entity
+At Trent Bridge : Nottinghamshire 392-6 ( G. Archer 143 not,Trent Bridge is a location entity
+At Trent Bridge : Nottinghamshire 392-6 ( G. Archer 143 not,Nottinghamshire is an organization entity
+At Trent Bridge : Nottinghamshire 392-6 ( G. Archer 143 not,G. Archer is a person entity
+"out , M. Dowman 107 ) v Surrey .",M. Dowman is a person entity
+"out , M. Dowman 107 ) v Surrey .",Surrey is an organization entity
+"At Worcester : Warwickshire 255-9 ( A. Giles 57 not out , W. Khan",Worcester is a location entity
+"At Worcester : Warwickshire 255-9 ( A. Giles 57 not out , W. Khan",Warwickshire is an organization entity
+"At Worcester : Warwickshire 255-9 ( A. Giles 57 not out , W. Khan",A. Giles is a person entity
+"At Worcester : Warwickshire 255-9 ( A. Giles 57 not out , W. Khan",W. Khan is a person entity
+52 ) v Worcestershire .,Worcestershire is an organization entity
+"At Headingley : Yorkshire 305-5 ( C. White 66 not out , M. Moxon",Headingley is a location entity
+"At Headingley : Yorkshire 305-5 ( C. White 66 not out , M. Moxon",Yorkshire is an organization entity
+"At Headingley : Yorkshire 305-5 ( C. White 66 not out , M. Moxon",C. White is a person entity
+"At Headingley : Yorkshire 305-5 ( C. White 66 not out , M. Moxon",M. Moxon is a person entity
+"66 , M. Vaughan 57 ) v Lancashire .",M. Vaughan is a person entity
+"66 , M. Vaughan 57 ) v Lancashire .",Lancashire is an organization entity
+CRICKET - ENGLAND V PAKISTAN FINAL TEST SCOREBOARD .,ENGLAND is a location entity
+CRICKET - ENGLAND V PAKISTAN FINAL TEST SCOREBOARD .,PAKISTAN is a location entity
+LONDON 1996-08-22,LONDON is a location entity
+third and final test between England and Pakistan at The Oval on,England is a location entity
+third and final test between England and Pakistan at The Oval on,Pakistan is a location entity
+third and final test between England and Pakistan at The Oval on,The Oval is a location entity
+England first innings,England is a location entity
+M. Atherton b Waqar Younis 31,M. Atherton is a person entity
+M. Atherton b Waqar Younis 31,Waqar Younis is a person entity
+A. Stewart b Mushtaq Ahmed 44,A. Stewart is a person entity
+A. Stewart b Mushtaq Ahmed 44,Mushtaq Ahmed is a person entity
+N. Hussain c Saeed Anwar b Waqar Younis 12,N. Hussain is a person entity
+N. Hussain c Saeed Anwar b Waqar Younis 12,Saeed Anwar is a person entity
+N. Hussain c Saeed Anwar b Waqar Younis 12,Waqar Younis is a person entity
+G. Thorpe lbw b Mohammad Akram 54,G. Thorpe is a person entity
+G. Thorpe lbw b Mohammad Akram 54,Mohammad Akram is a person entity
+J. Crawley not out 94,J. Crawley is a person entity
+N. Knight b Mushtaq Ahmed 17,N. Knight is a person entity
+N. Knight b Mushtaq Ahmed 17,Mushtaq Ahmed is a person entity
+C. Lewis b Wasim Akram 5,C. Lewis is a person entity
+C. Lewis b Wasim Akram 5,Wasim Akram is a person entity
+I. Salisbury not out 1,I. Salisbury is a person entity
+"To bat : R. Croft , D. Cork , A. Mullally",R. Croft is a person entity
+"To bat : R. Croft , D. Cork , A. Mullally",D. Cork is a person entity
+"To bat : R. Croft , D. Cork , A. Mullally",A. Mullally is a person entity
+"Bowling ( to date ) : Wasim Akram 25-8-61-1 , Waqar Younis",Wasim Akram is a person entity
+"Bowling ( to date ) : Wasim Akram 25-8-61-1 , Waqar Younis",Waqar Younis is a person entity
+"20-6-70-2 , Mohammad Akram 12-1-41-1 , Mushtaq Ahmed 27-5-78-2 ,",Mohammad Akram is a person entity
+"20-6-70-2 , Mohammad Akram 12-1-41-1 , Mushtaq Ahmed 27-5-78-2 ,",Mushtaq Ahmed is a person entity
+Aamir Sohail 6-1-17-0,Aamir Sohail is a person entity
+"Pakistan : Aamir Sohail , Saeed Anwar , Ijaz Ahmed ,",Pakistan is a location entity
+"Pakistan : Aamir Sohail , Saeed Anwar , Ijaz Ahmed ,",Aamir Sohail is a person entity
+"Pakistan : Aamir Sohail , Saeed Anwar , Ijaz Ahmed ,",Saeed Anwar is a person entity
+"Pakistan : Aamir Sohail , Saeed Anwar , Ijaz Ahmed ,",Ijaz Ahmed is a person entity
+"Inzamam-ul-Haq , Salim Malik , Asif Mujtaba , Wasim Akram , Moin",Inzamam-ul-Haq is a person entity
+"Inzamam-ul-Haq , Salim Malik , Asif Mujtaba , Wasim Akram , Moin",Salim Malik is a person entity
+"Inzamam-ul-Haq , Salim Malik , Asif Mujtaba , Wasim Akram , Moin",Asif Mujtaba is a person entity
+"Inzamam-ul-Haq , Salim Malik , Asif Mujtaba , Wasim Akram , Moin",Wasim Akram is a person entity
+"Inzamam-ul-Haq , Salim Malik , Asif Mujtaba , Wasim Akram , Moin",Moin is a person entity
+"Khan , Mushtaq Ahmed , Waqar Younis , Mohammad Akam",Khan is a person entity
+"Khan , Mushtaq Ahmed , Waqar Younis , Mohammad Akam",Mushtaq Ahmed is a person entity
+"Khan , Mushtaq Ahmed , Waqar Younis , Mohammad Akam",Waqar Younis is a person entity
+"Khan , Mushtaq Ahmed , Waqar Younis , Mohammad Akam",Mohammad Akam is a person entity
+SOCCER - FERGUSON BACK IN SCOTTISH SQUAD AFTER 20 MONTHS .,FERGUSON is a person entity
+SOCCER - FERGUSON BACK IN SCOTTISH SQUAD AFTER 20 MONTHS .,SCOTTISH is an other entity
+GLASGOW 1996-08-22,GLASGOW is a location entity
+"Everton 's Duncan Ferguson , who scored twice against Manchester United on Wednesday , was picked on Thursday for the Scottish squad after a 20-month exile .",Everton is an organization entity
+"Everton 's Duncan Ferguson , who scored twice against Manchester United on Wednesday , was picked on Thursday for the Scottish squad after a 20-month exile .",Duncan Ferguson is a person entity
+"Everton 's Duncan Ferguson , who scored twice against Manchester United on Wednesday , was picked on Thursday for the Scottish squad after a 20-month exile .",Manchester United is an organization entity
+"Everton 's Duncan Ferguson , who scored twice against Manchester United on Wednesday , was picked on Thursday for the Scottish squad after a 20-month exile .",Scottish is an other entity
+"Glasgow Rangers striker Ally McCoist , another man in form after two hat-tricks in four days , was also named for the August 31 World Cup qualifier against Austria in Vienna .",Glasgow Rangers is an organization entity
+"Glasgow Rangers striker Ally McCoist , another man in form after two hat-tricks in four days , was also named for the August 31 World Cup qualifier against Austria in Vienna .",Ally McCoist is a person entity
+"Glasgow Rangers striker Ally McCoist , another man in form after two hat-tricks in four days , was also named for the August 31 World Cup qualifier against Austria in Vienna .",World Cup is an other entity
+"Glasgow Rangers striker Ally McCoist , another man in form after two hat-tricks in four days , was also named for the August 31 World Cup qualifier against Austria in Vienna .",Austria is a location entity
+"Glasgow Rangers striker Ally McCoist , another man in form after two hat-tricks in four days , was also named for the August 31 World Cup qualifier against Austria in Vienna .",Vienna is a location entity
+"Ferguson , who served six weeks in jail in late 1995 for head-butting an opponent , won the last of his five Scotland caps in December 1994 .",Ferguson is a person entity
+"Ferguson , who served six weeks in jail in late 1995 for head-butting an opponent , won the last of his five Scotland caps in December 1994 .",Scotland is a location entity
+"Scotland manager Craig Brown said on Thursday : "" I 've watched Duncan Ferguson in action twice recently and he 's bang in form .",Scotland is a location entity
+"Scotland manager Craig Brown said on Thursday : "" I 've watched Duncan Ferguson in action twice recently and he 's bang in form .",Craig Brown is a person entity
+"Scotland manager Craig Brown said on Thursday : "" I 've watched Duncan Ferguson in action twice recently and he 's bang in form .",Duncan Ferguson is a person entity
+"Ally McCoist is also in great scoring form at the moment . """,Ally McCoist is a person entity
+"Celtic 's Jackie McNamara , who did well with last season 's successful under-21 team , earns a call-up to the senior squad .",Celtic is an organization entity
+"Celtic 's Jackie McNamara , who did well with last season 's successful under-21 team , earns a call-up to the senior squad .",Jackie McNamara is a person entity
+CRICKET - ENGLAND 100-2 AT LUNCH ON FIRST DAY OF THIRD TEST .,ENGLAND is a location entity
+LONDON 1996-08-22,LONDON is a location entity
+England were 100 for two at lunch on the first day of the third and final test against Pakistan at The Oval on Thursday .,England is a location entity
+England were 100 for two at lunch on the first day of the third and final test against Pakistan at The Oval on Thursday .,Pakistan is a location entity
+England were 100 for two at lunch on the first day of the third and final test against Pakistan at The Oval on Thursday .,The Oval is a location entity
+SOCCER - KEANE SIGNS FOUR-YEAR CONTRACT WITH MANCHESTER UNITED .,KEANE is a person entity
+SOCCER - KEANE SIGNS FOUR-YEAR CONTRACT WITH MANCHESTER UNITED .,MANCHESTER UNITED is a location entity
+LONDON 1996-08-22,LONDON is a location entity
+Ireland midfielder Roy Keane has signed a new four-year contract with English league and F.A. Cup champions Manchester United .,Ireland is a location entity
+Ireland midfielder Roy Keane has signed a new four-year contract with English league and F.A. Cup champions Manchester United .,Roy Keane is a person entity
+Ireland midfielder Roy Keane has signed a new four-year contract with English league and F.A. Cup champions Manchester United .,English is an other entity
+Ireland midfielder Roy Keane has signed a new four-year contract with English league and F.A. Cup champions Manchester United .,F.A. Cup is an other entity
+Ireland midfielder Roy Keane has signed a new four-year contract with English league and F.A. Cup champions Manchester United .,Manchester United is an organization entity
+""" Roy agreed a new deal before last night 's game against Everton and we are delighted , "" said United manager Alex Ferguson on Thursday .",Roy is a person entity
+""" Roy agreed a new deal before last night 's game against Everton and we are delighted , "" said United manager Alex Ferguson on Thursday .",Everton is an organization entity
+""" Roy agreed a new deal before last night 's game against Everton and we are delighted , "" said United manager Alex Ferguson on Thursday .",United is an organization entity
+""" Roy agreed a new deal before last night 's game against Everton and we are delighted , "" said United manager Alex Ferguson on Thursday .",Alex Ferguson is a person entity
+TENNIS - RESULTS AT CANADIAN OPEN .,CANADIAN OPEN is an other entity
+TORONTO 1996-08-21,TORONTO is a location entity
+Results from the Canadian Open,Canadian Open is an other entity
+Daniel Nestor ( Canada ) beat 1 - Thomas Muster ( Austria ) 6-3 7-5,Daniel Nestor is a person entity
+Daniel Nestor ( Canada ) beat 1 - Thomas Muster ( Austria ) 6-3 7-5,Canada is a location entity
+Daniel Nestor ( Canada ) beat 1 - Thomas Muster ( Austria ) 6-3 7-5,Thomas Muster is a person entity
+Daniel Nestor ( Canada ) beat 1 - Thomas Muster ( Austria ) 6-3 7-5,Austria is a location entity
+Mikael Tillstrom ( Sweden ) beat 2 - Goran Ivanisevic ( Croatia ),Mikael Tillstrom is a person entity
+Mikael Tillstrom ( Sweden ) beat 2 - Goran Ivanisevic ( Croatia ),Sweden is a location entity
+Mikael Tillstrom ( Sweden ) beat 2 - Goran Ivanisevic ( Croatia ),Goran Ivanisevic is a person entity
+Mikael Tillstrom ( Sweden ) beat 2 - Goran Ivanisevic ( Croatia ),Croatia is a location entity
+3 - Wayne Ferreira ( South Africa ) beat Jiri Novak ( Czech,Wayne Ferreira is a person entity
+3 - Wayne Ferreira ( South Africa ) beat Jiri Novak ( Czech,South Africa is a location entity
+3 - Wayne Ferreira ( South Africa ) beat Jiri Novak ( Czech,Jiri Novak is a person entity
+3 - Wayne Ferreira ( South Africa ) beat Jiri Novak ( Czech,Czech is a location entity
+Republic ) 7-5 6-3,Republic is a location entity
+4 - Marcelo Rios ( Chile ) beat Kenneth Carlsen ( Denmark ) 6-3 6-2,Marcelo Rios is a person entity
+4 - Marcelo Rios ( Chile ) beat Kenneth Carlsen ( Denmark ) 6-3 6-2,Chile is a location entity
+4 - Marcelo Rios ( Chile ) beat Kenneth Carlsen ( Denmark ) 6-3 6-2,Kenneth Carlsen is a person entity
+4 - Marcelo Rios ( Chile ) beat Kenneth Carlsen ( Denmark ) 6-3 6-2,Denmark is a location entity
+6 - MaliVai Washington ( U.S. ) beat Alex Corretja ( Spain ) 6-4,MaliVai Washington is a person entity
+6 - MaliVai Washington ( U.S. ) beat Alex Corretja ( Spain ) 6-4,U.S. is a location entity
+6 - MaliVai Washington ( U.S. ) beat Alex Corretja ( Spain ) 6-4,Alex Corretja is a person entity
+6 - MaliVai Washington ( U.S. ) beat Alex Corretja ( Spain ) 6-4,Spain is a location entity
+7 - Todd Martin ( U.S. ) beat Renzo Furlan ( Italy ) 7-6 ( 7-3 ) 6-3,Todd Martin is a person entity
+7 - Todd Martin ( U.S. ) beat Renzo Furlan ( Italy ) 7-6 ( 7-3 ) 6-3,U.S. is a location entity
+7 - Todd Martin ( U.S. ) beat Renzo Furlan ( Italy ) 7-6 ( 7-3 ) 6-3,Renzo Furlan is a person entity
+7 - Todd Martin ( U.S. ) beat Renzo Furlan ( Italy ) 7-6 ( 7-3 ) 6-3,Italy is a location entity
+Mark Philippoussis ( Australia ) beat 8 - Marc Rosset,Mark Philippoussis is a person entity
+Mark Philippoussis ( Australia ) beat 8 - Marc Rosset,Australia is a location entity
+Mark Philippoussis ( Australia ) beat 8 - Marc Rosset,Marc Rosset is a person entity
+( Switzerland ) 6-3 3-6 7-6 ( 8-6 ),Switzerland is a location entity
+9 - Cedric Pioline ( France ) beat Gregory Carraz ( France ) 7-6,Cedric Pioline is a person entity
+9 - Cedric Pioline ( France ) beat Gregory Carraz ( France ) 7-6,France is a location entity
+9 - Cedric Pioline ( France ) beat Gregory Carraz ( France ) 7-6,Gregory Carraz is a person entity
+Patrick Rafter ( Australia ) beat 11 - Alberto Berasategui,Patrick Rafter is a person entity
+Patrick Rafter ( Australia ) beat 11 - Alberto Berasategui,Australia is a location entity
+Patrick Rafter ( Australia ) beat 11 - Alberto Berasategui,Alberto Berasategui is a person entity
+( Spain ) 6-1 6-2,Spain is a location entity
+Petr Korda ( Czech Republic ) beat 12 - Francisco Clavet ( Spain ),Petr Korda is a person entity
+Petr Korda ( Czech Republic ) beat 12 - Francisco Clavet ( Spain ),Czech Republic is a location entity
+Petr Korda ( Czech Republic ) beat 12 - Francisco Clavet ( Spain ),Francisco Clavet is a person entity
+Petr Korda ( Czech Republic ) beat 12 - Francisco Clavet ( Spain ),Spain is a location entity
+Daniel Vacek ( Czech Republic ) beat 13 - Jason Stoltenberg,Daniel Vacek is a person entity
+Daniel Vacek ( Czech Republic ) beat 13 - Jason Stoltenberg,Czech Republic is a location entity
+Daniel Vacek ( Czech Republic ) beat 13 - Jason Stoltenberg,Jason Stoltenberg is a person entity
+( Australia ) 5-7 7-6 ( 7-1 ) 7-6 ( 13-11 ),Australia is a location entity
+Todd Woodbridge ( Australia beat Sebastien Lareau ( Canada ) 6-3,Todd Woodbridge is a person entity
+Todd Woodbridge ( Australia beat Sebastien Lareau ( Canada ) 6-3,Australia is a location entity
+Todd Woodbridge ( Australia beat Sebastien Lareau ( Canada ) 6-3,Sebastien Lareau is a person entity
+Todd Woodbridge ( Australia beat Sebastien Lareau ( Canada ) 6-3,Canada is a location entity
+Alex O'Brien ( U.S. ) beat Byron Black ( Zimbabwe ) 7-6 ( 7-2 ) 6-2,Alex O'Brien is a person entity
+Alex O'Brien ( U.S. ) beat Byron Black ( Zimbabwe ) 7-6 ( 7-2 ) 6-2,U.S. is a location entity
+Alex O'Brien ( U.S. ) beat Byron Black ( Zimbabwe ) 7-6 ( 7-2 ) 6-2,Byron Black is a person entity
+Alex O'Brien ( U.S. ) beat Byron Black ( Zimbabwe ) 7-6 ( 7-2 ) 6-2,Zimbabwe is a location entity
+Bohdan Ulihrach ( Czech Republic ) beat Andrea Gaudenzi ( Italy ),Bohdan Ulihrach is a person entity
+Bohdan Ulihrach ( Czech Republic ) beat Andrea Gaudenzi ( Italy ),Czech Republic is a location entity
+Bohdan Ulihrach ( Czech Republic ) beat Andrea Gaudenzi ( Italy ),Andrea Gaudenzi is a person entity
+Bohdan Ulihrach ( Czech Republic ) beat Andrea Gaudenzi ( Italy ),Italy is a location entity
+"Tim Henman ( Britain ) beat Chris Woodruff ( U.S. ) , walkover",Tim Henman is a person entity
+"Tim Henman ( Britain ) beat Chris Woodruff ( U.S. ) , walkover",Britain is a location entity
+"Tim Henman ( Britain ) beat Chris Woodruff ( U.S. ) , walkover",Chris Woodruff is a person entity
+"Tim Henman ( Britain ) beat Chris Woodruff ( U.S. ) , walkover",U.S. is a location entity

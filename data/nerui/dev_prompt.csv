@@ -1,0 +1,397 @@
+Source sentence,Answer sentence
+"Saat ini JK masih melakukan lawatan kerja dari Washington DC ke Jepang .",JK adalah entitas tokoh .
+"Saat ini JK masih melakukan lawatan kerja dari Washington DC ke Jepang .",Washington DC adalah entitas lokasi .
+"Saat ini JK masih melakukan lawatan kerja dari Washington DC ke Jepang .",Jepang adalah entitas lokasi .
+"Di samping silaturahmi , juga kita harapkan bisa untuk mengambil keputusan penetapan waktu , tempat munaslub , penyelenggara , " jelas Idrus .",Idrus adalah entitas tokoh .
+"Shamrock Holdings merupakan perusahaan milik miliarder Roy Disney , keponakan Walt Disney sekaligus salah satu pemilik saham terbesar The Walt Disney Company .",Shamrock Holdings adalah entitas organisasi .
+"Shamrock Holdings merupakan perusahaan milik miliarder Roy Disney , keponakan Walt Disney sekaligus salah satu pemilik saham terbesar The Walt Disney Company .",Roy Disney adalah entitas tokoh .
+"Shamrock Holdings merupakan perusahaan milik miliarder Roy Disney , keponakan Walt Disney sekaligus salah satu pemilik saham terbesar The Walt Disney Company .",Walt Disney adalah entitas tokoh .
+"Shamrock Holdings merupakan perusahaan milik miliarder Roy Disney , keponakan Walt Disney sekaligus salah satu pemilik saham terbesar The Walt Disney Company .",The Walt Disney Company adalah entitas organisasi .
+"Jadi partai yang ikut arahan dan aturan main presiden , " kata Chief Executive Officer ( CEO ) Cyrus Network Hasan Nasbi kepada detikcom , Rabu ( 23/3/2016 ) .",Cyrus Network adalah entitas organisasi .
+"Jadi partai yang ikut arahan dan aturan main presiden , " kata Chief Executive Officer ( CEO ) Cyrus Network Hasan Nasbi kepada detikcom , Rabu ( 23/3/2016 ) .",Hasan Nasbi adalah entitas tokoh .
+"Jadi partai yang ikut arahan dan aturan main presiden , " kata Chief Executive Officer ( CEO ) Cyrus Network Hasan Nasbi kepada detikcom , Rabu ( 23/3/2016 ) .",detikcom adalah entitas organisasi .
+"Jokowi mengatakan bahwa dengan politik kerja maka rakyat akan dengan mudah melihat apa yang sudah dikerjakan oleh pemerintahan saat ini , sehingga tidak hanya wacana dan perencanaan .",Jokowi adalah entitas tokoh .
+"Syarkawi membandingkan dengan Singapura yang bahkan pada 2015 malah mengundang Uber dan Grab berusaha di negara mereka .",Syarkawi adalah entitas tokoh .
+"Syarkawi membandingkan dengan Singapura yang bahkan pada 2015 malah mengundang Uber dan Grab berusaha di negara mereka .",Singapura adalah entitas lokasi .
+"Syarkawi membandingkan dengan Singapura yang bahkan pada 2015 malah mengundang Uber dan Grab berusaha di negara mereka .",Uber adalah entitas organisasi .
+"Syarkawi membandingkan dengan Singapura yang bahkan pada 2015 malah mengundang Uber dan Grab berusaha di negara mereka .",Grab adalah entitas organisasi .
+"" Trailer untuk film ' Ice Princess ' diputar sebelum ' The Pacifier ' , karena itu audien yang melihat akan terdorong untuk menyaksikan film tersebut selama liburan , " kata Chuk Viane , kepala distribusi Disney dilansir AFP .",Chuk Viane adalah entitas tokoh .
+"" Trailer untuk film ' Ice Princess ' diputar sebelum ' The Pacifier ' , karena itu audien yang melihat akan terdorong untuk menyaksikan film tersebut selama liburan , " kata Chuk Viane , kepala distribusi Disney dilansir AFP .",Disney adalah entitas organisasi .
+"" Trailer untuk film ' Ice Princess ' diputar sebelum ' The Pacifier ' , karena itu audien yang melihat akan terdorong untuk menyaksikan film tersebut selama liburan , " kata Chuk Viane , kepala distribusi Disney dilansir AFP .",AFP adalah entitas organisasi .
+"Untuk lolos , PSG harus menang atau bermain imbang dengan skor lebih besar daripada 2 - 2 .",PSG adalah entitas organisasi .
+"Menurut Samsung , W510 merupakan ponsel pertama Samsung yang dibuat dari jagung .",Samsung adalah entitas organisasi .
+"Menurut Samsung , W510 merupakan ponsel pertama Samsung yang dibuat dari jagung .",Samsung adalah entitas organisasi .
+"Selama periode 2008 - 2015 itu pula , Klopp punya banyak memori bagus bersama Dortmund yang dia bawa menjadi juara Bundesliga dan ke final Liga Champions .",Klopp adalah entitas tokoh .
+"Selama periode 2008 - 2015 itu pula , Klopp punya banyak memori bagus bersama Dortmund yang dia bawa menjadi juara Bundesliga dan ke final Liga Champions .",Dortmund adalah entitas organisasi .
+"Dalam dua pertandingan terakhir , Napoli mampu memetik kemenangan atas Verona , yang semua didapat dengan catatan clean sheet .",Napoli adalah entitas organisasi .
+"Dalam dua pertandingan terakhir , Napoli mampu memetik kemenangan atas Verona , yang semua didapat dengan catatan clean sheet .",Verona adalah entitas organisasi .
+"Jonan mengatakan bahwa asas keadilan yang dimaksud Presiden Jokowi yaitu semua angkutan umum diperlakukan sama .",Jonan adalah entitas tokoh .
+"Jonan mengatakan bahwa asas keadilan yang dimaksud Presiden Jokowi yaitu semua angkutan umum diperlakukan sama .",Jokowi adalah entitas tokoh .
+"Ledakan terjadi di sebuah restoran pinggir pantai yang cukup terkenal , Pantai Lido .",Pantai Lido adalah entitas lokasi .
+"Di Bandung plus ke Jakarta Rp 7 triliun tiap tahun karena kemacetan .",Bandung adalah entitas lokasi .
+"Di Bandung plus ke Jakarta Rp 7 triliun tiap tahun karena kemacetan .",Jakarta adalah entitas lokasi .
+"Menteri Rini ini menimbulkan pro dan kontra yang luas , " kata Hendrawan saat dihubungi , Senin ( 21/3/2016 ) .",Rini adalah entitas tokoh .
+"Menteri Rini ini menimbulkan pro dan kontra yang luas , " kata Hendrawan saat dihubungi , Senin ( 21/3/2016 ) .",Hendrawan adalah entitas tokoh .
+"" Hari ini , kami berbincang tentang kelanjutan kerja sama meningkatkan konektivitas dan kesempatan akses internet bagi seluruh warga Indonesia , " kata dia .",Indonesia adalah entitas lokasi .
+"Pesawat Batik Air dan TransNusa bertabrakan di landasan pacu Bandara Halim Perdanakusuma , Jakarta Timur .",Batik Air adalah entitas organisasi .
+"Pesawat Batik Air dan TransNusa bertabrakan di landasan pacu Bandara Halim Perdanakusuma , Jakarta Timur .",TransNusa adalah entitas organisasi .
+"Pesawat Batik Air dan TransNusa bertabrakan di landasan pacu Bandara Halim Perdanakusuma , Jakarta Timur .",Bandara Halim Perdanakusuma adalah entitas lokasi .
+"Pesawat Batik Air dan TransNusa bertabrakan di landasan pacu Bandara Halim Perdanakusuma , Jakarta Timur .",Jakarta Timur adalah entitas lokasi .
+"Hal itu diungkapkan di di depan pejabat Pemkot Jayapura , Papua , saat talkshow ' Strategi Jayapura menuju Kota Metropolitan ' di Kantor Wali Kota Jayapura , Jumat ( 4/3/2016 ) .",Jayapura adalah entitas lokasi .
+"Hal itu diungkapkan di di depan pejabat Pemkot Jayapura , Papua , saat talkshow ' Strategi Jayapura menuju Kota Metropolitan ' di Kantor Wali Kota Jayapura , Jumat ( 4/3/2016 ) .",Papua adalah entitas lokasi .
+"Hal itu diungkapkan di di depan pejabat Pemkot Jayapura , Papua , saat talkshow ' Strategi Jayapura menuju Kota Metropolitan ' di Kantor Wali Kota Jayapura , Jumat ( 4/3/2016 ) .",Jayapura adalah entitas lokasi .
+"Hal itu diungkapkan di di depan pejabat Pemkot Jayapura , Papua , saat talkshow ' Strategi Jayapura menuju Kota Metropolitan ' di Kantor Wali Kota Jayapura , Jumat ( 4/3/2016 ) .",Jayapura adalah entitas lokasi .
+"Dalam jumpa pers di Kemenko Polhukam , Kamis ( 24/3/2016 ) sejumlah persyaratan harus dilakukan .",Kemenko Polhukam adalah entitas organisasi .
+"Tapi City pada akhirnya bisa memaksakan hasil imbang usai Fernandinho bikin gol di menit ke-72 .",City adalah entitas organisasi .
+"Tapi City pada akhirnya bisa memaksakan hasil imbang usai Fernandinho bikin gol di menit ke-72 .",Fernandinho adalah entitas tokoh .
+"Die Wolfe yang tampil efisien justru mampu memberikan hantaman keras untuk Los Blancos .",Die Wolfe adalah entitas organisasi .
+"Die Wolfe yang tampil efisien justru mampu memberikan hantaman keras untuk Los Blancos .",Los Blancos adalah entitas organisasi .
+"Meski begitu , Eddy belum bisa memastikan apakah sudah ada komunikasi antara Zulkifli dengan Jokowi terkait perombakan kabinet .",Eddy adalah entitas tokoh .
+"Meski begitu , Eddy belum bisa memastikan apakah sudah ada komunikasi antara Zulkifli dengan Jokowi terkait perombakan kabinet .",Zulkifli adalah entitas tokoh .
+"Meski begitu , Eddy belum bisa memastikan apakah sudah ada komunikasi antara Zulkifli dengan Jokowi terkait perombakan kabinet .",Jokowi adalah entitas tokoh .
+"Ia mengatakan ada pihak yang ingin mengadu domba antara partainya dengan PKB terkait isu reshuffle jilid II .",PKB adalah entitas organisasi .
+"Usai acara penyambutan , Megawati langsung memasuki ruangan kelas I. Ruangan kelas I tersebut sepertinya memang telah dipersiapkan secara khusus untuk dikunjungi oleh Megawati sebab hanya ruangan itulah yang berisi siswa .",Megawati adalah entitas tokoh .
+"Usai acara penyambutan , Megawati langsung memasuki ruangan kelas I. Ruangan kelas I tersebut sepertinya memang telah dipersiapkan secara khusus untuk dikunjungi oleh Megawati sebab hanya ruangan itulah yang berisi siswa .",Megawati adalah entitas tokoh .
+"Misal kalau Kemenhub ingin ingin memperbaiki bandara , Jonan bilang ada saja pihak yang menuntut .",Kemenhub adalah entitas organisasi .
+"Misal kalau Kemenhub ingin ingin memperbaiki bandara , Jonan bilang ada saja pihak yang menuntut .",Jonan adalah entitas tokoh .
+"Diberitakan sebelumnya , bahwa smartphone anyar mereka , Samsung Galaxy S III menjadi ponsel resmi gelaran olahraga tersebut .",Samsung adalah entitas organisasi .
+"Di sisi positif , lanjut Bambang , artinya upaya penangkapan dan pencegahan sudah dilakukan dengan baik .",Bambang adalah entitas tokoh .
+"Barata juga mengatakan pihaknya telah meminta pihak Komite Nasional Kecelakaan Transportasi ( KNKT ) untuk memeriksa Air Traffic Control ( ATC ) dan Lembaga Penyelenggara Pelayanan Navigasi Penerbangan Indonesia ( LPPNPI ) .",Barata adalah entitas tokoh .
+"Barata juga mengatakan pihaknya telah meminta pihak Komite Nasional Kecelakaan Transportasi ( KNKT ) untuk memeriksa Air Traffic Control ( ATC ) dan Lembaga Penyelenggara Pelayanan Navigasi Penerbangan Indonesia ( LPPNPI ) .",Komite Nasional Kecelakaan Transportasi adalah entitas organisasi .
+"Barata juga mengatakan pihaknya telah meminta pihak Komite Nasional Kecelakaan Transportasi ( KNKT ) untuk memeriksa Air Traffic Control ( ATC ) dan Lembaga Penyelenggara Pelayanan Navigasi Penerbangan Indonesia ( LPPNPI ) .",KNKT adalah entitas organisasi .
+"Barata juga mengatakan pihaknya telah meminta pihak Komite Nasional Kecelakaan Transportasi ( KNKT ) untuk memeriksa Air Traffic Control ( ATC ) dan Lembaga Penyelenggara Pelayanan Navigasi Penerbangan Indonesia ( LPPNPI ) .",Air Traffic Control adalah entitas organisasi .
+"Barata juga mengatakan pihaknya telah meminta pihak Komite Nasional Kecelakaan Transportasi ( KNKT ) untuk memeriksa Air Traffic Control ( ATC ) dan Lembaga Penyelenggara Pelayanan Navigasi Penerbangan Indonesia ( LPPNPI ) .",ATC adalah entitas organisasi .
+"Barata juga mengatakan pihaknya telah meminta pihak Komite Nasional Kecelakaan Transportasi ( KNKT ) untuk memeriksa Air Traffic Control ( ATC ) dan Lembaga Penyelenggara Pelayanan Navigasi Penerbangan Indonesia ( LPPNPI ) .",Lembaga Penyelenggara Pelayanan Navigasi Penerbangan Indonesia adalah entitas organisasi .
+"Barata juga mengatakan pihaknya telah meminta pihak Komite Nasional Kecelakaan Transportasi ( KNKT ) untuk memeriksa Air Traffic Control ( ATC ) dan Lembaga Penyelenggara Pelayanan Navigasi Penerbangan Indonesia ( LPPNPI ) .",LPPNPI adalah entitas organisasi .
+"Kehadiran Jokowi disambut langsung oleh Menteri Perhubungan Ignasius Jonan dan Gubernur Kalimantan Utara Irianto Lambrie .",Jokowi adalah entitas tokoh .
+"Kehadiran Jokowi disambut langsung oleh Menteri Perhubungan Ignasius Jonan dan Gubernur Kalimantan Utara Irianto Lambrie .",Ignasius Jonan adalah entitas tokoh .
+"Kehadiran Jokowi disambut langsung oleh Menteri Perhubungan Ignasius Jonan dan Gubernur Kalimantan Utara Irianto Lambrie .",Kalimantan Utara adalah entitas lokasi .
+"Kehadiran Jokowi disambut langsung oleh Menteri Perhubungan Ignasius Jonan dan Gubernur Kalimantan Utara Irianto Lambrie .",Irianto Lambrie adalah entitas tokoh .
+"Paguyuban Pengemudi Angkutan Darat ( PPAD ) mengapresiasi langkah pemerintah yang memberikan solusi rentang waktu agar Uber dan GrabCar agar melengkapi izin perusahaan .",Paguyuban Pengemudi Angkutan Darat adalah entitas organisasi .
+"Paguyuban Pengemudi Angkutan Darat ( PPAD ) mengapresiasi langkah pemerintah yang memberikan solusi rentang waktu agar Uber dan GrabCar agar melengkapi izin perusahaan .",PPAD adalah entitas organisasi .
+"Paguyuban Pengemudi Angkutan Darat ( PPAD ) mengapresiasi langkah pemerintah yang memberikan solusi rentang waktu agar Uber dan GrabCar agar melengkapi izin perusahaan .",Uber adalah entitas organisasi .
+"Paguyuban Pengemudi Angkutan Darat ( PPAD ) mengapresiasi langkah pemerintah yang memberikan solusi rentang waktu agar Uber dan GrabCar agar melengkapi izin perusahaan .",GrabCar adalah entitas organisasi .
+"" Nama - nama potensial adalah seperti yang beredar sebelumnya , yakni Djarot Saiful Hidayat ( Wagub DKI ) , Boy Sadikin ( Ketua PDIP DKI ) , Tri Rismaharini , dan Ganjar Pranowo , " kata Prasetio Edi Marsudi .",Djarot Saiful Hidayat adalah entitas tokoh .
+"" Nama - nama potensial adalah seperti yang beredar sebelumnya , yakni Djarot Saiful Hidayat ( Wagub DKI ) , Boy Sadikin ( Ketua PDIP DKI ) , Tri Rismaharini , dan Ganjar Pranowo , " kata Prasetio Edi Marsudi .",DKI adalah entitas lokasi .
+"" Nama - nama potensial adalah seperti yang beredar sebelumnya , yakni Djarot Saiful Hidayat ( Wagub DKI ) , Boy Sadikin ( Ketua PDIP DKI ) , Tri Rismaharini , dan Ganjar Pranowo , " kata Prasetio Edi Marsudi .",Boy Sadikin adalah entitas tokoh .
+"" Nama - nama potensial adalah seperti yang beredar sebelumnya , yakni Djarot Saiful Hidayat ( Wagub DKI ) , Boy Sadikin ( Ketua PDIP DKI ) , Tri Rismaharini , dan Ganjar Pranowo , " kata Prasetio Edi Marsudi .",PDIP adalah entitas organisasi .
+"" Nama - nama potensial adalah seperti yang beredar sebelumnya , yakni Djarot Saiful Hidayat ( Wagub DKI ) , Boy Sadikin ( Ketua PDIP DKI ) , Tri Rismaharini , dan Ganjar Pranowo , " kata Prasetio Edi Marsudi .",DKI adalah entitas lokasi .
+"" Nama - nama potensial adalah seperti yang beredar sebelumnya , yakni Djarot Saiful Hidayat ( Wagub DKI ) , Boy Sadikin ( Ketua PDIP DKI ) , Tri Rismaharini , dan Ganjar Pranowo , " kata Prasetio Edi Marsudi .",Tri Rismaharini adalah entitas tokoh .
+"" Nama - nama potensial adalah seperti yang beredar sebelumnya , yakni Djarot Saiful Hidayat ( Wagub DKI ) , Boy Sadikin ( Ketua PDIP DKI ) , Tri Rismaharini , dan Ganjar Pranowo , " kata Prasetio Edi Marsudi .",Ganjar Pranowo adalah entitas tokoh .
+"" Nama - nama potensial adalah seperti yang beredar sebelumnya , yakni Djarot Saiful Hidayat ( Wagub DKI ) , Boy Sadikin ( Ketua PDIP DKI ) , Tri Rismaharini , dan Ganjar Pranowo , " kata Prasetio Edi Marsudi .",Prasetio Edi Marsudi adalah entitas tokoh .
+"Konon dulu Candi Sambisari terletak 6,5 meter di bawah permukaan tanah akibat tertimbun lahar Gunung Merapi yang sempat meletus pada awal abad ke-11 .",Candi Sambisari adalah entitas lokasi .
+"Konon dulu Candi Sambisari terletak 6,5 meter di bawah permukaan tanah akibat tertimbun lahar Gunung Merapi yang sempat meletus pada awal abad ke-11 .",Gunung Merapi adalah entitas lokasi .
+"Bisa saja karena ketidaktahuan konsumen , saat meminta ' iPad ' yang diterimanya adalah Galaxy Tab dari Samsung .",Samsung adalah entitas organisasi .
+"Sebelumnya , capres yang diusung oleh Partai Demokrat dan beberapa partai peserta koalisi , Susilo Bambang Yudhoyono ( SBY ) , menyindir janji Mega - Prabowo soal pertumbuhan ekonomi dua digit dianggap menjanjikan angin surga .",Partai Demokrat adalah entitas organisasi .
+"Sebelumnya , capres yang diusung oleh Partai Demokrat dan beberapa partai peserta koalisi , Susilo Bambang Yudhoyono ( SBY ) , menyindir janji Mega - Prabowo soal pertumbuhan ekonomi dua digit dianggap menjanjikan angin surga .",Susilo Bambang Yudhoyono adalah entitas tokoh .
+"Sebelumnya , capres yang diusung oleh Partai Demokrat dan beberapa partai peserta koalisi , Susilo Bambang Yudhoyono ( SBY ) , menyindir janji Mega - Prabowo soal pertumbuhan ekonomi dua digit dianggap menjanjikan angin surga .",SBY adalah entitas tokoh .
+"Sebelumnya , capres yang diusung oleh Partai Demokrat dan beberapa partai peserta koalisi , Susilo Bambang Yudhoyono ( SBY ) , menyindir janji Mega - Prabowo soal pertumbuhan ekonomi dua digit dianggap menjanjikan angin surga .",Mega adalah entitas tokoh .
+"Sebelumnya , capres yang diusung oleh Partai Demokrat dan beberapa partai peserta koalisi , Susilo Bambang Yudhoyono ( SBY ) , menyindir janji Mega - Prabowo soal pertumbuhan ekonomi dua digit dianggap menjanjikan angin surga .",Prabowo adalah entitas tokoh .
+"Fernando gagal menguasai bola dengan baik dan ketika hendak membuang bola , bola malah disambar Ibrahimovic dan masuk ke dalam gawang City .",Fernando adalah entitas tokoh .
+"Fernando gagal menguasai bola dengan baik dan ketika hendak membuang bola , bola malah disambar Ibrahimovic dan masuk ke dalam gawang City .",Ibrahimovic adalah entitas tokoh .
+"Fernando gagal menguasai bola dengan baik dan ketika hendak membuang bola , bola malah disambar Ibrahimovic dan masuk ke dalam gawang City .",City adalah entitas organisasi .
+"Madrid butuh kemenangan dengan selisih tiga gol atas Wolfsburg untuk lolos .",Madrid adalah entitas organisasi .
+"Madrid butuh kemenangan dengan selisih tiga gol atas Wolfsburg untuk lolos .",Wolfsburg adalah entitas organisasi .
+"" Kita harapkan nantinya betul - betul terintegrasi dari MRT , LRT , buswaynya ke bandara dengan commuter line , dengan kereta cepat sambung lagi ke LRT di Bandung Raya , " jelas Jokowi .",Bandung Raya adalah entitas lokasi .
+"" Kita harapkan nantinya betul - betul terintegrasi dari MRT , LRT , buswaynya ke bandara dengan commuter line , dengan kereta cepat sambung lagi ke LRT di Bandung Raya , " jelas Jokowi .",Jokowi adalah entitas tokoh .
+"Pengawas eksternal itu memiliki peran yang berbeda , seperti Kompolnas , KemenPAN - RB dan IPW selaku pengawas independen yang menilai secara keseluruhan dalam rangkaian penerimaan Polri di Polda Metro Jaya .",Kompolnas adalah entitas organisasi .
+"Pengawas eksternal itu memiliki peran yang berbeda , seperti Kompolnas , KemenPAN - RB dan IPW selaku pengawas independen yang menilai secara keseluruhan dalam rangkaian penerimaan Polri di Polda Metro Jaya .",KemenPAN - RB adalah entitas organisasi .
+"Pengawas eksternal itu memiliki peran yang berbeda , seperti Kompolnas , KemenPAN - RB dan IPW selaku pengawas independen yang menilai secara keseluruhan dalam rangkaian penerimaan Polri di Polda Metro Jaya .",IPW adalah entitas organisasi .
+"Pengawas eksternal itu memiliki peran yang berbeda , seperti Kompolnas , KemenPAN - RB dan IPW selaku pengawas independen yang menilai secara keseluruhan dalam rangkaian penerimaan Polri di Polda Metro Jaya .",Polri adalah entitas organisasi .
+"Pengawas eksternal itu memiliki peran yang berbeda , seperti Kompolnas , KemenPAN - RB dan IPW selaku pengawas independen yang menilai secara keseluruhan dalam rangkaian penerimaan Polri di Polda Metro Jaya .",Polda Metro Jaya adalah entitas organisasi .
+"Tak akrabnya Menteri Rini dengan DPR sering membuat Komisi VI dan XI menolak kehadirannya .",Rini adalah entitas tokoh .
+"Tak akrabnya Menteri Rini dengan DPR sering membuat Komisi VI dan XI menolak kehadirannya .",DPR adalah entitas organisasi .
+"Karena faktor usia , mungkin tak banyak yang menjagokan Pete Sampras bisa mengalahkan Roger Federer .",Pete Sampras adalah entitas tokoh .
+"Karena faktor usia , mungkin tak banyak yang menjagokan Pete Sampras bisa mengalahkan Roger Federer .",Roger Federer adalah entitas tokoh .
+"Sedangkan untuk Printer , Samsung masih di bawah HP dengan pangsa pasar 10,2 % .",Samsung adalah entitas organisasi .
+"Drama seri ' Descendants of the Sun ' sukses berkat , antara lain , chemistry antara dua bintang utamanya , aktris Song Hye - kyo dan aktor Song Joong - ki .",Song Hye - kyo adalah entitas tokoh .
+"Drama seri ' Descendants of the Sun ' sukses berkat , antara lain , chemistry antara dua bintang utamanya , aktris Song Hye - kyo dan aktor Song Joong - ki .",Song Joong - ki adalah entitas tokoh .
+"Sekarang ini muncul berita fitnah secara sistematis yang tidak sesuai fakta hanya untuk merebut kementerian desa .",kementerian desa adalah entitas organisasi .
+"Dinas yang dimaksud yakni , Dinas Pariwisata dan Dinas Kependudukan dan Catatan Sipil yang ditempatkan di Gedung Siola .",Dinas Pariwisata adalah entitas organisasi .
+"Dinas yang dimaksud yakni , Dinas Pariwisata dan Dinas Kependudukan dan Catatan Sipil yang ditempatkan di Gedung Siola .",Dinas Kependudukan dan Catatan Sipil adalah entitas organisasi .
+"Dinas yang dimaksud yakni , Dinas Pariwisata dan Dinas Kependudukan dan Catatan Sipil yang ditempatkan di Gedung Siola .",Gedung Siola adalah entitas lokasi .
+"Mantan Dekan Fakultas Ekonomi Universitas Indonesia ini mengatakan , pihaknya akan segera berkoordinasi dengan regulator lain untuk merumuskan kebijakan penampungan serta pemanfaatan dana repatriasi yang akan masuk tersebut .",Fakultas Ekonomi Universitas Indonesia adalah entitas organisasi .
+"Risma sebenarnya tidak mempermasalahkan jika pengelolaan SMA / SMK diambil alih Pemrov Jatim , dengan catatan daerah yang memang tidak sanggup mengelola dan kewalahan .",Risma adalah entitas tokoh .
+"Risma sebenarnya tidak mempermasalahkan jika pengelolaan SMA / SMK diambil alih Pemrov Jatim , dengan catatan daerah yang memang tidak sanggup mengelola dan kewalahan .",Jatim adalah entitas lokasi .
+"Pihak AP II tidak melihat adanya hubungan antara kecelakaan dengan posisi jabatan GM di Bandara Halim .",AP II adalah entitas organisasi .
+"Pihak AP II tidak melihat adanya hubungan antara kecelakaan dengan posisi jabatan GM di Bandara Halim .",Bandara Halim adalah entitas lokasi .
+"Bambang menjelaskan , pihak Indofood sebelumnya sudah mengatakan bahwa produk yang mereka kirim ke Taiwan sudah sesuai dengan ketentuan yang di Taiwan .",Bambang adalah entitas tokoh .
+"Bambang menjelaskan , pihak Indofood sebelumnya sudah mengatakan bahwa produk yang mereka kirim ke Taiwan sudah sesuai dengan ketentuan yang di Taiwan .",Indofood adalah entitas organisasi .
+"Bambang menjelaskan , pihak Indofood sebelumnya sudah mengatakan bahwa produk yang mereka kirim ke Taiwan sudah sesuai dengan ketentuan yang di Taiwan .",Taiwan adalah entitas lokasi .
+"Bambang menjelaskan , pihak Indofood sebelumnya sudah mengatakan bahwa produk yang mereka kirim ke Taiwan sudah sesuai dengan ketentuan yang di Taiwan .",Taiwan adalah entitas lokasi .
+"Turut dibahas dalam pertemuan itu langkah maju dalam EFTA ( European Free Trade Association ) .",EFTA adalah entitas organisasi .
+"Turut dibahas dalam pertemuan itu langkah maju dalam EFTA ( European Free Trade Association ) .",European Free Trade Association adalah entitas organisasi .
+"PB PASI risau dengan hasil yang dibuat Maria Natalia Londa di Singapura Terbuka .",PB PASI adalah entitas organisasi .
+"PB PASI risau dengan hasil yang dibuat Maria Natalia Londa di Singapura Terbuka .",Maria Natalia Londa adalah entitas tokoh .
+"PB PASI risau dengan hasil yang dibuat Maria Natalia Londa di Singapura Terbuka .",Singapura adalah entitas lokasi .
+"Disney menuduh Tim Burton menyia - nyiakan sumber daya studio dan menilai film itu " terlalu menyeramkan " .",Disney adalah entitas organisasi .
+"Disney menuduh Tim Burton menyia - nyiakan sumber daya studio dan menilai film itu " terlalu menyeramkan " .",Tim Burton adalah entitas tokoh .
+"Kemenhub mengeluarkan Peraturan Menteri Perhubungan Nomor PM 38 Tahun 2016 tentang Tarif Batas Atas Angkutan Penumpang Laut Dalam Negeri Kelas Ekonomi .",Kemenhub adalah entitas organisasi .
+"Barca memang masih memimpin klasemen dengan nilai 76 dari 31 pekan .",Barca adalah entitas organisasi .
+"Yang pertama adalah Fernando Torres , yang kedua adalah Fernando Reges .",Fernando Torres adalah entitas tokoh .
+"Yang pertama adalah Fernando Torres , yang kedua adalah Fernando Reges .",Fernando Reges adalah entitas tokoh .
+"DPR meminta rapat konsultasi dengan Presiden Joko Widodo untuk membahas RUU Pengampunan Pajak ( Tax Amnesty ) .",DPR adalah entitas organisasi .
+"DPR meminta rapat konsultasi dengan Presiden Joko Widodo untuk membahas RUU Pengampunan Pajak ( Tax Amnesty ) .",Joko Widodo adalah entitas tokoh .
+"Pengerjaan frontage road sisi barat kembali dilanjutkan khususnya depan Mapolda Jatim dan kampus Universitas Bhayangkara ( Ubhara ) , yang sempat terkendala pembebasan lahan .",Jatim adalah entitas lokasi .
+"Pengerjaan frontage road sisi barat kembali dilanjutkan khususnya depan Mapolda Jatim dan kampus Universitas Bhayangkara ( Ubhara ) , yang sempat terkendala pembebasan lahan .",Universitas Bhayangkara adalah entitas organisasi .
+"Pengerjaan frontage road sisi barat kembali dilanjutkan khususnya depan Mapolda Jatim dan kampus Universitas Bhayangkara ( Ubhara ) , yang sempat terkendala pembebasan lahan .",Ubhara adalah entitas organisasi .
+"" Federer memiliki tahun lebih banyak di tur , dia lebih banyak sukses , dia memiliki lebih banyak trofi .",Federer adalah entitas tokoh .
+"Dua gol PSG dicetak oleh Ibra dan Adrien Rabiot , sementara dua gol City tercatat atas nama Kevin De Bruyne dan Fernandinho .",PSG adalah entitas organisasi .
+"Dua gol PSG dicetak oleh Ibra dan Adrien Rabiot , sementara dua gol City tercatat atas nama Kevin De Bruyne dan Fernandinho .",Ibra adalah entitas tokoh .
+"Dua gol PSG dicetak oleh Ibra dan Adrien Rabiot , sementara dua gol City tercatat atas nama Kevin De Bruyne dan Fernandinho .",Adrien Rabiot adalah entitas tokoh .
+"Dua gol PSG dicetak oleh Ibra dan Adrien Rabiot , sementara dua gol City tercatat atas nama Kevin De Bruyne dan Fernandinho .",City adalah entitas organisasi .
+"Dua gol PSG dicetak oleh Ibra dan Adrien Rabiot , sementara dua gol City tercatat atas nama Kevin De Bruyne dan Fernandinho .",Kevin De Bruyne adalah entitas tokoh .
+"Dua gol PSG dicetak oleh Ibra dan Adrien Rabiot , sementara dua gol City tercatat atas nama Kevin De Bruyne dan Fernandinho .",Fernandinho adalah entitas tokoh .
+"Berdasarkan perintah Gubernur DKI Jakarta Basuki Tjahaja Purnama atau Ahok , Pemprov DKI Jakarta mengambil alih pengelolaan parkir di TIM dari PT Putraja .",DKI Jakarta adalah entitas lokasi .
+"Berdasarkan perintah Gubernur DKI Jakarta Basuki Tjahaja Purnama atau Ahok , Pemprov DKI Jakarta mengambil alih pengelolaan parkir di TIM dari PT Putraja .",Basuki Tjahaja Purnama adalah entitas tokoh .
+"Berdasarkan perintah Gubernur DKI Jakarta Basuki Tjahaja Purnama atau Ahok , Pemprov DKI Jakarta mengambil alih pengelolaan parkir di TIM dari PT Putraja .",Ahok adalah entitas tokoh .
+"Berdasarkan perintah Gubernur DKI Jakarta Basuki Tjahaja Purnama atau Ahok , Pemprov DKI Jakarta mengambil alih pengelolaan parkir di TIM dari PT Putraja .",DKI Jakarta adalah entitas lokasi .
+"Berdasarkan perintah Gubernur DKI Jakarta Basuki Tjahaja Purnama atau Ahok , Pemprov DKI Jakarta mengambil alih pengelolaan parkir di TIM dari PT Putraja .",TIM adalah entitas lokasi .
+"Berdasarkan perintah Gubernur DKI Jakarta Basuki Tjahaja Purnama atau Ahok , Pemprov DKI Jakarta mengambil alih pengelolaan parkir di TIM dari PT Putraja .",PT Putraja adalah entitas organisasi .
+"Enggak selesaikan masalah , nanti ada yang ribut lagi , " kata Luhut dalam konferensi pers di kantornya , Jl Medan Merdeka Selatan , Jakarta , Selasa ( 22/3/2016 ) .",Luhut adalah entitas tokoh .
+"Enggak selesaikan masalah , nanti ada yang ribut lagi , " kata Luhut dalam konferensi pers di kantornya , Jl Medan Merdeka Selatan , Jakarta , Selasa ( 22/3/2016 ) .",Jl Medan Merdeka Selatan adalah entitas lokasi .
+"Enggak selesaikan masalah , nanti ada yang ribut lagi , " kata Luhut dalam konferensi pers di kantornya , Jl Medan Merdeka Selatan , Jakarta , Selasa ( 22/3/2016 ) .",Jakarta adalah entitas lokasi .
+"Pemulihan Jaringan Disampaikan Awaludin , personil Telkom telah memulihkan seluruh infrastruktur telekomunikasi utama .",Awaludin adalah entitas tokoh .
+"Pemulihan Jaringan Disampaikan Awaludin , personil Telkom telah memulihkan seluruh infrastruktur telekomunikasi utama .",Telkom adalah entitas organisasi .
+"Sedangkan saham - saham yang turun harganya di top losser antara lain , Telkom ( TLKM ) turun Rp 300 menjadi Rp 11.050 , Bumi Resources ( BUMI ) turun Rp 25 menjadi Rp 2.725 dan Indofood Sukses Makmur ( INDF ) turun Rp 25 menjadi Rp 2.175 .",Telkom adalah entitas organisasi .
+"Sedangkan saham - saham yang turun harganya di top losser antara lain , Telkom ( TLKM ) turun Rp 300 menjadi Rp 11.050 , Bumi Resources ( BUMI ) turun Rp 25 menjadi Rp 2.725 dan Indofood Sukses Makmur ( INDF ) turun Rp 25 menjadi Rp 2.175 .",TLKM adalah entitas organisasi .
+"Sedangkan saham - saham yang turun harganya di top losser antara lain , Telkom ( TLKM ) turun Rp 300 menjadi Rp 11.050 , Bumi Resources ( BUMI ) turun Rp 25 menjadi Rp 2.725 dan Indofood Sukses Makmur ( INDF ) turun Rp 25 menjadi Rp 2.175 .",Bumi Resources adalah entitas organisasi .
+"Sedangkan saham - saham yang turun harganya di top losser antara lain , Telkom ( TLKM ) turun Rp 300 menjadi Rp 11.050 , Bumi Resources ( BUMI ) turun Rp 25 menjadi Rp 2.725 dan Indofood Sukses Makmur ( INDF ) turun Rp 25 menjadi Rp 2.175 .",BUMI adalah entitas organisasi .
+"Sedangkan saham - saham yang turun harganya di top losser antara lain , Telkom ( TLKM ) turun Rp 300 menjadi Rp 11.050 , Bumi Resources ( BUMI ) turun Rp 25 menjadi Rp 2.725 dan Indofood Sukses Makmur ( INDF ) turun Rp 25 menjadi Rp 2.175 .",Indofood Sukses Makmur adalah entitas organisasi .
+"Sedangkan saham - saham yang turun harganya di top losser antara lain , Telkom ( TLKM ) turun Rp 300 menjadi Rp 11.050 , Bumi Resources ( BUMI ) turun Rp 25 menjadi Rp 2.725 dan Indofood Sukses Makmur ( INDF ) turun Rp 25 menjadi Rp 2.175 .",INDF adalah entitas organisasi .
+"Jika ditilik dari kualitas tim yang dimiliki , Wolfsburg bukanlah tandingan untuk Madrid dan diprediksi bakal jadi bulan - bulanan di dua pertemuannya .",Wolfsburg adalah entitas lokasi .
+"Jika ditilik dari kualitas tim yang dimiliki , Wolfsburg bukanlah tandingan untuk Madrid dan diprediksi bakal jadi bulan - bulanan di dua pertemuannya .",Madrid adalah entitas lokasi .
+"" Masih akan ada kejutan - kejutan , tapi saya berharap kejutan - kejutan itu akan didapat tim - tim lain dan kami bisa memenangi tujuh pertandingan sisa untuk jadi juara , " kata Gabriel .",Gabriel adalah entitas tokoh .
+"Kepala Pusat Data Informasi dan Humas BNPB , Sutopo Purwo Nugroho mengatakan banjir bandang terjadi pada Minggu ( 20/3/2016 ) pukul 14.45 WIB .",BNPB adalah entitas organisasi .
+"Kepala Pusat Data Informasi dan Humas BNPB , Sutopo Purwo Nugroho mengatakan banjir bandang terjadi pada Minggu ( 20/3/2016 ) pukul 14.45 WIB .",Sutopo Purwo Nugroho adalah entitas tokoh .
+"Jakarta - Maraton Premier League , yang dimulai musim panas tahun lalu , kian mendekati akhir .",Jakarta adalah entitas lokasi .
+"Kalau ada usut tuntas bawa pengadilan , " kata Kapolri di Taman Makam Pahlawan Kalibata , Jakarta Selatan , Selasa ( 22/3/2016 ) .",Taman Makam Pahlawan Kalibata adalah entitas lokasi .
+"Kalau ada usut tuntas bawa pengadilan , " kata Kapolri di Taman Makam Pahlawan Kalibata , Jakarta Selatan , Selasa ( 22/3/2016 ) .",Jakarta Selatan adalah entitas lokasi .
+"Untuk itu Spurs bisa turut berharap pada beberapa mantan pemainnya .",Spurs adalah entitas organisasi .
+"Perjanjian kedua pihak ditandatangani di kampus Universitas Szent Istvan Godollo , Budapest .",Universitas Szent Istvan Godollo adalah entitas organisasi .
+"Perjanjian kedua pihak ditandatangani di kampus Universitas Szent Istvan Godollo , Budapest .",Budapest adalah entitas lokasi .
+"Rute LRT Jakarta rencananya bakal melalui Bandara Soekarno Hatta , Kelapa Gading hingga Kebayoran Lama .",Jakarta adalah entitas lokasi .
+"Rute LRT Jakarta rencananya bakal melalui Bandara Soekarno Hatta , Kelapa Gading hingga Kebayoran Lama .",Bandara Soekarno Hatta adalah entitas lokasi .
+"Rute LRT Jakarta rencananya bakal melalui Bandara Soekarno Hatta , Kelapa Gading hingga Kebayoran Lama .",Kelapa Gading adalah entitas lokasi .
+"Rute LRT Jakarta rencananya bakal melalui Bandara Soekarno Hatta , Kelapa Gading hingga Kebayoran Lama .",Kebayoran Lama adalah entitas lokasi .
+"Selain ' Monsters , Inc 2 ' , Disney juga tengah menggarap ' The Bear And The Bow ' .",Disney adalah entitas organisasi .
+"Lebih dari 10 tahun setelah ' Finding Nemo ' , kini Walt Disney Pictures dan Pixar Animation Studio merilis gambar perdana kisah ikan - ikan yang lucu dalam cerita sekuel berjudul ' Finding Dory ' .",Nemo adalah entitas tokoh .
+"Lebih dari 10 tahun setelah ' Finding Nemo ' , kini Walt Disney Pictures dan Pixar Animation Studio merilis gambar perdana kisah ikan - ikan yang lucu dalam cerita sekuel berjudul ' Finding Dory ' .",Walt Disney Pictures adalah entitas organisasi .
+"Lebih dari 10 tahun setelah ' Finding Nemo ' , kini Walt Disney Pictures dan Pixar Animation Studio merilis gambar perdana kisah ikan - ikan yang lucu dalam cerita sekuel berjudul ' Finding Dory ' .",Pixar Animation Studio adalah entitas organisasi .
+"Lebih dari 10 tahun setelah ' Finding Nemo ' , kini Walt Disney Pictures dan Pixar Animation Studio merilis gambar perdana kisah ikan - ikan yang lucu dalam cerita sekuel berjudul ' Finding Dory ' .",Dory adalah entitas tokoh .
+"Tak hanya soal tarif bawah saja , sejumlah aturan yang menghambat taksi konvensional , juga disarankan dihapuskan agar persaingan dengan layanan berbasis aplikasi seperti Uber dan GrabCar bisa dilakukan .",Uber adalah entitas organisasi .
+"Tak hanya soal tarif bawah saja , sejumlah aturan yang menghambat taksi konvensional , juga disarankan dihapuskan agar persaingan dengan layanan berbasis aplikasi seperti Uber dan GrabCar bisa dilakukan .",GrabCar adalah entitas organisasi .
+"Mereka punya branch di Singapore , tapi all the moduls dari UK , " tutur Rio saat diwawancara wartawan di Hotel Crowne Plaza , Milan , Italia , Jumat ( 5/9/2014 ) malam .",Singapore adalah entitas lokasi .
+"Mereka punya branch di Singapore , tapi all the moduls dari UK , " tutur Rio saat diwawancara wartawan di Hotel Crowne Plaza , Milan , Italia , Jumat ( 5/9/2014 ) malam .",UK adalah entitas lokasi .
+"Mereka punya branch di Singapore , tapi all the moduls dari UK , " tutur Rio saat diwawancara wartawan di Hotel Crowne Plaza , Milan , Italia , Jumat ( 5/9/2014 ) malam .",Rio adalah entitas tokoh .
+"Mereka punya branch di Singapore , tapi all the moduls dari UK , " tutur Rio saat diwawancara wartawan di Hotel Crowne Plaza , Milan , Italia , Jumat ( 5/9/2014 ) malam .",Hotel Crowne Plaza adalah entitas lokasi .
+"Mereka punya branch di Singapore , tapi all the moduls dari UK , " tutur Rio saat diwawancara wartawan di Hotel Crowne Plaza , Milan , Italia , Jumat ( 5/9/2014 ) malam .",Milan adalah entitas lokasi .
+"Mereka punya branch di Singapore , tapi all the moduls dari UK , " tutur Rio saat diwawancara wartawan di Hotel Crowne Plaza , Milan , Italia , Jumat ( 5/9/2014 ) malam .",Italia adalah entitas lokasi .
+"Sejumlah anggota Fraksi PDIP dari lintas komisi ikut memberikan pandangan terkait persoalan transportasi berbasis aplikasi online .",PDIP adalah entitas organisasi .
+"Sudah 10 episode ' Descendants of the Sun ' tayang di layar KBS 2TV .",KBS 2TV adalah entitas organisasi .
+"Jonan bercerita kalau dirinya sering digugat orang lain lantaran tidak memberikan izin kepada kapal asing untuk beroperasi .",Jonan adalah entitas tokoh .
+"Sementara itu Stoke dan Liverpool malah harus saling berhadapan di Anfield .",Stoke adalah entitas organisasi .
+"Sementara itu Stoke dan Liverpool malah harus saling berhadapan di Anfield .",Liverpool adalah entitas lokasi .
+"Sementara itu Stoke dan Liverpool malah harus saling berhadapan di Anfield .",Anfield adalah entitas lokasi .
+"Zlatan punya prioritas , seperti menuntaskan musim lebih dulu dan tampil oke di Piala Eropa .",Zlatan adalah entitas tokoh .
+"Zlatan punya prioritas , seperti menuntaskan musim lebih dulu dan tampil oke di Piala Eropa .",Eropa adalah entitas lokasi .
+"Selain dengan HTC , Sony Ericsson jelas harus bersaing ketat dengan vendor Samsung , Motorola dan LG yang kesemuanya sangat agresif di ranah Android .",HTC adalah entitas organisasi .
+"Selain dengan HTC , Sony Ericsson jelas harus bersaing ketat dengan vendor Samsung , Motorola dan LG yang kesemuanya sangat agresif di ranah Android .",Sony Ericsson adalah entitas organisasi .
+"Selain dengan HTC , Sony Ericsson jelas harus bersaing ketat dengan vendor Samsung , Motorola dan LG yang kesemuanya sangat agresif di ranah Android .",Samsung adalah entitas organisasi .
+"Selain dengan HTC , Sony Ericsson jelas harus bersaing ketat dengan vendor Samsung , Motorola dan LG yang kesemuanya sangat agresif di ranah Android .",Motorola adalah entitas organisasi .
+"Selain dengan HTC , Sony Ericsson jelas harus bersaing ketat dengan vendor Samsung , Motorola dan LG yang kesemuanya sangat agresif di ranah Android .",LG adalah entitas organisasi .
+"Suami mantan Dirut Indofood Eva Rianti Hutapea ini , dicecar belasan pertanyaan oleh penyidik .",Indofood adalah entitas organisasi .
+"Suami mantan Dirut Indofood Eva Rianti Hutapea ini , dicecar belasan pertanyaan oleh penyidik .",Eva Rianti Hutapea adalah entitas tokoh .
+"Kunjungan itu pun berakhir dengan pemahaman bahwa kolaborasi antara imajinasi dan teknologi yang digunakan Disney bukan hanya sudah berlari jauh ke depan , tapi telah menembus batas - batas imajinasi .",Disney adalah entitas organisasi .
+"Beberapa waktu lalu penyanyi remaja jebolan Disney ini memutuskan hengkang dari Twitter .",Disney adalah entitas organisasi .
+"Beberapa waktu lalu penyanyi remaja jebolan Disney ini memutuskan hengkang dari Twitter .",Twitter adalah entitas organisasi .
+"Gaung kinerja Wali Kota Surabaya Tri Rismaharini juga terdengar di luar negeri .",Surabaya adalah entitas lokasi .
+"Gaung kinerja Wali Kota Surabaya Tri Rismaharini juga terdengar di luar negeri .",Tri Rismaharini adalah entitas tokoh .
+"72 pergerakan pesawat per jam itu maksimum di Bandara Soekarno - Hatta , jadi kembali seperti sebelum ada pemerataan pergerakan pesawat .",Bandara Soekarno - Hatta adalah entitas lokasi .
+"Tiga menit selepas restart , Toni Kroos mendapat ruang tembak di depan kotak penalti tapi sepakan kaki kirinya masih melayang di atas mistar .",Toni Kroos adalah entitas tokoh .
+"Rektor UGM pada serangkaian penandatanganan perjanjian itu didampingi oleh Wakil Rektor UGM Urusan Kerjasama dan Alumni Dr. Paripurna Sugarda dan Dekan Fakultas Pertanian UGM Dr. Jamhari .",UGM adalah entitas organisasi .
+"Rektor UGM pada serangkaian penandatanganan perjanjian itu didampingi oleh Wakil Rektor UGM Urusan Kerjasama dan Alumni Dr. Paripurna Sugarda dan Dekan Fakultas Pertanian UGM Dr. Jamhari .",UGM adalah entitas organisasi .
+"Rektor UGM pada serangkaian penandatanganan perjanjian itu didampingi oleh Wakil Rektor UGM Urusan Kerjasama dan Alumni Dr. Paripurna Sugarda dan Dekan Fakultas Pertanian UGM Dr. Jamhari .",Paripurna Sugarda adalah entitas tokoh .
+"Rektor UGM pada serangkaian penandatanganan perjanjian itu didampingi oleh Wakil Rektor UGM Urusan Kerjasama dan Alumni Dr. Paripurna Sugarda dan Dekan Fakultas Pertanian UGM Dr. Jamhari .",Fakultas Pertanian UGM adalah entitas organisasi .
+"Rektor UGM pada serangkaian penandatanganan perjanjian itu didampingi oleh Wakil Rektor UGM Urusan Kerjasama dan Alumni Dr. Paripurna Sugarda dan Dekan Fakultas Pertanian UGM Dr. Jamhari .",Jamhari adalah entitas tokoh .
+"Pelepasan saham Indofood menjadi pemicu penurunan IHSG di tengah minimnya transaksi pada separuh perdagangan hari ini .",Indofood adalah entitas organisasi .
+"Hingga pekan ke-18 , awal Januari lalu , Inter masih berada di posisi teratas klasemen .",Inter adalah entitas organisasi .
+"Dia menyebut DPR akan menyelesaikan penyusunan 13 RUU dan melanjutkan pembasan 15 RUU yang menjadi prioritas bersama dengan pemerintah .",DPR adalah entitas organisasi .
+"Artinya , kegiatan ekspor impor tak perlu lagi harus melalui Pelabuhan Tanjung Priok , Jakarta .",Pelabuhan Tanjung Priok adalah entitas lokasi .
+"Artinya , kegiatan ekspor impor tak perlu lagi harus melalui Pelabuhan Tanjung Priok , Jakarta .",Jakarta adalah entitas lokasi .
+"Menghadapi wakil tuan rumah , Iskandar Zulkarnain Zainuddin , Anthony kalah dua gim langsung 16 - 21 , 19 - 21 .",Iskandar Zulkarnain Zainuddin adalah entitas tokoh .
+"Menghadapi wakil tuan rumah , Iskandar Zulkarnain Zainuddin , Anthony kalah dua gim langsung 16 - 21 , 19 - 21 .",Anthony adalah entitas tokoh .
+"Ini terobosan yang kita lakukan untuk memberikan pelayanan maksimal kepada masyarakat , " ujar Bayu kala itu .",Bayu adalah entitas tokoh .
+"Enam petenis lain yang juga akan berpartisipasi dalam turnamen yang hanya diikuti delapan petenis itu adalah Rafael Nadal , Roger Federer , Novak Djokovic , Andy Murray , Andy Roddick dan Davydenko .",Rafael Nadal adalah entitas tokoh .
+"Enam petenis lain yang juga akan berpartisipasi dalam turnamen yang hanya diikuti delapan petenis itu adalah Rafael Nadal , Roger Federer , Novak Djokovic , Andy Murray , Andy Roddick dan Davydenko .",Roger Federer adalah entitas tokoh .
+"Enam petenis lain yang juga akan berpartisipasi dalam turnamen yang hanya diikuti delapan petenis itu adalah Rafael Nadal , Roger Federer , Novak Djokovic , Andy Murray , Andy Roddick dan Davydenko .",Novak Djokovic adalah entitas tokoh .
+"Enam petenis lain yang juga akan berpartisipasi dalam turnamen yang hanya diikuti delapan petenis itu adalah Rafael Nadal , Roger Federer , Novak Djokovic , Andy Murray , Andy Roddick dan Davydenko .",Andy Murray adalah entitas tokoh .
+"Enam petenis lain yang juga akan berpartisipasi dalam turnamen yang hanya diikuti delapan petenis itu adalah Rafael Nadal , Roger Federer , Novak Djokovic , Andy Murray , Andy Roddick dan Davydenko .",Andy Roddick adalah entitas tokoh .
+"Enam petenis lain yang juga akan berpartisipasi dalam turnamen yang hanya diikuti delapan petenis itu adalah Rafael Nadal , Roger Federer , Novak Djokovic , Andy Murray , Andy Roddick dan Davydenko .",Davydenko adalah entitas tokoh .
+"" Sekarang ini program Keluarga Harapan di Papua Barat baru 3 kabupaten / kota , nanti bulan Juni , 13 kabupaten / kota di Papua Barat seluruhnya sudah menerima program Keluarga Harapan , " kata Mensos Khofifah .",Papua Barat adalah entitas lokasi .
+"" Sekarang ini program Keluarga Harapan di Papua Barat baru 3 kabupaten / kota , nanti bulan Juni , 13 kabupaten / kota di Papua Barat seluruhnya sudah menerima program Keluarga Harapan , " kata Mensos Khofifah .",Papua Barat adalah entitas lokasi .
+"" Sekarang ini program Keluarga Harapan di Papua Barat baru 3 kabupaten / kota , nanti bulan Juni , 13 kabupaten / kota di Papua Barat seluruhnya sudah menerima program Keluarga Harapan , " kata Mensos Khofifah .",Khofifah adalah entitas tokoh .
+"Terkait koalisi dengan Partai Golkar , Megawati mengatakan , koalisi bukan merupakan tolak ukur bagi partainya .",Partai Golkar adalah entitas organisasi .
+"Terkait koalisi dengan Partai Golkar , Megawati mengatakan , koalisi bukan merupakan tolak ukur bagi partainya .",Megawati adalah entitas tokoh .
+"Tim penyelam gabungan terus melakukan evakuasi serta mengumpulkan data dari KMP Rafelia II yang tenggelam di Selat Bali .",Selat Bali adalah entitas lokasi .
+"Polda Jabar menangguhkan penahanan lima tersangka kasus dugaan manipulasi Voice over Internet Protocol ( VoIP ) di PT Telkom .",Polda adalah entitas organisasi .
+"Polda Jabar menangguhkan penahanan lima tersangka kasus dugaan manipulasi Voice over Internet Protocol ( VoIP ) di PT Telkom .",Jabar adalah entitas lokasi .
+"Polda Jabar menangguhkan penahanan lima tersangka kasus dugaan manipulasi Voice over Internet Protocol ( VoIP ) di PT Telkom .",PT Telkom adalah entitas organisasi .
+"Jaksa Agung Prasetyo dan Menhub Jonan menandatangani ini dihadapan beberapa staf kedua pihak .",Prasetyo adalah entitas tokoh .
+"Jaksa Agung Prasetyo dan Menhub Jonan menandatangani ini dihadapan beberapa staf kedua pihak .",Jonan adalah entitas tokoh .
+"Sebagai tambahan , the Ultra Edition 13.8 Z720 adalah ponsel pertama Samsung yang memiliki program Google mobile search dan Gmail ( Google Mail ) yang memungkinkan para konsumen mencari informasi , dan mengatur email saat berada di tengah perjalanan .",Samsung adalah entitas organisasi .
+"Sebagai tambahan , the Ultra Edition 13.8 Z720 adalah ponsel pertama Samsung yang memiliki program Google mobile search dan Gmail ( Google Mail ) yang memungkinkan para konsumen mencari informasi , dan mengatur email saat berada di tengah perjalanan .",Google adalah entitas organisasi .
+"Sebagai tambahan , the Ultra Edition 13.8 Z720 adalah ponsel pertama Samsung yang memiliki program Google mobile search dan Gmail ( Google Mail ) yang memungkinkan para konsumen mencari informasi , dan mengatur email saat berada di tengah perjalanan .",Google adalah entitas organisasi .
+"Sampai September 2004 , Telkom mencatat peningkatan total aset menjadi Rp 56,115 triliun dibandingkan periode yang sama tahun lalu sebesar Rp 48,592 triliun .",Telkom adalah entitas organisasi .
+"Menurut Mega , jumlah uang BLT yang dibagikan juga tidak sebanding dengan biaya kebutuhan yang semakin meningkat .",Mega adalah entitas tokoh .
+"Kalau serahkan tebusan , nggak perlu dong ada negara dan TNI , " tuturnya .",TNI adalah entitas organisasi .
+"Direktur Indofood Franciscus Welirang bahkan menegaskan , isu negatif yang menimpa Indomie menunjukkan produk tersebut dipandang baik oleh masyarakat internasional , sehingga sangat potensial untuk ekspor .",Indofood adalah entitas organisasi .
+"Direktur Indofood Franciscus Welirang bahkan menegaskan , isu negatif yang menimpa Indomie menunjukkan produk tersebut dipandang baik oleh masyarakat internasional , sehingga sangat potensial untuk ekspor .",Franciscus Welirang adalah entitas tokoh .
+"Risma juga sudah menyulap bangunan eks Pertokoan Siola menjadi museum sejarah Pemkot Surabaya dan kantor sejumlah dinas yang langsung berurusan dengan pelayanan publik .",Risma adalah entitas tokoh .
+"Risma juga sudah menyulap bangunan eks Pertokoan Siola menjadi museum sejarah Pemkot Surabaya dan kantor sejumlah dinas yang langsung berurusan dengan pelayanan publik .",Pertokoan Siola adalah entitas lokasi .
+"Risma juga sudah menyulap bangunan eks Pertokoan Siola menjadi museum sejarah Pemkot Surabaya dan kantor sejumlah dinas yang langsung berurusan dengan pelayanan publik .",Surabaya adalah entitas lokasi .
+"Faktor di lapangan , imbuh Wisnu , memang ada jam - jam yang pergerakan pesawatnya tinggi di Bandara Cengkareng , ada yang kosong .",Wisnu adalah entitas tokoh .
+"Faktor di lapangan , imbuh Wisnu , memang ada jam - jam yang pergerakan pesawatnya tinggi di Bandara Cengkareng , ada yang kosong .",Bandara Cengkareng adalah entitas lokasi .
+"" Churn rate per bulan bisa mencapai 175 ribu sampai 200 ribu pelanggan , " kata Tri Djatmiko , Vice President Sales , PT Telkom , kepada wartawan di Jakarta , Kamis ( 8/6/2006 ) .",Tri Djatmiko adalah entitas tokoh .
+"" Churn rate per bulan bisa mencapai 175 ribu sampai 200 ribu pelanggan , " kata Tri Djatmiko , Vice President Sales , PT Telkom , kepada wartawan di Jakarta , Kamis ( 8/6/2006 ) .",PT Telkom adalah entitas organisasi .
+"" Churn rate per bulan bisa mencapai 175 ribu sampai 200 ribu pelanggan , " kata Tri Djatmiko , Vice President Sales , PT Telkom , kepada wartawan di Jakarta , Kamis ( 8/6/2006 ) .",Jakarta adalah entitas lokasi .
+"Ikut mendampingi Risma , di antaranya adalah Kepala Dinas Pekerjaan Umum Bina Marga dan Pematusan Erna Purnawati dan Camat Bulak Suprayitno .",Risma adalah entitas tokoh .
+"Ikut mendampingi Risma , di antaranya adalah Kepala Dinas Pekerjaan Umum Bina Marga dan Pematusan Erna Purnawati dan Camat Bulak Suprayitno .",Dinas Pekerjaan Umum Bina Marga dan Pematusan adalah entitas organisasi .
+"Ikut mendampingi Risma , di antaranya adalah Kepala Dinas Pekerjaan Umum Bina Marga dan Pematusan Erna Purnawati dan Camat Bulak Suprayitno .",Erna Purnawati adalah entitas tokoh .
+"Ikut mendampingi Risma , di antaranya adalah Kepala Dinas Pekerjaan Umum Bina Marga dan Pematusan Erna Purnawati dan Camat Bulak Suprayitno .",Bulak adalah entitas lokasi .
+"Ikut mendampingi Risma , di antaranya adalah Kepala Dinas Pekerjaan Umum Bina Marga dan Pematusan Erna Purnawati dan Camat Bulak Suprayitno .",Suprayitno adalah entitas tokoh .
+"Bersiaplah menyambut perpaduan dunia magical Disney dan kekayaan budaya Tiongkok di theme park senilai US$ 5,5 miliar ( Rp 77,5 triliun ) .",Disney adalah entitas organisasi .
+"Bersiaplah menyambut perpaduan dunia magical Disney dan kekayaan budaya Tiongkok di theme park senilai US$ 5,5 miliar ( Rp 77,5 triliun ) .",Tiongkok adalah entitas lokasi .
+"Bahkan di hari pertama ajang CTIA 2009 , Behold II tersimpan rapi oleh Samsung di kotak etalase .",Samsung adalah entitas organisasi .
+"Dalam jumpa pers tersebut , hanya Megawati dan Puan yang lebih banyak berbicara .",Megawati adalah entitas tokoh .
+"Dalam jumpa pers tersebut , hanya Megawati dan Puan yang lebih banyak berbicara .",Puan adalah entitas tokoh .
+"" Presiden lima belas menit yang lalu memerintah kan kepada saya untuk mempelajari ( kasus demo taksi ) , " kata Luhut saat menggelar konferensi pers di kantor Kemenko Polhukam , jalan Medan Merdeka Barat , Jakarta , Selasa ( 22/3/2016 ) .",Luhut adalah entitas tokoh .
+"" Presiden lima belas menit yang lalu memerintah kan kepada saya untuk mempelajari ( kasus demo taksi ) , " kata Luhut saat menggelar konferensi pers di kantor Kemenko Polhukam , jalan Medan Merdeka Barat , Jakarta , Selasa ( 22/3/2016 ) .",Kemenko Polhukam adalah entitas organisasi .
+"" Presiden lima belas menit yang lalu memerintah kan kepada saya untuk mempelajari ( kasus demo taksi ) , " kata Luhut saat menggelar konferensi pers di kantor Kemenko Polhukam , jalan Medan Merdeka Barat , Jakarta , Selasa ( 22/3/2016 ) .",jalan Medan Merdeka Barat adalah entitas lokasi .
+"" Presiden lima belas menit yang lalu memerintah kan kepada saya untuk mempelajari ( kasus demo taksi ) , " kata Luhut saat menggelar konferensi pers di kantor Kemenko Polhukam , jalan Medan Merdeka Barat , Jakarta , Selasa ( 22/3/2016 ) .",Jakarta adalah entitas lokasi .
+"Petenis nomor 1 dunia Roger Federer juga tidak dapat tampil di turnamen ini setelah mengalami kelelahan .",Roger Federer adalah entitas tokoh .
+"Namun Andrea Iannone yakin dirinya dan Lorenzo bisa jadi duet yang sempurna .",Andrea Iannone adalah entitas tokoh .
+"Namun Andrea Iannone yakin dirinya dan Lorenzo bisa jadi duet yang sempurna .",Lorenzo adalah entitas tokoh .
+"Beda cerita dengan Tri Rismaharini yang jauh hari sebelum Pilkada Surabaya elektabilitasnya menyentuh 70 persen .",Tri Rismaharini adalah entitas tokoh .
+"Beda cerita dengan Tri Rismaharini yang jauh hari sebelum Pilkada Surabaya elektabilitasnya menyentuh 70 persen .",Surabaya adalah entitas lokasi .
+"Namun , hingga kini belum ada kepastian soal kader PAN yang masuk kabinet , meski PAN juga menegaskan tak mendesak atau meminta ' jatah ' itu kepada Jokowi .",PAN adalah entitas organisasi .
+"Namun , hingga kini belum ada kepastian soal kader PAN yang masuk kabinet , meski PAN juga menegaskan tak mendesak atau meminta ' jatah ' itu kepada Jokowi .",PAN adalah entitas organisasi .
+"Namun , hingga kini belum ada kepastian soal kader PAN yang masuk kabinet , meski PAN juga menegaskan tak mendesak atau meminta ' jatah ' itu kepada Jokowi .",Jokowi adalah entitas tokoh .
+"Selanjutnya Jonan mengeluhkan kalau Kemenhub sering digugat dalam peradilan Tata Usaha Negara ( TUN ) lantaran ada pihak yang meminta izin operasi tidak diberi .",Jonan adalah entitas tokoh .
+"Selanjutnya Jonan mengeluhkan kalau Kemenhub sering digugat dalam peradilan Tata Usaha Negara ( TUN ) lantaran ada pihak yang meminta izin operasi tidak diberi .",Kemenhub adalah entitas organisasi .
+"Selanjutnya Jonan mengeluhkan kalau Kemenhub sering digugat dalam peradilan Tata Usaha Negara ( TUN ) lantaran ada pihak yang meminta izin operasi tidak diberi .",Tata Usaha Negara adalah entitas organisasi .
+"Selanjutnya Jonan mengeluhkan kalau Kemenhub sering digugat dalam peradilan Tata Usaha Negara ( TUN ) lantaran ada pihak yang meminta izin operasi tidak diberi .",TUN adalah entitas organisasi .
+"Namun perlu jadi catatan Atletico , bahwa mereka selalu kesulitan menang di kandang Espanyol .",Atletico adalah entitas organisasi .
+"Namun perlu jadi catatan Atletico , bahwa mereka selalu kesulitan menang di kandang Espanyol .",Espanyol adalah entitas organisasi .
+"Saat dikonfirmasi soal isu ini , Ketum PAN Zulkifli Hasan tak mau bicara panjang lebar .",PAN adalah entitas organisasi .
+"Saat dikonfirmasi soal isu ini , Ketum PAN Zulkifli Hasan tak mau bicara panjang lebar .",Zulkifli Hasan adalah entitas tokoh .
+"MU cuma meraih dua kemenangan dalam sembilan lawatan terakhirnya di liga ( 3 seri , 4 kalah ) .",MU adalah entitas organisasi .
+"Kabar bahwa Presiden Joko Widodo ( Jokowi ) bakal kembali merombak susunan kabinetnya kembali berhembus .",Joko Widodo adalah entitas tokoh .
+"Kabar bahwa Presiden Joko Widodo ( Jokowi ) bakal kembali merombak susunan kabinetnya kembali berhembus .",Jokowi adalah entitas tokoh .
+"Beberapa pihak yang disebut - sebut terkena dampak serangan ini --meski tak sampai parah-- termasuk Google , Coca - Cola , Disney , NASA dan AIG .",Google adalah entitas organisasi .
+"Beberapa pihak yang disebut - sebut terkena dampak serangan ini --meski tak sampai parah-- termasuk Google , Coca - Cola , Disney , NASA dan AIG .",Coca - Cola adalah entitas organisasi .
+"Beberapa pihak yang disebut - sebut terkena dampak serangan ini --meski tak sampai parah-- termasuk Google , Coca - Cola , Disney , NASA dan AIG .",Disney adalah entitas organisasi .
+"Beberapa pihak yang disebut - sebut terkena dampak serangan ini --meski tak sampai parah-- termasuk Google , Coca - Cola , Disney , NASA dan AIG .",NASA adalah entitas organisasi .
+"Beberapa pihak yang disebut - sebut terkena dampak serangan ini --meski tak sampai parah-- termasuk Google , Coca - Cola , Disney , NASA dan AIG .",AIG adalah entitas organisasi .
+"Hendrawan kemudian menyebut empat nama menteri yang posisinya dirasa kurang tepat .",Hendrawan adalah entitas tokoh .
+"PT Indofood Sukses Makmur Tbk ( INDF ) berhasil mencetak lonjakan laba yang cukup fantastis hingga 100 % selama tahun 2009 .",PT Indofood Sukses Makmur Tbk adalah entitas organisasi .
+"PT Indofood Sukses Makmur Tbk ( INDF ) berhasil mencetak lonjakan laba yang cukup fantastis hingga 100 % selama tahun 2009 .",INDF adalah entitas organisasi .
+"Jokowi tiba di Bandara Internasional Juwata , Tarakan , Kalimantan Utara sekitar pukul 16.00 WITA , Rabu ( 23/3/2016 ) , setelah bertolak dari Bandara Soepadio , Pontianak , Kalimantan Barat .",Jokowi adalah entitas tokoh .
+"Jokowi tiba di Bandara Internasional Juwata , Tarakan , Kalimantan Utara sekitar pukul 16.00 WITA , Rabu ( 23/3/2016 ) , setelah bertolak dari Bandara Soepadio , Pontianak , Kalimantan Barat .",Bandara Internasional Juwata adalah entitas lokasi .
+"Jokowi tiba di Bandara Internasional Juwata , Tarakan , Kalimantan Utara sekitar pukul 16.00 WITA , Rabu ( 23/3/2016 ) , setelah bertolak dari Bandara Soepadio , Pontianak , Kalimantan Barat .",Tarakan adalah entitas lokasi .
+"Jokowi tiba di Bandara Internasional Juwata , Tarakan , Kalimantan Utara sekitar pukul 16.00 WITA , Rabu ( 23/3/2016 ) , setelah bertolak dari Bandara Soepadio , Pontianak , Kalimantan Barat .",Kalimantan Utara adalah entitas lokasi .
+"Jokowi tiba di Bandara Internasional Juwata , Tarakan , Kalimantan Utara sekitar pukul 16.00 WITA , Rabu ( 23/3/2016 ) , setelah bertolak dari Bandara Soepadio , Pontianak , Kalimantan Barat .",Bandara Soepadio adalah entitas lokasi .
+"Jokowi tiba di Bandara Internasional Juwata , Tarakan , Kalimantan Utara sekitar pukul 16.00 WITA , Rabu ( 23/3/2016 ) , setelah bertolak dari Bandara Soepadio , Pontianak , Kalimantan Barat .",Pontianak adalah entitas lokasi .
+"Jokowi tiba di Bandara Internasional Juwata , Tarakan , Kalimantan Utara sekitar pukul 16.00 WITA , Rabu ( 23/3/2016 ) , setelah bertolak dari Bandara Soepadio , Pontianak , Kalimantan Barat .",Kalimantan Barat adalah entitas lokasi .
+"Dari Singapura Terbuka yang dihelat 28 - 29 April , Indonesia mengirimkan 24 atlet nasional putra dan putri serta 9 orang pelatih dan ofisial .",Singapura adalah entitas lokasi .
+"Dari Singapura Terbuka yang dihelat 28 - 29 April , Indonesia mengirimkan 24 atlet nasional putra dan putri serta 9 orang pelatih dan ofisial .",Indonesia adalah entitas lokasi .
+"Kemenangan pertama Klopp adalah pada 31 Oktober 2010 saat Dortmund mengalahkan Mainz dengan skor 2 - 0 .",Klopp adalah entitas tokoh .
+"Kemenangan pertama Klopp adalah pada 31 Oktober 2010 saat Dortmund mengalahkan Mainz dengan skor 2 - 0 .",Dortmund adalah entitas organisasi .
+"Kemenangan pertama Klopp adalah pada 31 Oktober 2010 saat Dortmund mengalahkan Mainz dengan skor 2 - 0 .",Mainz adalah entitas organisasi .
+"Rafael Nadal akan menghadapi Novak Djokovic , sementara Roger Federer masih harus menunggu lawan .",Rafael Nadal adalah entitas tokoh .
+"Rafael Nadal akan menghadapi Novak Djokovic , sementara Roger Federer masih harus menunggu lawan .",Novak Djokovic adalah entitas tokoh .
+"Rafael Nadal akan menghadapi Novak Djokovic , sementara Roger Federer masih harus menunggu lawan .",Roger Federer adalah entitas tokoh .
+"" Saya ingin sekali melihat Leicester juara , " kata William dalam acara santap siang untuk menandai 10 tahun posisinya sebagai presiden FA , seperti dikutip Telegraph .",Leicester adalah entitas lokasi .
+"" Saya ingin sekali melihat Leicester juara , " kata William dalam acara santap siang untuk menandai 10 tahun posisinya sebagai presiden FA , seperti dikutip Telegraph .",William adalah entitas tokoh .
+"" Saya ingin sekali melihat Leicester juara , " kata William dalam acara santap siang untuk menandai 10 tahun posisinya sebagai presiden FA , seperti dikutip Telegraph .",FA adalah entitas organisasi .
+"" Saya ingin sekali melihat Leicester juara , " kata William dalam acara santap siang untuk menandai 10 tahun posisinya sebagai presiden FA , seperti dikutip Telegraph .",Telegraph adalah entitas organisasi .
+"Dalam pengembangan pabrik tersebut , Samsung menggelontorkan investasi baru sejumlah USD 70 juta .",Samsung adalah entitas organisasi .
+"Dari catatan Wikipedia , persentase kemenangan Federer tahun ini memang sedikit menurun .",Wikipedia adalah entitas organisasi .
+"Dari catatan Wikipedia , persentase kemenangan Federer tahun ini memang sedikit menurun .",Federer adalah entitas tokoh .
+"Ia pun tak sungkan dalam mengeluarkan uang supaya menambah koleksi Disney -nya .",Disney adalah entitas organisasi .
+"Samsung dan Intel berduet untuk menciptakan sistem operasi mobile baru .",Samsung adalah entitas organisasi .
+"Samsung dan Intel berduet untuk menciptakan sistem operasi mobile baru .",Intel adalah entitas organisasi .
+"Gol tim tuan rumah dibukukan oleh Zlatan Ibrahimovic dan Rabiot .",Zlatan Ibrahimovic adalah entitas tokoh .
+"Gol tim tuan rumah dibukukan oleh Zlatan Ibrahimovic dan Rabiot .",Rabiot adalah entitas tokoh .
+"Penolakan PPP kubu Djan Faridz tersebut akan disampaikan ke Presiden Joko Widodo lewat surat .",PPP adalah entitas organisasi .
+"Penolakan PPP kubu Djan Faridz tersebut akan disampaikan ke Presiden Joko Widodo lewat surat .",Djan Faridz adalah entitas tokoh .
+"Penolakan PPP kubu Djan Faridz tersebut akan disampaikan ke Presiden Joko Widodo lewat surat .",Joko Widodo adalah entitas tokoh .
+"Orang - orang elit yang belum tentu WBI yang tinggal di situ , " kata Kuat .",WBI adalah entitas organisasi .
+"Orang - orang elit yang belum tentu WBI yang tinggal di situ , " kata Kuat .",Kuat adalah entitas tokoh .
+"Untuk kategori Asia , Rio kembali tidak tertandingi pada race kali ini .",Asia adalah entitas lokasi .
+"Untuk kategori Asia , Rio kembali tidak tertandingi pada race kali ini .",Rio adalah entitas tokoh .
+"Selain Nadal dan Federer yang merupakan petenis nomor satu dan dua dunia saat ini , ada juga petenis - petenis elit lain seperti Robin Soderling , Tomas Berdych , Jo - Wilfried Tsonga dan Marcos Baghdatis .",Nadal adalah entitas tokoh .
+"Selain Nadal dan Federer yang merupakan petenis nomor satu dan dua dunia saat ini , ada juga petenis - petenis elit lain seperti Robin Soderling , Tomas Berdych , Jo - Wilfried Tsonga dan Marcos Baghdatis .",Federer adalah entitas tokoh .
+"Selain Nadal dan Federer yang merupakan petenis nomor satu dan dua dunia saat ini , ada juga petenis - petenis elit lain seperti Robin Soderling , Tomas Berdych , Jo - Wilfried Tsonga dan Marcos Baghdatis .",Robin Soderling adalah entitas tokoh .
+"Selain Nadal dan Federer yang merupakan petenis nomor satu dan dua dunia saat ini , ada juga petenis - petenis elit lain seperti Robin Soderling , Tomas Berdych , Jo - Wilfried Tsonga dan Marcos Baghdatis .",Tomas Berdych adalah entitas tokoh .
+"Selain Nadal dan Federer yang merupakan petenis nomor satu dan dua dunia saat ini , ada juga petenis - petenis elit lain seperti Robin Soderling , Tomas Berdych , Jo - Wilfried Tsonga dan Marcos Baghdatis .",Jo - Wilfried Tsonga adalah entitas tokoh .
+"Selain Nadal dan Federer yang merupakan petenis nomor satu dan dua dunia saat ini , ada juga petenis - petenis elit lain seperti Robin Soderling , Tomas Berdych , Jo - Wilfried Tsonga dan Marcos Baghdatis .",Marcos Baghdatis adalah entitas tokoh .
+"Namun di Indonesia , 1 April adalah hari untuk menghadapi fakta , bahwa sejumlah biaya akan naik , namun sebagian lagi turun .",Indonesia adalah entitas lokasi .
+"Tapi Eliaquim Mangala bisa merebut bola sebelum Matuidi melepaskan tembakan .",Eliaquim Mangala adalah entitas tokoh .
+"Tapi Eliaquim Mangala bisa merebut bola sebelum Matuidi melepaskan tembakan .",Matuidi adalah entitas tokoh .
+"" PAN mengajak parpol untuk kita supaya mari saling menghargai , menjaga komunikasi yang baik .",PAN adalah entitas organisasi .
+"Produk lanjutan Samsung Galaxy Spica ini bernama i9000 , atau lebih dikenal dengan nama Samsung Galaxy S. Galaxy S merupakan ponsel kelas premium lain , disamping Omnia yang mengusung Windows Mobile .",Samsung adalah entitas organisasi .
+"Produk lanjutan Samsung Galaxy Spica ini bernama i9000 , atau lebih dikenal dengan nama Samsung Galaxy S. Galaxy S merupakan ponsel kelas premium lain , disamping Omnia yang mengusung Windows Mobile .",Samsung adalah entitas organisasi .
+"Kecuali yang ada masalah , " kata Mendagri Tjahjo Kumolo di Gedung Utama Kementerian Sekretariat Negara , Jl Veteran , Jakarta Pusat , Kamis ( 7/4/2016 ) .",Tjahjo Kumolo adalah entitas tokoh .
+"Kecuali yang ada masalah , " kata Mendagri Tjahjo Kumolo di Gedung Utama Kementerian Sekretariat Negara , Jl Veteran , Jakarta Pusat , Kamis ( 7/4/2016 ) .",Kementerian Sekretariat Negara adalah entitas organisasi .
+"Kecuali yang ada masalah , " kata Mendagri Tjahjo Kumolo di Gedung Utama Kementerian Sekretariat Negara , Jl Veteran , Jakarta Pusat , Kamis ( 7/4/2016 ) .",Jl Veteran adalah entitas lokasi .
+"Kecuali yang ada masalah , " kata Mendagri Tjahjo Kumolo di Gedung Utama Kementerian Sekretariat Negara , Jl Veteran , Jakarta Pusat , Kamis ( 7/4/2016 ) .",Jakarta Pusat adalah entitas lokasi .
+"Ketiga , sarana transportasinya harus mengikuti ketentuan UU Lalu Lintas Angkutan Jalan , " jelas Jonan .",Jonan adalah entitas tokoh .
+"Buktinya , drama Korea yang tayang di KBS 2TV setiap Rabu dan Kamis itu mendapatkan jumlah penonton yang luar biasa di Tiongkok .",Korea adalah entitas lokasi .
+"Buktinya , drama Korea yang tayang di KBS 2TV setiap Rabu dan Kamis itu mendapatkan jumlah penonton yang luar biasa di Tiongkok .",KBS 2TV adalah entitas organisasi .
+"Buktinya , drama Korea yang tayang di KBS 2TV setiap Rabu dan Kamis itu mendapatkan jumlah penonton yang luar biasa di Tiongkok .",Tiongkok adalah entitas lokasi .
+"Sementara Federer mengalami kesulitan saat menghadapi Tommy Robredo dan Nikolay Davidenko di perempatfinal dan semifinal .",Federer adalah entitas tokoh .
+"Sementara Federer mengalami kesulitan saat menghadapi Tommy Robredo dan Nikolay Davidenko di perempatfinal dan semifinal .",Tommy Robredo adalah entitas tokoh .
+"Sementara Federer mengalami kesulitan saat menghadapi Tommy Robredo dan Nikolay Davidenko di perempatfinal dan semifinal .",Nikolay Davidenko adalah entitas tokoh .
+"Peluang Rio untuk memetik kemenangan di Sirkuit Sakhir sebetulnya cukup besar karena ia mengawali balapan dari posisi start kedua .",Rio adalah entitas tokoh .
+"Peluang Rio untuk memetik kemenangan di Sirkuit Sakhir sebetulnya cukup besar karena ia mengawali balapan dari posisi start kedua .",Sirkuit Sakhir adalah entitas lokasi .
+"Galaxy S II termasuk smartphone kebanggaan Samsung yang kabarnya sudah terjual 10 juta unit di seluruh dunia .",Samsung adalah entitas organisasi .
+"Jokowi mewanti - wanti jangan sampai uang bantuan tidak digunakan untuk membeli pulsa .",Jokowi adalah entitas tokoh .
+"Ini bukan kejadian insiden biasa tetapi sudah kecelakaan karena kedua pesawat dalam kondisi total loss atau rusak parah , apalagi pesawat Trans Nusa , ekor dan sayapnya rusak berat .",Trans Nusa adalah entitas organisasi .
+"Imbas kepadatan lalu lintas juga berimbas di Jalan Gubernur Suryo .",Jalan Gubernur Suryo adalah entitas lokasi .
+"Samsung Galaxy S III sendiri disebut - sebut sebagai penantang paling serius untuk iPhone 4S Apple .",Samsung adalah entitas organisasi .
+"Samsung Galaxy S III sendiri disebut - sebut sebagai penantang paling serius untuk iPhone 4S Apple .",Apple adalah entitas organisasi .
+"" Kasus penyelundupan narkotika di Indonesia , paling banyak masuk dari Malaysia , 70 persen kasus pencegahan narkotika ini berasal dari Malaysia , sisanya Taiwan , Singapura , Iran dan Nigeria , barbuk dan tersangka sudah diserahkan ke Polri dan BBM , " paparnya .",Indonesia adalah entitas lokasi .
+"" Kasus penyelundupan narkotika di Indonesia , paling banyak masuk dari Malaysia , 70 persen kasus pencegahan narkotika ini berasal dari Malaysia , sisanya Taiwan , Singapura , Iran dan Nigeria , barbuk dan tersangka sudah diserahkan ke Polri dan BBM , " paparnya .",Malaysia adalah entitas lokasi .
+"" Kasus penyelundupan narkotika di Indonesia , paling banyak masuk dari Malaysia , 70 persen kasus pencegahan narkotika ini berasal dari Malaysia , sisanya Taiwan , Singapura , Iran dan Nigeria , barbuk dan tersangka sudah diserahkan ke Polri dan BBM , " paparnya .",Malaysia adalah entitas lokasi .
+"" Kasus penyelundupan narkotika di Indonesia , paling banyak masuk dari Malaysia , 70 persen kasus pencegahan narkotika ini berasal dari Malaysia , sisanya Taiwan , Singapura , Iran dan Nigeria , barbuk dan tersangka sudah diserahkan ke Polri dan BBM , " paparnya .",Taiwan adalah entitas lokasi .
+"" Kasus penyelundupan narkotika di Indonesia , paling banyak masuk dari Malaysia , 70 persen kasus pencegahan narkotika ini berasal dari Malaysia , sisanya Taiwan , Singapura , Iran dan Nigeria , barbuk dan tersangka sudah diserahkan ke Polri dan BBM , " paparnya .",Singapura adalah entitas lokasi .
+"" Kasus penyelundupan narkotika di Indonesia , paling banyak masuk dari Malaysia , 70 persen kasus pencegahan narkotika ini berasal dari Malaysia , sisanya Taiwan , Singapura , Iran dan Nigeria , barbuk dan tersangka sudah diserahkan ke Polri dan BBM , " paparnya .",Iran adalah entitas lokasi .
+"" Kasus penyelundupan narkotika di Indonesia , paling banyak masuk dari Malaysia , 70 persen kasus pencegahan narkotika ini berasal dari Malaysia , sisanya Taiwan , Singapura , Iran dan Nigeria , barbuk dan tersangka sudah diserahkan ke Polri dan BBM , " paparnya .",Nigeria adalah entitas lokasi .
+"" Kasus penyelundupan narkotika di Indonesia , paling banyak masuk dari Malaysia , 70 persen kasus pencegahan narkotika ini berasal dari Malaysia , sisanya Taiwan , Singapura , Iran dan Nigeria , barbuk dan tersangka sudah diserahkan ke Polri dan BBM , " paparnya .",Polri adalah entitas organisasi .
+"" Kasus penyelundupan narkotika di Indonesia , paling banyak masuk dari Malaysia , 70 persen kasus pencegahan narkotika ini berasal dari Malaysia , sisanya Taiwan , Singapura , Iran dan Nigeria , barbuk dan tersangka sudah diserahkan ke Polri dan BBM , " paparnya .",BBM adalah entitas organisasi .
+"Sama - sama sudah menjalani 32 laga , menyisakan enam partai lagi , Leicester kini menguasai puncak klasemen dengan keunggulan tujuh angka atas Spurs di posisi dua .",Leicester adalah entitas lokasi .
+"Sama - sama sudah menjalani 32 laga , menyisakan enam partai lagi , Leicester kini menguasai puncak klasemen dengan keunggulan tujuh angka atas Spurs di posisi dua .",Spurs adalah entitas organisasi .
+"Memang dalam agenda kunjungan Jokowi ke Ambon , tidak ada jadwal mengunjungi pusat perbelanjaan .",Jokowi adalah entitas tokoh .
+"Memang dalam agenda kunjungan Jokowi ke Ambon , tidak ada jadwal mengunjungi pusat perbelanjaan .",Ambon adalah entitas lokasi .
+"" Jangan sebarkan berita fitnah apalagi mengadu domba presiden dengan siapapun termasuk dengan PKB , " tambah dia .",PKB adalah entitas organisasi .
+"Kemudian juga , para sopir yang mengemudikan mobil yang tergabung dalam Uber dan GrabCar mesti SIM A Umum .",Uber adalah entitas organisasi .
+"Kemudian juga , para sopir yang mengemudikan mobil yang tergabung dalam Uber dan GrabCar mesti SIM A Umum .",GrabCar adalah entitas organisasi .
+"Peluang itu terbuka di musim ini karena PSG sudah melangkah sampai perempatfinal .",PSG adalah entitas organisasi .
+"Presiden Joko Widodo membuat dua keputusan strategis terkait pengembangan ekonomi di wilayah Suramadu .",Joko Widodo adalah entitas tokoh .
+"Presiden Joko Widodo membuat dua keputusan strategis terkait pengembangan ekonomi di wilayah Suramadu .",Suramadu adalah entitas lokasi .
+"Jakarta - Tottenham Hotspur sedang mengejar Leicester City dalam persaingan di Premier League .",Jakarta adalah entitas lokasi .
+"Jakarta - Tottenham Hotspur sedang mengejar Leicester City dalam persaingan di Premier League .",Tottenham Hotspur adalah entitas organisasi .
+"Jakarta - Tottenham Hotspur sedang mengejar Leicester City dalam persaingan di Premier League .",Leicester City adalah entitas organisasi .
+"Dalam tujuh laga terakhir , Roma akan bertanding melawan Bologna ( kandang ) , Atalanta ( tandang ) , Torino ( kandang ) , Napoli ( kandang ) , Genoa ( tandang ) , Chievo ( kandang ) , dan AC Milan ( tandang ) .",Roma adalah entitas organisasi .
+"Dalam tujuh laga terakhir , Roma akan bertanding melawan Bologna ( kandang ) , Atalanta ( tandang ) , Torino ( kandang ) , Napoli ( kandang ) , Genoa ( tandang ) , Chievo ( kandang ) , dan AC Milan ( tandang ) .",Bologna adalah entitas organisasi .
+"Dalam tujuh laga terakhir , Roma akan bertanding melawan Bologna ( kandang ) , Atalanta ( tandang ) , Torino ( kandang ) , Napoli ( kandang ) , Genoa ( tandang ) , Chievo ( kandang ) , dan AC Milan ( tandang ) .",Atalanta adalah entitas organisasi .
+"Dalam tujuh laga terakhir , Roma akan bertanding melawan Bologna ( kandang ) , Atalanta ( tandang ) , Torino ( kandang ) , Napoli ( kandang ) , Genoa ( tandang ) , Chievo ( kandang ) , dan AC Milan ( tandang ) .",Torino adalah entitas organisasi .
+"Dalam tujuh laga terakhir , Roma akan bertanding melawan Bologna ( kandang ) , Atalanta ( tandang ) , Torino ( kandang ) , Napoli ( kandang ) , Genoa ( tandang ) , Chievo ( kandang ) , dan AC Milan ( tandang ) .",Napoli adalah entitas organisasi .
+"Dalam tujuh laga terakhir , Roma akan bertanding melawan Bologna ( kandang ) , Atalanta ( tandang ) , Torino ( kandang ) , Napoli ( kandang ) , Genoa ( tandang ) , Chievo ( kandang ) , dan AC Milan ( tandang ) .",Genoa adalah entitas organisasi .
+"Dalam tujuh laga terakhir , Roma akan bertanding melawan Bologna ( kandang ) , Atalanta ( tandang ) , Torino ( kandang ) , Napoli ( kandang ) , Genoa ( tandang ) , Chievo ( kandang ) , dan AC Milan ( tandang ) .",Chievo adalah entitas organisasi .
+"Dalam tujuh laga terakhir , Roma akan bertanding melawan Bologna ( kandang ) , Atalanta ( tandang ) , Torino ( kandang ) , Napoli ( kandang ) , Genoa ( tandang ) , Chievo ( kandang ) , dan AC Milan ( tandang ) .",AC Milan adalah entitas organisasi .
+"Badrodin menambahkan kepolisian tak akan sungkan untuk menindak tegas sopir pendemo yang anarkis .",Badrodin adalah entitas tokoh .
+"Meski Megawati menyatakan tidak terkait , namun pandangan Ketua Umum PDIP tersebut akan memberi perspektif tentang situasi kepartaian dan pemilu .",Megawati adalah entitas tokoh .
+"Meski Megawati menyatakan tidak terkait , namun pandangan Ketua Umum PDIP tersebut akan memberi perspektif tentang situasi kepartaian dan pemilu .",PDIP adalah entitas organisasi .
+"Tapi tampaknya hal itu mulai berubah sejak Wimbledon tahun ini saat ia mampu melaju ke final meski akhirnya ditekuk Federer melalui sebuah pertandingan maraton .",Federer adalah entitas tokoh .

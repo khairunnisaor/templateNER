@@ -1,0 +1,518 @@
+Source sentence,Answer sentence
+CRICKET - LEICESTERSHIRE TAKE OVER AT TOP AFTER INNINGS VICTORY .,LEICESTERSHIRE is an organization entity
+LONDON 1996-08-30,LONDON is a location entity
+West Indian all-rounder Phil Simmons took four for 38 on Friday as Leicestershire beat Somerset by an innings and 39 runs in two days to take over at the head of the county championship .,West Indian is an other entity
+West Indian all-rounder Phil Simmons took four for 38 on Friday as Leicestershire beat Somerset by an innings and 39 runs in two days to take over at the head of the county championship .,Phil Simmons is a person entity
+West Indian all-rounder Phil Simmons took four for 38 on Friday as Leicestershire beat Somerset by an innings and 39 runs in two days to take over at the head of the county championship .,Leicestershire is an organization entity
+West Indian all-rounder Phil Simmons took four for 38 on Friday as Leicestershire beat Somerset by an innings and 39 runs in two days to take over at the head of the county championship .,Somerset is an organization entity
+"Their stay on top , though , may be short-lived as title rivals Essex , Derbyshire and Surrey all closed in on victory while Kent made up for lost time in their rain-affected match against Nottinghamshire .",Essex is an organization entity
+"Their stay on top , though , may be short-lived as title rivals Essex , Derbyshire and Surrey all closed in on victory while Kent made up for lost time in their rain-affected match against Nottinghamshire .",Derbyshire is an organization entity
+"Their stay on top , though , may be short-lived as title rivals Essex , Derbyshire and Surrey all closed in on victory while Kent made up for lost time in their rain-affected match against Nottinghamshire .",Surrey is an organization entity
+"Their stay on top , though , may be short-lived as title rivals Essex , Derbyshire and Surrey all closed in on victory while Kent made up for lost time in their rain-affected match against Nottinghamshire .",Kent is an organization entity
+"Their stay on top , though , may be short-lived as title rivals Essex , Derbyshire and Surrey all closed in on victory while Kent made up for lost time in their rain-affected match against Nottinghamshire .",Nottinghamshire is an organization entity
+"After bowling Somerset out for 83 on the opening morning at Grace Road , Leicestershire extended their first innings by 94 runs before being bowled out for 296 with England discard Andy Caddick taking three for 83 .",Somerset is an organization entity
+"After bowling Somerset out for 83 on the opening morning at Grace Road , Leicestershire extended their first innings by 94 runs before being bowled out for 296 with England discard Andy Caddick taking three for 83 .",Grace Road is a location entity
+"After bowling Somerset out for 83 on the opening morning at Grace Road , Leicestershire extended their first innings by 94 runs before being bowled out for 296 with England discard Andy Caddick taking three for 83 .",Leicestershire is an organization entity
+"After bowling Somerset out for 83 on the opening morning at Grace Road , Leicestershire extended their first innings by 94 runs before being bowled out for 296 with England discard Andy Caddick taking three for 83 .",England is a location entity
+"After bowling Somerset out for 83 on the opening morning at Grace Road , Leicestershire extended their first innings by 94 runs before being bowled out for 296 with England discard Andy Caddick taking three for 83 .",Andy Caddick is a person entity
+"Trailing by 213 , Somerset got a solid start to their second innings before Simmons stepped in to bundle them out for 174 .",Somerset is an organization entity
+"Trailing by 213 , Somerset got a solid start to their second innings before Simmons stepped in to bundle them out for 174 .",Simmons is a person entity
+"Essex , however , look certain to regain their top spot after Nasser Hussain and Peter Such gave them a firm grip on their match against Yorkshire at Headingley .",Essex is an organization entity
+"Essex , however , look certain to regain their top spot after Nasser Hussain and Peter Such gave them a firm grip on their match against Yorkshire at Headingley .",Nasser Hussain is a person entity
+"Essex , however , look certain to regain their top spot after Nasser Hussain and Peter Such gave them a firm grip on their match against Yorkshire at Headingley .",Peter Such is a person entity
+"Essex , however , look certain to regain their top spot after Nasser Hussain and Peter Such gave them a firm grip on their match against Yorkshire at Headingley .",Yorkshire is an organization entity
+"Essex , however , look certain to regain their top spot after Nasser Hussain and Peter Such gave them a firm grip on their match against Yorkshire at Headingley .",Headingley is a location entity
+"Hussain , considered surplus to England 's one-day requirements , struck 158 , his first championship century of the season , as Essex reached 372 and took a first innings lead of 82 .",Hussain is a person entity
+"Hussain , considered surplus to England 's one-day requirements , struck 158 , his first championship century of the season , as Essex reached 372 and took a first innings lead of 82 .",England is a location entity
+"Hussain , considered surplus to England 's one-day requirements , struck 158 , his first championship century of the season , as Essex reached 372 and took a first innings lead of 82 .",Essex is an organization entity
+"By the close Yorkshire had turned that into a 37-run advantage but off-spinner Such had scuttled their hopes , taking four for 24 in 48 balls and leaving them hanging on 119 for five and praying for rain .",Yorkshire is an organization entity
+"By the close Yorkshire had turned that into a 37-run advantage but off-spinner Such had scuttled their hopes , taking four for 24 in 48 balls and leaving them hanging on 119 for five and praying for rain .",Such is a person entity
+"At the Oval , Surrey captain Chris Lewis , another man dumped by England , continued to silence his critics as he followed his four for 45 on Thursday with 80 not out on Friday in the match against Warwickshire .",Oval is a location entity
+"At the Oval , Surrey captain Chris Lewis , another man dumped by England , continued to silence his critics as he followed his four for 45 on Thursday with 80 not out on Friday in the match against Warwickshire .",Surrey is an organization entity
+"At the Oval , Surrey captain Chris Lewis , another man dumped by England , continued to silence his critics as he followed his four for 45 on Thursday with 80 not out on Friday in the match against Warwickshire .",Chris Lewis is a person entity
+"At the Oval , Surrey captain Chris Lewis , another man dumped by England , continued to silence his critics as he followed his four for 45 on Thursday with 80 not out on Friday in the match against Warwickshire .",England is a location entity
+"At the Oval , Surrey captain Chris Lewis , another man dumped by England , continued to silence his critics as he followed his four for 45 on Thursday with 80 not out on Friday in the match against Warwickshire .",Warwickshire is an organization entity
+"He was well backed by England hopeful Mark Butcher who made 70 as Surrey closed on 429 for seven , a lead of 234 .",England is a location entity
+"He was well backed by England hopeful Mark Butcher who made 70 as Surrey closed on 429 for seven , a lead of 234 .",Mark Butcher is a person entity
+"He was well backed by England hopeful Mark Butcher who made 70 as Surrey closed on 429 for seven , a lead of 234 .",Surrey is an organization entity
+"Derbyshire kept up the hunt for their first championship title since 1936 by reducing Worcestershire to 133 for five in their second innings , still 100 runs away from avoiding an innings defeat .",Derbyshire is an organization entity
+"Derbyshire kept up the hunt for their first championship title since 1936 by reducing Worcestershire to 133 for five in their second innings , still 100 runs away from avoiding an innings defeat .",Worcestershire is an organization entity
+"Australian Tom Moody took six for 82 but Chris Adams , 123 , and Tim O'Gorman , 109 , took Derbyshire to 471 and a first innings lead of 233 .",Australian Tom Moody is a person entity
+"Australian Tom Moody took six for 82 but Chris Adams , 123 , and Tim O'Gorman , 109 , took Derbyshire to 471 and a first innings lead of 233 .",Chris Adams is a person entity
+"Australian Tom Moody took six for 82 but Chris Adams , 123 , and Tim O'Gorman , 109 , took Derbyshire to 471 and a first innings lead of 233 .",Tim O'Gorman is a person entity
+"Australian Tom Moody took six for 82 but Chris Adams , 123 , and Tim O'Gorman , 109 , took Derbyshire to 471 and a first innings lead of 233 .",Derbyshire is an organization entity
+"After the frustration of seeing the opening day of their match badly affected by the weather , Kent stepped up a gear to dismiss Nottinghamshire for 214 .",Kent is an organization entity
+"After the frustration of seeing the opening day of their match badly affected by the weather , Kent stepped up a gear to dismiss Nottinghamshire for 214 .",Nottinghamshire is an organization entity
+They were held up by a gritty 84 from Paul Johnson but ex-England fast bowler Martin McCague took four for 55 .,Paul Johnson is a person entity
+They were held up by a gritty 84 from Paul Johnson but ex-England fast bowler Martin McCague took four for 55 .,ex-England is an other entity
+They were held up by a gritty 84 from Paul Johnson but ex-England fast bowler Martin McCague took four for 55 .,Martin McCague is a person entity
+By stumps Kent had reached 108 for three .,Kent is an organization entity
+CRICKET - ENGLISH COUNTY CHAMPIONSHIP SCORES .,ENGLISH COUNTY CHAMPIONSHIP is an other entity
+LONDON 1996-08-30,LONDON is a location entity
+Result and close of play scores in English county championship matches on Friday :,English is an other entity
+Leicester : Leicestershire beat Somerset by an innings and 39 runs .,Leicester is a location entity
+Leicester : Leicestershire beat Somerset by an innings and 39 runs .,Leicestershire is an organization entity
+Leicester : Leicestershire beat Somerset by an innings and 39 runs .,Somerset is an organization entity
+"Somerset 83 and 174 ( P. Simmons 4-38 ) , Leicestershire 296 .",Somerset is an organization entity
+"Somerset 83 and 174 ( P. Simmons 4-38 ) , Leicestershire 296 .",P. Simmons is a person entity
+"Somerset 83 and 174 ( P. Simmons 4-38 ) , Leicestershire 296 .",Leicestershire is an organization entity
+"Leicestershire 22 points , Somerset 4 .",Leicestershire is an organization entity
+"Leicestershire 22 points , Somerset 4 .",Somerset is an organization entity
+"Chester-le-Street : Glamorgan 259 and 207 ( A. Dale 69 , H. Morris 69 ; D. Blenkiron 4-43 ) , Durham 114 ( S. Watkin 4-28 ) and 81-3 .",Chester-le-Street is a location entity
+"Chester-le-Street : Glamorgan 259 and 207 ( A. Dale 69 , H. Morris 69 ; D. Blenkiron 4-43 ) , Durham 114 ( S. Watkin 4-28 ) and 81-3 .",Glamorgan is an organization entity
+"Chester-le-Street : Glamorgan 259 and 207 ( A. Dale 69 , H. Morris 69 ; D. Blenkiron 4-43 ) , Durham 114 ( S. Watkin 4-28 ) and 81-3 .",A. Dale is a person entity
+"Chester-le-Street : Glamorgan 259 and 207 ( A. Dale 69 , H. Morris 69 ; D. Blenkiron 4-43 ) , Durham 114 ( S. Watkin 4-28 ) and 81-3 .",H. Morris is a person entity
+"Chester-le-Street : Glamorgan 259 and 207 ( A. Dale 69 , H. Morris 69 ; D. Blenkiron 4-43 ) , Durham 114 ( S. Watkin 4-28 ) and 81-3 .",D. Blenkiron is a person entity
+"Chester-le-Street : Glamorgan 259 and 207 ( A. Dale 69 , H. Morris 69 ; D. Blenkiron 4-43 ) , Durham 114 ( S. Watkin 4-28 ) and 81-3 .",Durham is an organization entity
+"Chester-le-Street : Glamorgan 259 and 207 ( A. Dale 69 , H. Morris 69 ; D. Blenkiron 4-43 ) , Durham 114 ( S. Watkin 4-28 ) and 81-3 .",S. Watkin is a person entity
+"Tunbridge Wells : Nottinghamshire 214 ( P. Johnson 84 ; M. McCague 4-55 ) , Kent 108-3 .",Tunbridge Wells is a location entity
+"Tunbridge Wells : Nottinghamshire 214 ( P. Johnson 84 ; M. McCague 4-55 ) , Kent 108-3 .",Nottinghamshire is an organization entity
+"Tunbridge Wells : Nottinghamshire 214 ( P. Johnson 84 ; M. McCague 4-55 ) , Kent 108-3 .",P. Johnson is a person entity
+"Tunbridge Wells : Nottinghamshire 214 ( P. Johnson 84 ; M. McCague 4-55 ) , Kent 108-3 .",M. McCague is a person entity
+"Tunbridge Wells : Nottinghamshire 214 ( P. Johnson 84 ; M. McCague 4-55 ) , Kent 108-3 .",Kent is an organization entity
+"London ( The Oval ) : Warwickshire 195 , Surrey 429-7 ( C. Lewis 80 not out , M. Butcher 70 , G. Kersey 63 , J. Ratcliffe 63 , D. Bicknell 55 ) .",London is a location entity
+"London ( The Oval ) : Warwickshire 195 , Surrey 429-7 ( C. Lewis 80 not out , M. Butcher 70 , G. Kersey 63 , J. Ratcliffe 63 , D. Bicknell 55 ) .",The Oval is a location entity
+"London ( The Oval ) : Warwickshire 195 , Surrey 429-7 ( C. Lewis 80 not out , M. Butcher 70 , G. Kersey 63 , J. Ratcliffe 63 , D. Bicknell 55 ) .",Warwickshire is an organization entity
+"London ( The Oval ) : Warwickshire 195 , Surrey 429-7 ( C. Lewis 80 not out , M. Butcher 70 , G. Kersey 63 , J. Ratcliffe 63 , D. Bicknell 55 ) .",Surrey is an organization entity
+"London ( The Oval ) : Warwickshire 195 , Surrey 429-7 ( C. Lewis 80 not out , M. Butcher 70 , G. Kersey 63 , J. Ratcliffe 63 , D. Bicknell 55 ) .",C. Lewis is a person entity
+"London ( The Oval ) : Warwickshire 195 , Surrey 429-7 ( C. Lewis 80 not out , M. Butcher 70 , G. Kersey 63 , J. Ratcliffe 63 , D. Bicknell 55 ) .",M. Butcher is a person entity
+"London ( The Oval ) : Warwickshire 195 , Surrey 429-7 ( C. Lewis 80 not out , M. Butcher 70 , G. Kersey 63 , J. Ratcliffe 63 , D. Bicknell 55 ) .",G. Kersey is a person entity
+"London ( The Oval ) : Warwickshire 195 , Surrey 429-7 ( C. Lewis 80 not out , M. Butcher 70 , G. Kersey 63 , J. Ratcliffe 63 , D. Bicknell 55 ) .",J. Ratcliffe is a person entity
+"London ( The Oval ) : Warwickshire 195 , Surrey 429-7 ( C. Lewis 80 not out , M. Butcher 70 , G. Kersey 63 , J. Ratcliffe 63 , D. Bicknell 55 ) .",D. Bicknell is a person entity
+"Hove : Sussex 363 ( W. Athey 111 , V. Drakes 52 ; I. Austin 4-37 ) , Lancashire 197-8 ( W. Hegg 54 )",Hove is a location entity
+"Hove : Sussex 363 ( W. Athey 111 , V. Drakes 52 ; I. Austin 4-37 ) , Lancashire 197-8 ( W. Hegg 54 )",Sussex is an organization entity
+"Hove : Sussex 363 ( W. Athey 111 , V. Drakes 52 ; I. Austin 4-37 ) , Lancashire 197-8 ( W. Hegg 54 )",W. Athey is a person entity
+"Hove : Sussex 363 ( W. Athey 111 , V. Drakes 52 ; I. Austin 4-37 ) , Lancashire 197-8 ( W. Hegg 54 )",V. Drakes is a person entity
+"Hove : Sussex 363 ( W. Athey 111 , V. Drakes 52 ; I. Austin 4-37 ) , Lancashire 197-8 ( W. Hegg 54 )",I. Austin is a person entity
+"Hove : Sussex 363 ( W. Athey 111 , V. Drakes 52 ; I. Austin 4-37 ) , Lancashire 197-8 ( W. Hegg 54 )",Lancashire is an organization entity
+"Hove : Sussex 363 ( W. Athey 111 , V. Drakes 52 ; I. Austin 4-37 ) , Lancashire 197-8 ( W. Hegg 54 )",W. Hegg is a person entity
+"Portsmouth : Middlesex 199 and 426 ( J. Pooley 111 , M. Ramprakash 108 , M. Gatting 83 ) , Hampshire 232 and 109-5 .",Portsmouth is a location entity
+"Portsmouth : Middlesex 199 and 426 ( J. Pooley 111 , M. Ramprakash 108 , M. Gatting 83 ) , Hampshire 232 and 109-5 .",Middlesex is an organization entity
+"Portsmouth : Middlesex 199 and 426 ( J. Pooley 111 , M. Ramprakash 108 , M. Gatting 83 ) , Hampshire 232 and 109-5 .",J. Pooley is a person entity
+"Portsmouth : Middlesex 199 and 426 ( J. Pooley 111 , M. Ramprakash 108 , M. Gatting 83 ) , Hampshire 232 and 109-5 .",M. Ramprakash is a person entity
+"Portsmouth : Middlesex 199 and 426 ( J. Pooley 111 , M. Ramprakash 108 , M. Gatting 83 ) , Hampshire 232 and 109-5 .",M. Gatting is a person entity
+"Portsmouth : Middlesex 199 and 426 ( J. Pooley 111 , M. Ramprakash 108 , M. Gatting 83 ) , Hampshire 232 and 109-5 .",Hampshire is an organization entity
+"Chesterfield : Worcestershire 238 and 133-5 , Derbyshire 471 ( J. Adams 123 , T.O'Gorman 109 not out , K. Barnett 87 ; T. Moody 6-82 )",Chesterfield is a location entity
+"Chesterfield : Worcestershire 238 and 133-5 , Derbyshire 471 ( J. Adams 123 , T.O'Gorman 109 not out , K. Barnett 87 ; T. Moody 6-82 )",Worcestershire is an organization entity
+"Chesterfield : Worcestershire 238 and 133-5 , Derbyshire 471 ( J. Adams 123 , T.O'Gorman 109 not out , K. Barnett 87 ; T. Moody 6-82 )",Derbyshire is an organization entity
+"Chesterfield : Worcestershire 238 and 133-5 , Derbyshire 471 ( J. Adams 123 , T.O'Gorman 109 not out , K. Barnett 87 ; T. Moody 6-82 )",J. Adams is a person entity
+"Chesterfield : Worcestershire 238 and 133-5 , Derbyshire 471 ( J. Adams 123 , T.O'Gorman 109 not out , K. Barnett 87 ; T. Moody 6-82 )",T.O'Gorman is a person entity
+"Chesterfield : Worcestershire 238 and 133-5 , Derbyshire 471 ( J. Adams 123 , T.O'Gorman 109 not out , K. Barnett 87 ; T. Moody 6-82 )",K. Barnett is a person entity
+"Chesterfield : Worcestershire 238 and 133-5 , Derbyshire 471 ( J. Adams 123 , T.O'Gorman 109 not out , K. Barnett 87 ; T. Moody 6-82 )",T. Moody is a person entity
+"Bristol : Gloucestershire 183 and 185-6 ( J. Russell 56 not out ) , Northamptonshire 190 ( K. Curran 52 ; A. Smith 5-68 ) .",Bristol is a location entity
+"Bristol : Gloucestershire 183 and 185-6 ( J. Russell 56 not out ) , Northamptonshire 190 ( K. Curran 52 ; A. Smith 5-68 ) .",Gloucestershire is an organization entity
+"Bristol : Gloucestershire 183 and 185-6 ( J. Russell 56 not out ) , Northamptonshire 190 ( K. Curran 52 ; A. Smith 5-68 ) .",J. Russell is a person entity
+"Bristol : Gloucestershire 183 and 185-6 ( J. Russell 56 not out ) , Northamptonshire 190 ( K. Curran 52 ; A. Smith 5-68 ) .",Northamptonshire is an organization entity
+"Bristol : Gloucestershire 183 and 185-6 ( J. Russell 56 not out ) , Northamptonshire 190 ( K. Curran 52 ; A. Smith 5-68 ) .",K. Curran is a person entity
+"Bristol : Gloucestershire 183 and 185-6 ( J. Russell 56 not out ) , Northamptonshire 190 ( K. Curran 52 ; A. Smith 5-68 ) .",A. Smith is a person entity
+CRICKET - 1997 ASHES INTINERARY .,ASHES is an other entity
+LONDON 1996-08-30,LONDON is a location entity
+Australia will defend the Ashes in,Australia is a location entity
+Australia will defend the Ashes in,Ashes is an other entity
+a six-test series against England during a four-month tour,England is a location entity
+"starting on May 13 next year , the Test and County Cricket Board",Test and County Cricket Board is an organization entity
+Australia will also play three one-day internationals and,Australia is a location entity
+"English county sides and another against British Universities ,",English is an other entity
+"English county sides and another against British Universities ,",British Universities is an organization entity
+as well as one-day matches against the Minor Counties and,Minor Counties is an organization entity
+Scotland .,Scotland is a location entity
+May 13 Arrive in London,London is a location entity
+May 14 Practice at Lord 's,Lord 's is a location entity
+May 15 v Duke of Norfolk 's XI ( at Arundel ),Duke of Norfolk 's XI is an organization entity
+May 15 v Duke of Norfolk 's XI ( at Arundel ),Arundel is a location entity
+May 17 v Northampton,Northampton is an organization entity
+May 18 v Worcestershire,Worcestershire is an organization entity
+May 20 v Durham,Durham is an organization entity
+"May 22 First one-day international ( at Headingley ,",Headingley is a location entity
+Leeds ),Leeds is an organization entity
+"May 24 Second one-day international ( at The Oval ,",The Oval is a location entity
+London ),London is a location entity
+"May 25 Third one-day international ( at Lord 's , London )",Lord 's is a location entity
+"May 25 Third one-day international ( at Lord 's , London )",London is a location entity
+May 27-29 v Gloucestershire or Sussex or Surrey ( three,Gloucestershire is an organization entity
+May 27-29 v Gloucestershire or Sussex or Surrey ( three,Sussex is an organization entity
+May 27-29 v Gloucestershire or Sussex or Surrey ( three,Surrey is an organization entity
+May 31 - June 2 v Derbyshire ( three days ),Derbyshire is an organization entity
+"June 5-9 First test match ( at Edgbaston , Birmingham )",Edgbaston is a location entity
+"June 5-9 First test match ( at Edgbaston , Birmingham )",Birmingham is a location entity
+June 14-16 v Leicestershire ( three days ),Leicestershire is an organization entity
+June 19-23 Second test ( at Lord 's ),Lord 's is a location entity
+"June 25-27 v British Universities ( at Oxford , three days )",British Universities is an organization entity
+"June 25-27 v British Universities ( at Oxford , three days )",Oxford is a location entity
+June 28-30 v Hampshire ( three days ),Hampshire is an organization entity
+"July 3-7 Third test ( at Old Trafford , Manchester )",Old Trafford is a location entity
+"July 3-7 Third test ( at Old Trafford , Manchester )",Manchester is a location entity
+July 9 v Minor Counties XI,Minor Counties XI is an organization entity
+July 12 v Scotland,Scotland is a location entity
+July 16-18 v Glamorgan ( three days ),Glamorgan is an organization entity
+July 19-21 v Middlesex ( three days ),Middlesex is an organization entity
+July 24-28 Fourth test ( at Headingley ),Headingley is a location entity
+August 1-4 v Somerset ( four days ),Somerset is an organization entity
+"August 7-11 Fifth test ( at Trent Bridge , Nottingham )",Trent Bridge is a location entity
+"August 7-11 Fifth test ( at Trent Bridge , Nottingham )",Nottingham is a location entity
+August 16-18 v Kent ( three days ),Kent is an organization entity
+"August 21-25 Sixth test ( at The Oval , London ) .",The Oval is a location entity
+"August 21-25 Sixth test ( at The Oval , London ) .",London is a location entity
+SOCCER - SHEARER NAMED AS ENGLAND CAPTAIN .,SHEARER is a person entity
+SOCCER - SHEARER NAMED AS ENGLAND CAPTAIN .,ENGLAND is a location entity
+LONDON 1996-08-30,LONDON is a location entity
+The world 's costliest footballer Alan Shearer was named as the new England captain on Friday .,Alan Shearer is a person entity
+The world 's costliest footballer Alan Shearer was named as the new England captain on Friday .,England is a location entity
+"The 26-year-old , who joined Newcastle for 15 million pounds sterling ( $ 23.4 million ) , takes over from Tony Adams , who led the side during the European championship in June , and former captain David Platt .",Newcastle is an organization entity
+"The 26-year-old , who joined Newcastle for 15 million pounds sterling ( $ 23.4 million ) , takes over from Tony Adams , who led the side during the European championship in June , and former captain David Platt .",Tony Adams is a person entity
+"The 26-year-old , who joined Newcastle for 15 million pounds sterling ( $ 23.4 million ) , takes over from Tony Adams , who led the side during the European championship in June , and former captain David Platt .",European is an other entity
+"The 26-year-old , who joined Newcastle for 15 million pounds sterling ( $ 23.4 million ) , takes over from Tony Adams , who led the side during the European championship in June , and former captain David Platt .",David Platt is a person entity
+Adams and Platt are both injured and will miss England 's opening World Cup qualifier against Moldova on Sunday .,Adams is a person entity
+Adams and Platt are both injured and will miss England 's opening World Cup qualifier against Moldova on Sunday .,Platt is a person entity
+Adams and Platt are both injured and will miss England 's opening World Cup qualifier against Moldova on Sunday .,England is a location entity
+Adams and Platt are both injured and will miss England 's opening World Cup qualifier against Moldova on Sunday .,World Cup is an other entity
+Adams and Platt are both injured and will miss England 's opening World Cup qualifier against Moldova on Sunday .,Moldova is a location entity
+"Shearer takes the captaincy on a trial basis , but new coach Glenn Hoddle said he saw no reason why the former Blackburn and Southampton skipper should not make the post his own .",Shearer is a person entity
+"Shearer takes the captaincy on a trial basis , but new coach Glenn Hoddle said he saw no reason why the former Blackburn and Southampton skipper should not make the post his own .",Glenn Hoddle is a person entity
+"Shearer takes the captaincy on a trial basis , but new coach Glenn Hoddle said he saw no reason why the former Blackburn and Southampton skipper should not make the post his own .",Blackburn is an organization entity
+"Shearer takes the captaincy on a trial basis , but new coach Glenn Hoddle said he saw no reason why the former Blackburn and Southampton skipper should not make the post his own .",Southampton is an organization entity
+""" I 'm sure there wo n't be a problem , I 'm sure Alan is the man for the job , "" Hoddle said .",Alan is a person entity
+""" I 'm sure there wo n't be a problem , I 'm sure Alan is the man for the job , "" Hoddle said .",Hoddle is a person entity
+""" There were three or four people who could have done it but when I spoke to Alan he was up for it and really wanted it .",Alan is a person entity
+Shearer 's Euro 96 striking partner Teddy Sheringham withdrew from the squad with an injury on Friday .,Shearer is a person entity
+Shearer 's Euro 96 striking partner Teddy Sheringham withdrew from the squad with an injury on Friday .,Euro 96 is an other entity
+Shearer 's Euro 96 striking partner Teddy Sheringham withdrew from the squad with an injury on Friday .,Teddy Sheringham is a person entity
+He will probably be replaced by Shearer 's Newcastle team mate Les Ferdinand .,Shearer is a person entity
+He will probably be replaced by Shearer 's Newcastle team mate Les Ferdinand .,Newcastle is an organization entity
+He will probably be replaced by Shearer 's Newcastle team mate Les Ferdinand .,Les Ferdinand is a person entity
+BELGRADE 1996-08-30,BELGRADE is a location entity
+Red Star ( Yugoslavia ) beat Dinamo ( Russia ) 92-90 ( halftime,Red Star is an organization entity
+Red Star ( Yugoslavia ) beat Dinamo ( Russia ) 92-90 ( halftime,Yugoslavia is a location entity
+Red Star ( Yugoslavia ) beat Dinamo ( Russia ) 92-90 ( halftime,Dinamo is an organization entity
+Red Star ( Yugoslavia ) beat Dinamo ( Russia ) 92-90 ( halftime,Russia is a location entity
+SOCCER - ROMANIA BEAT LITHUANIA IN UNDER-21 MATCH .,ROMANIA is a location entity
+SOCCER - ROMANIA BEAT LITHUANIA IN UNDER-21 MATCH .,LITHUANIA is a location entity
+BUCHAREST 1996-08-30,BUCHAREST is a location entity
+Romania beat Lithuania 2-1 ( halftime 1-1 ) in their European under-21 soccer match on Friday .,Romania is a location entity
+Romania beat Lithuania 2-1 ( halftime 1-1 ) in their European under-21 soccer match on Friday .,Lithuania is a location entity
+Romania beat Lithuania 2-1 ( halftime 1-1 ) in their European under-21 soccer match on Friday .,European is an other entity
+"Romania - Cosmin Contra ( 31st ) , Mihai Tararache ( 75th )",Romania is a location entity
+"Romania - Cosmin Contra ( 31st ) , Mihai Tararache ( 75th )",Cosmin Contra is a person entity
+"Romania - Cosmin Contra ( 31st ) , Mihai Tararache ( 75th )",Mihai Tararache is a person entity
+Lithuania - Danius Gleveckas ( 13rd ),Lithuania is a location entity
+Lithuania - Danius Gleveckas ( 13rd ),Danius Gleveckas is a person entity
+SOCCER - ROTOR FANS LOCKED OUT AFTER VOLGOGRAD VIOLENCE .,ROTOR is an organization entity
+SOCCER - ROTOR FANS LOCKED OUT AFTER VOLGOGRAD VIOLENCE .,VOLGOGRAD is a location entity
+MOSCOW 1996-08-30,MOSCOW is a location entity
+Rotor Volgograd must play their next home game behind closed doors after fans hurled bottles and stones at Dynamo Moscow players during a 1-0 home defeat on Saturday that ended Rotor 's brief spell as league leaders .,Rotor Volgograd is an organization entity
+Rotor Volgograd must play their next home game behind closed doors after fans hurled bottles and stones at Dynamo Moscow players during a 1-0 home defeat on Saturday that ended Rotor 's brief spell as league leaders .,Dynamo Moscow is an organization entity
+Rotor Volgograd must play their next home game behind closed doors after fans hurled bottles and stones at Dynamo Moscow players during a 1-0 home defeat on Saturday that ended Rotor 's brief spell as league leaders .,Rotor is an organization entity
+"The head of the Russian league 's disciplinary committee , Anatoly Gorokhovsky , said on Friday that Rotor would play Lada Togliatti to empty stands on September 3 .",Russian is an other entity
+"The head of the Russian league 's disciplinary committee , Anatoly Gorokhovsky , said on Friday that Rotor would play Lada Togliatti to empty stands on September 3 .",Anatoly Gorokhovsky is a person entity
+"The head of the Russian league 's disciplinary committee , Anatoly Gorokhovsky , said on Friday that Rotor would play Lada Togliatti to empty stands on September 3 .",Rotor is an organization entity
+"The head of the Russian league 's disciplinary committee , Anatoly Gorokhovsky , said on Friday that Rotor would play Lada Togliatti to empty stands on September 3 .",Lada Togliatti is an organization entity
+"The club , who put Manchester United out of last year 's UEFA Cup , were fined $ 1,000 .",Manchester United is an organization entity
+"The club , who put Manchester United out of last year 's UEFA Cup , were fined $ 1,000 .",UEFA Cup is an other entity
+"Despite the defeat , Rotor are well placed with 11 games to play in the championship .",Rotor is an organization entity
+"Lying three points behind Alania and two behind Dynamo Moscow , the Volgograd side have a game in hand over the leaders and two over the Moscow club .",Alania is an organization entity
+"Lying three points behind Alania and two behind Dynamo Moscow , the Volgograd side have a game in hand over the leaders and two over the Moscow club .",Dynamo Moscow is an organization entity
+"Lying three points behind Alania and two behind Dynamo Moscow , the Volgograd side have a game in hand over the leaders and two over the Moscow club .",Volgograd is a location entity
+"Lying three points behind Alania and two behind Dynamo Moscow , the Volgograd side have a game in hand over the leaders and two over the Moscow club .",Moscow is a location entity
+BOXING - PANAMA 'S ROBERTO DURAN FIGHTS THE SANDS OF TIME .,PANAMA is a location entity
+BOXING - PANAMA 'S ROBERTO DURAN FIGHTS THE SANDS OF TIME .,ROBERTO DURAN is a person entity
+PANAMA CITY 1996-08-30,PANAMA CITY is a location entity
+"Panamanian boxing legend Roberto "" Hands of Stone "" Duran climbs into the ring on Saturday in another age-defying attempt to sustain his long career .",Panamanian is an other entity
+"Panamanian boxing legend Roberto "" Hands of Stone "" Duran climbs into the ring on Saturday in another age-defying attempt to sustain his long career .","Roberto "" Hands of Stone "" Duran is a person entity"
+"Duran , 45 , takes on little-known Mexican Ariel Cruz , 30 , in a super middleweight non-title bout in Panama City .",Duran is a person entity
+"Duran , 45 , takes on little-known Mexican Ariel Cruz , 30 , in a super middleweight non-title bout in Panama City .",Mexican Ariel Cruz is a person entity
+"Duran , 45 , takes on little-known Mexican Ariel Cruz , 30 , in a super middleweight non-title bout in Panama City .",Panama City is a location entity
+"The fight , Duran 's first on home soil for 10 years , is being billed here as the "" Return of the Legend "" and Duran still talks as if he was in his prime .",Duran is a person entity
+"The fight , Duran 's first on home soil for 10 years , is being billed here as the "" Return of the Legend "" and Duran still talks as if he was in his prime .",Return of the Legend is an other entity
+"I 'm not retiring , "" Duran told Reuters .",Duran is a person entity
+"I 'm not retiring , "" Duran told Reuters .",Reuters is an organization entity
+"If he loses Saturday , it could devalue his position as one of the world 's great boxers , "" Panamanian Boxing Association President Ramon Manzanares said .",Panamanian Boxing Association is an organization entity
+"If he loses Saturday , it could devalue his position as one of the world 's great boxers , "" Panamanian Boxing Association President Ramon Manzanares said .",Ramon Manzanares is a person entity
+"Duran , whose 97-12 record spans three decades , hopes a win in the 10-round bout will earn him a rematch against Puerto Rico 's Hector "" Macho "" Camacho .",Duran is a person entity
+"Duran , whose 97-12 record spans three decades , hopes a win in the 10-round bout will earn him a rematch against Puerto Rico 's Hector "" Macho "" Camacho .",Puerto Rico is a location entity
+"Duran , whose 97-12 record spans three decades , hopes a win in the 10-round bout will earn him a rematch against Puerto Rico 's Hector "" Macho "" Camacho .","Hector "" Macho "" Camacho is a person entity"
+Camacho took a controversial points decision against the Panamanian in Atlantic City in June in a title fight .,Camacho is a person entity
+Camacho took a controversial points decision against the Panamanian in Atlantic City in June in a title fight .,Panamanian is an other entity
+Camacho took a controversial points decision against the Panamanian in Atlantic City in June in a title fight .,Atlantic City is a location entity
+SQUASH - HONG KONG OPEN QUARTER-FINAL RESULTS .,HONG KONG OPEN is an other entity
+HONG KONG 1996-08-30,HONG KONG is a location entity
+Quarter-final results in the Hong Kong Open on Friday ( prefix number denotes seeding ) : 1 - Jansher Khan ( Pakistan ) beat Mark Cairns ( England ) 15-10 15-6 15-7,Hong Kong Open is an other entity
+Quarter-final results in the Hong Kong Open on Friday ( prefix number denotes seeding ) : 1 - Jansher Khan ( Pakistan ) beat Mark Cairns ( England ) 15-10 15-6 15-7,Jansher Khan is a person entity
+Quarter-final results in the Hong Kong Open on Friday ( prefix number denotes seeding ) : 1 - Jansher Khan ( Pakistan ) beat Mark Cairns ( England ) 15-10 15-6 15-7,Pakistan is a location entity
+Quarter-final results in the Hong Kong Open on Friday ( prefix number denotes seeding ) : 1 - Jansher Khan ( Pakistan ) beat Mark Cairns ( England ) 15-10 15-6 15-7,Mark Cairns is a person entity
+Quarter-final results in the Hong Kong Open on Friday ( prefix number denotes seeding ) : 1 - Jansher Khan ( Pakistan ) beat Mark Cairns ( England ) 15-10 15-6 15-7,England is a location entity
+Anthony Hill ( Australia ) beat Dan Jenson ( Australia ) 15-9 15-8 15-17 17-15,Anthony Hill is a person entity
+Anthony Hill ( Australia ) beat Dan Jenson ( Australia ) 15-9 15-8 15-17 17-15,Australia is a location entity
+Anthony Hill ( Australia ) beat Dan Jenson ( Australia ) 15-9 15-8 15-17 17-15,Dan Jenson is a person entity
+4 - Peter Nicol ( Scotland ) beat 7 - Chris Walker ( England ) 15-8 15-13 13-15 15-9,Peter Nicol is a person entity
+4 - Peter Nicol ( Scotland ) beat 7 - Chris Walker ( England ) 15-8 15-13 13-15 15-9,Scotland is a location entity
+4 - Peter Nicol ( Scotland ) beat 7 - Chris Walker ( England ) 15-8 15-13 13-15 15-9,Chris Walker is a person entity
+4 - Peter Nicol ( Scotland ) beat 7 - Chris Walker ( England ) 15-8 15-13 13-15 15-9,England is a location entity
+2 - Rodney Eyles ( Australia ) beat Derek Ryan ( Ireland ) 15-6 15-9 11-15 15-10 .,Rodney Eyles is a person entity
+2 - Rodney Eyles ( Australia ) beat Derek Ryan ( Ireland ) 15-6 15-9 11-15 15-10 .,Australia is a location entity
+2 - Rodney Eyles ( Australia ) beat Derek Ryan ( Ireland ) 15-6 15-9 11-15 15-10 .,Derek Ryan is a person entity
+2 - Rodney Eyles ( Australia ) beat Derek Ryan ( Ireland ) 15-6 15-9 11-15 15-10 .,Ireland is a location entity
+SOCCER - RESULTS OF SOUTH KOREAN PRO-SOCCER GAMES .,SOUTH KOREAN is an other entity
+SEOUL 1996-08-30,SEOUL is a location entity
+Results of South Korean pro-soccer,South Korean is an other entity
+Pohang 3 Ulsan 2 ( halftime 1-0 ),Pohang is an organization entity
+Pohang 3 Ulsan 2 ( halftime 1-0 ),Ulsan is an organization entity
+Puchon 2 Chonbuk 1 ( halftime 1-1 ),Puchon is an organization entity
+Puchon 2 Chonbuk 1 ( halftime 1-1 ),Chonbuk is an organization entity
+Puchon 3 1 0 6 1 10,Puchon is an organization entity
+Chonan 3 0 1 13 10 9,Chonan is an organization entity
+Pohang 2 1 1 11 10 7,Pohang is an organization entity
+Suwan 1 3 0 7 3 6,Suwan is an organization entity
+Ulsan 1 0 2 8 9 3,Ulsan is an organization entity
+Anyang 0 3 1 6 9 3,Anyang is an organization entity
+Chonnam 0 2 1 4 5 2,Chonnam is an organization entity
+Pusan 0 2 1 3 7 2,Pusan is an organization entity
+Chonbuk 0 0 3 3 7 0,Chonbuk is an organization entity
+BASEBALL - RESULTS OF S. KOREAN PROFESSIONAL GAMES .,S. KOREAN is an other entity
+SEOUL 1996-08-30,SEOUL is a location entity
+Results of South Korean,South Korean is an other entity
+LG 2 OB 0,LG is an organization entity
+LG 2 OB 0,OB is an organization entity
+Lotte 6 Hyundai 2,Lotte is an organization entity
+Lotte 6 Hyundai 2,Hyundai is an organization entity
+Hyundai 6 Lotte 5,Hyundai is an organization entity
+Hyundai 6 Lotte 5,Lotte is an organization entity
+Haitai 2 Samsung 0,Haitai is an organization entity
+Haitai 2 Samsung 0,Samsung is an organization entity
+Samsung 10 Haitai 3,Samsung is an organization entity
+Samsung 10 Haitai 3,Haitai is an organization entity
+Hanwha 6 Ssangbangwool 5,Hanwha is an organization entity
+Hanwha 6 Ssangbangwool 5,Ssangbangwool is an organization entity
+"Note - Lotte and Hyundai , Haitai and Samsung played two games .",Lotte is an organization entity
+"Note - Lotte and Hyundai , Haitai and Samsung played two games .",Hyundai is an organization entity
+"Note - Lotte and Hyundai , Haitai and Samsung played two games .",Haitai is an organization entity
+"Note - Lotte and Hyundai , Haitai and Samsung played two games .",Samsung is an organization entity
+Haitai 64 2 43 .596 -,Haitai is an organization entity
+Ssangbangwool 59 2 49 .545 5 1/2,Ssangbangwool is an organization entity
+Hanwha 58 1 49 .542 6,Hanwha is an organization entity
+Hyundai 57 5 49 .536 6 1/2,Hyundai is an organization entity
+Samsung 49 5 56 .468 14,Samsung is an organization entity
+Lotte 46 6 54 .462 14 1/2,Lotte is an organization entity
+LG 46 5 59 .441 17,LG is an organization entity
+OB 42 6 62 .409 20 1/2,OB is an organization entity
+TENNIS - FRIDAY 'S RESULTS FROM THE U.S. OPEN .,U.S. OPEN is an other entity
+NEW YORK 1996-08-30,NEW YORK is a location entity
+Results from the U.S. Open Tennis Championships at the National Tennis Centre on Friday ( prefix number denotes seeding ) :,U.S. Open Tennis Championships is an other entity
+Results from the U.S. Open Tennis Championships at the National Tennis Centre on Friday ( prefix number denotes seeding ) :,National Tennis Centre is a location entity
+Sandrine Testud ( France ) beat Ines Gorrochategui ( Argentina ) 4-6 6-2 6-1,Sandrine Testud is a person entity
+Sandrine Testud ( France ) beat Ines Gorrochategui ( Argentina ) 4-6 6-2 6-1,France is a location entity
+Sandrine Testud ( France ) beat Ines Gorrochategui ( Argentina ) 4-6 6-2 6-1,Ines Gorrochategui is a person entity
+Sandrine Testud ( France ) beat Ines Gorrochategui ( Argentina ) 4-6 6-2 6-1,Argentina is a location entity
+4 - Goran Ivanisevic ( Croatia ) beat Scott Draper ( Australia ) 6-7 ( 1-7 ) 6-3 6-4 6-4,Goran Ivanisevic is a person entity
+4 - Goran Ivanisevic ( Croatia ) beat Scott Draper ( Australia ) 6-7 ( 1-7 ) 6-3 6-4 6-4,Croatia is a location entity
+4 - Goran Ivanisevic ( Croatia ) beat Scott Draper ( Australia ) 6-7 ( 1-7 ) 6-3 6-4 6-4,Scott Draper is a person entity
+4 - Goran Ivanisevic ( Croatia ) beat Scott Draper ( Australia ) 6-7 ( 1-7 ) 6-3 6-4 6-4,Australia is a location entity
+Tim Henman ( Britain ) beat Doug Flach ( U.S. ) 6-3 6-4 6-2,Tim Henman is a person entity
+Tim Henman ( Britain ) beat Doug Flach ( U.S. ) 6-3 6-4 6-2,Britain is a location entity
+Tim Henman ( Britain ) beat Doug Flach ( U.S. ) 6-3 6-4 6-2,Doug Flach is a person entity
+Tim Henman ( Britain ) beat Doug Flach ( U.S. ) 6-3 6-4 6-2,U.S. is a location entity
+Mark Philippoussis ( Australia ) beat Andrei Olhovskiy ( Russia ) 6 - 3 6-4 6-2,Mark Philippoussis is a person entity
+Mark Philippoussis ( Australia ) beat Andrei Olhovskiy ( Russia ) 6 - 3 6-4 6-2,Australia is a location entity
+Mark Philippoussis ( Australia ) beat Andrei Olhovskiy ( Russia ) 6 - 3 6-4 6-2,Andrei Olhovskiy is a person entity
+Mark Philippoussis ( Australia ) beat Andrei Olhovskiy ( Russia ) 6 - 3 6-4 6-2,Russia is a location entity
+Sjeng Schalken ( Netherlands ) beat David Rikl ( Czech Republic ) 6 - 2 6-4 6-4,Sjeng Schalken is a person entity
+Sjeng Schalken ( Netherlands ) beat David Rikl ( Czech Republic ) 6 - 2 6-4 6-4,Netherlands is a location entity
+Sjeng Schalken ( Netherlands ) beat David Rikl ( Czech Republic ) 6 - 2 6-4 6-4,David Rikl is a person entity
+Sjeng Schalken ( Netherlands ) beat David Rikl ( Czech Republic ) 6 - 2 6-4 6-4,Czech Republic is a location entity
+Guy Forget ( France ) beat 17 - Felix Mantilla ( Spain ) 6-4 7-5 6-3,Guy Forget is a person entity
+Guy Forget ( France ) beat 17 - Felix Mantilla ( Spain ) 6-4 7-5 6-3,France is a location entity
+Guy Forget ( France ) beat 17 - Felix Mantilla ( Spain ) 6-4 7-5 6-3,Felix Mantilla is a person entity
+Guy Forget ( France ) beat 17 - Felix Mantilla ( Spain ) 6-4 7-5 6-3,Spain is a location entity
+Alexander Volkov ( Russia ) beat Mikael Tillstrom ( Sweden ) 1-6 6- 4 6-1 4-6 7-6 ( 10-8 ),Alexander Volkov is a person entity
+Alexander Volkov ( Russia ) beat Mikael Tillstrom ( Sweden ) 1-6 6- 4 6-1 4-6 7-6 ( 10-8 ),Russia is a location entity
+Alexander Volkov ( Russia ) beat Mikael Tillstrom ( Sweden ) 1-6 6- 4 6-1 4-6 7-6 ( 10-8 ),Mikael Tillstrom is a person entity
+Alexander Volkov ( Russia ) beat Mikael Tillstrom ( Sweden ) 1-6 6- 4 6-1 4-6 7-6 ( 10-8 ),Sweden is a location entity
+Jonas Bjorkman ( Sweden ) beat David Nainkin ( South Africa ) ) 6-4 6-1 6-1,Jonas Bjorkman is a person entity
+Jonas Bjorkman ( Sweden ) beat David Nainkin ( South Africa ) ) 6-4 6-1 6-1,Sweden is a location entity
+Jonas Bjorkman ( Sweden ) beat David Nainkin ( South Africa ) ) 6-4 6-1 6-1,David Nainkin is a person entity
+Jonas Bjorkman ( Sweden ) beat David Nainkin ( South Africa ) ) 6-4 6-1 6-1,South Africa is a location entity
+8 - Lindsay Davenport ( U.S. ) beat Anne-Gaelle Sidot ( France ) 6-0 6-3,Lindsay Davenport is a person entity
+8 - Lindsay Davenport ( U.S. ) beat Anne-Gaelle Sidot ( France ) 6-0 6-3,U.S. is a location entity
+8 - Lindsay Davenport ( U.S. ) beat Anne-Gaelle Sidot ( France ) 6-0 6-3,Anne-Gaelle Sidot is a person entity
+8 - Lindsay Davenport ( U.S. ) beat Anne-Gaelle Sidot ( France ) 6-0 6-3,France is a location entity
+4 - Conchita Martinez ( Spain ) beat Helena Sukova ( Czech Republic ) 6-4 6-3,Conchita Martinez is a person entity
+4 - Conchita Martinez ( Spain ) beat Helena Sukova ( Czech Republic ) 6-4 6-3,Spain is a location entity
+4 - Conchita Martinez ( Spain ) beat Helena Sukova ( Czech Republic ) 6-4 6-3,Helena Sukova is a person entity
+4 - Conchita Martinez ( Spain ) beat Helena Sukova ( Czech Republic ) 6-4 6-3,Czech Republic is a location entity
+Amanda Coetzer ( South Africa ) beat Irina Spirlea ( Romania ) 7-6 ( 7-5 ) 7-5,Amanda Coetzer is a person entity
+Amanda Coetzer ( South Africa ) beat Irina Spirlea ( Romania ) 7-6 ( 7-5 ) 7-5,South Africa is a location entity
+Amanda Coetzer ( South Africa ) beat Irina Spirlea ( Romania ) 7-6 ( 7-5 ) 7-5,Irina Spirlea is a person entity
+Amanda Coetzer ( South Africa ) beat Irina Spirlea ( Romania ) 7-6 ( 7-5 ) 7-5,Romania is a location entity
+"Add Men 's singles , second round 16 - Cedric Pioline ( France ) beat Roberto Carretero ( Spain ) 4-6 6 - 2 6-2 6-1 Alex Corretja ( Spain ) beat Filippo Veglio ( Switzerland ) 6-7 ( 4- 7 ) 6-4 6-4 6-0",Cedric Pioline is a person entity
+"Add Men 's singles , second round 16 - Cedric Pioline ( France ) beat Roberto Carretero ( Spain ) 4-6 6 - 2 6-2 6-1 Alex Corretja ( Spain ) beat Filippo Veglio ( Switzerland ) 6-7 ( 4- 7 ) 6-4 6-4 6-0",France is a location entity
+"Add Men 's singles , second round 16 - Cedric Pioline ( France ) beat Roberto Carretero ( Spain ) 4-6 6 - 2 6-2 6-1 Alex Corretja ( Spain ) beat Filippo Veglio ( Switzerland ) 6-7 ( 4- 7 ) 6-4 6-4 6-0",Roberto Carretero is a person entity
+"Add Men 's singles , second round 16 - Cedric Pioline ( France ) beat Roberto Carretero ( Spain ) 4-6 6 - 2 6-2 6-1 Alex Corretja ( Spain ) beat Filippo Veglio ( Switzerland ) 6-7 ( 4- 7 ) 6-4 6-4 6-0",Spain is a location entity
+"Add Men 's singles , second round 16 - Cedric Pioline ( France ) beat Roberto Carretero ( Spain ) 4-6 6 - 2 6-2 6-1 Alex Corretja ( Spain ) beat Filippo Veglio ( Switzerland ) 6-7 ( 4- 7 ) 6-4 6-4 6-0",Alex Corretja is a person entity
+"Add Men 's singles , second round 16 - Cedric Pioline ( France ) beat Roberto Carretero ( Spain ) 4-6 6 - 2 6-2 6-1 Alex Corretja ( Spain ) beat Filippo Veglio ( Switzerland ) 6-7 ( 4- 7 ) 6-4 6-4 6-0",Filippo Veglio is a person entity
+"Add Men 's singles , second round 16 - Cedric Pioline ( France ) beat Roberto Carretero ( Spain ) 4-6 6 - 2 6-2 6-1 Alex Corretja ( Spain ) beat Filippo Veglio ( Switzerland ) 6-7 ( 4- 7 ) 6-4 6-4 6-0",Switzerland is a location entity
+"Add Women 's singles , third round Linda Wild ( U.S. ) beat Barbara Rittner ( Germany ) 6-4 4-6 7-5 Asa Carlsson ( Sweden ) beat 15 - Gabriela Sabatini ( Argentina ) 7-5 3-6 6-2",Linda Wild is a person entity
+"Add Women 's singles , third round Linda Wild ( U.S. ) beat Barbara Rittner ( Germany ) 6-4 4-6 7-5 Asa Carlsson ( Sweden ) beat 15 - Gabriela Sabatini ( Argentina ) 7-5 3-6 6-2",U.S. is a location entity
+"Add Women 's singles , third round Linda Wild ( U.S. ) beat Barbara Rittner ( Germany ) 6-4 4-6 7-5 Asa Carlsson ( Sweden ) beat 15 - Gabriela Sabatini ( Argentina ) 7-5 3-6 6-2",Barbara Rittner is a person entity
+"Add Women 's singles , third round Linda Wild ( U.S. ) beat Barbara Rittner ( Germany ) 6-4 4-6 7-5 Asa Carlsson ( Sweden ) beat 15 - Gabriela Sabatini ( Argentina ) 7-5 3-6 6-2",Germany is a location entity
+"Add Women 's singles , third round Linda Wild ( U.S. ) beat Barbara Rittner ( Germany ) 6-4 4-6 7-5 Asa Carlsson ( Sweden ) beat 15 - Gabriela Sabatini ( Argentina ) 7-5 3-6 6-2",Asa Carlsson is a person entity
+"Add Women 's singles , third round Linda Wild ( U.S. ) beat Barbara Rittner ( Germany ) 6-4 4-6 7-5 Asa Carlsson ( Sweden ) beat 15 - Gabriela Sabatini ( Argentina ) 7-5 3-6 6-2",Sweden is a location entity
+"Add Women 's singles , third round Linda Wild ( U.S. ) beat Barbara Rittner ( Germany ) 6-4 4-6 7-5 Asa Carlsson ( Sweden ) beat 15 - Gabriela Sabatini ( Argentina ) 7-5 3-6 6-2",Gabriela Sabatini is a person entity
+"Add Women 's singles , third round Linda Wild ( U.S. ) beat Barbara Rittner ( Germany ) 6-4 4-6 7-5 Asa Carlsson ( Sweden ) beat 15 - Gabriela Sabatini ( Argentina ) 7-5 3-6 6-2",Argentina is a location entity
+"Add Men 's singles , second round 1 - Pete Sampras ( U.S. ) beat Jiri Novak ( Czech Republic ) 6-3 1-6 6-3 4-6 6-4 Paul Haarhuis ( Netherlands ) beat Michael Tebbutt ( Australia ) 1- 6 6-2 6-2 6-3",Pete Sampras is a person entity
+"Add Men 's singles , second round 1 - Pete Sampras ( U.S. ) beat Jiri Novak ( Czech Republic ) 6-3 1-6 6-3 4-6 6-4 Paul Haarhuis ( Netherlands ) beat Michael Tebbutt ( Australia ) 1- 6 6-2 6-2 6-3",U.S. is a location entity
+"Add Men 's singles , second round 1 - Pete Sampras ( U.S. ) beat Jiri Novak ( Czech Republic ) 6-3 1-6 6-3 4-6 6-4 Paul Haarhuis ( Netherlands ) beat Michael Tebbutt ( Australia ) 1- 6 6-2 6-2 6-3",Jiri Novak is a person entity
+"Add Men 's singles , second round 1 - Pete Sampras ( U.S. ) beat Jiri Novak ( Czech Republic ) 6-3 1-6 6-3 4-6 6-4 Paul Haarhuis ( Netherlands ) beat Michael Tebbutt ( Australia ) 1- 6 6-2 6-2 6-3",Czech Republic is a location entity
+"Add Men 's singles , second round 1 - Pete Sampras ( U.S. ) beat Jiri Novak ( Czech Republic ) 6-3 1-6 6-3 4-6 6-4 Paul Haarhuis ( Netherlands ) beat Michael Tebbutt ( Australia ) 1- 6 6-2 6-2 6-3",Paul Haarhuis is a person entity
+"Add Men 's singles , second round 1 - Pete Sampras ( U.S. ) beat Jiri Novak ( Czech Republic ) 6-3 1-6 6-3 4-6 6-4 Paul Haarhuis ( Netherlands ) beat Michael Tebbutt ( Australia ) 1- 6 6-2 6-2 6-3",Netherlands is a location entity
+"Add Men 's singles , second round 1 - Pete Sampras ( U.S. ) beat Jiri Novak ( Czech Republic ) 6-3 1-6 6-3 4-6 6-4 Paul Haarhuis ( Netherlands ) beat Michael Tebbutt ( Australia ) 1- 6 6-2 6-2 6-3",Michael Tebbutt is a person entity
+"Add Men 's singles , second round 1 - Pete Sampras ( U.S. ) beat Jiri Novak ( Czech Republic ) 6-3 1-6 6-3 4-6 6-4 Paul Haarhuis ( Netherlands ) beat Michael Tebbutt ( Australia ) 1- 6 6-2 6-2 6-3",Australia is a location entity
+"Add Women 's singles , third round Lisa Raymond ( U.S. ) beat Kimberly Po ( U.S. ) 6-3 6-2",Lisa Raymond is a person entity
+"Add Women 's singles , third round Lisa Raymond ( U.S. ) beat Kimberly Po ( U.S. ) 6-3 6-2",U.S. is a location entity
+"Add Women 's singles , third round Lisa Raymond ( U.S. ) beat Kimberly Po ( U.S. ) 6-3 6-2",Kimberly Po is a person entity
+Hendrik Dreekmann ( Germany ) beat Thomas Johansson ( Sweden ),Hendrik Dreekmann is a person entity
+Hendrik Dreekmann ( Germany ) beat Thomas Johansson ( Sweden ),Germany is a location entity
+Hendrik Dreekmann ( Germany ) beat Thomas Johansson ( Sweden ),Thomas Johansson is a person entity
+Hendrik Dreekmann ( Germany ) beat Thomas Johansson ( Sweden ),Sweden is a location entity
+Andrei Medvedev ( Ukraine ) beat Jan Kroslak ( Slovakia ) 6-4 6-3,Andrei Medvedev is a person entity
+Andrei Medvedev ( Ukraine ) beat Jan Kroslak ( Slovakia ) 6-4 6-3,Ukraine is a location entity
+Andrei Medvedev ( Ukraine ) beat Jan Kroslak ( Slovakia ) 6-4 6-3,Jan Kroslak is a person entity
+Andrei Medvedev ( Ukraine ) beat Jan Kroslak ( Slovakia ) 6-4 6-3,Slovakia is a location entity
+Petr Korda ( Czech Republic ) bat Bohdan Ulihrach ( Czech,Petr Korda is a person entity
+Petr Korda ( Czech Republic ) bat Bohdan Ulihrach ( Czech,Czech Republic is a location entity
+Petr Korda ( Czech Republic ) bat Bohdan Ulihrach ( Czech,Bohdan Ulihrach is a person entity
+Petr Korda ( Czech Republic ) bat Bohdan Ulihrach ( Czech,Czech is a location entity
+Republic ) 6-0 7-6 ( 7-5 ) 6-2,Republic is a location entity
+2 - Monica Seles ( U.S. ) beat Dally Randriantefy ( Madagascar ),Monica Seles is a person entity
+2 - Monica Seles ( U.S. ) beat Dally Randriantefy ( Madagascar ),U.S. is a location entity
+2 - Monica Seles ( U.S. ) beat Dally Randriantefy ( Madagascar ),Dally Randriantefy is a person entity
+2 - Monica Seles ( U.S. ) beat Dally Randriantefy ( Madagascar ),Madagascar is a location entity
+"Add men 's singles , second round 12 - Todd Martin ( U.S. ) beat Andrea Gaudenzi ( Italy ) 6-3 6-2 6-2 Stefan Edberg ( Sweden ) beat Bernd Karbacher ( Germany ) 3-6 6-3 6-3 1-0 retired ( leg injury )",Todd Martin is a person entity
+"Add men 's singles , second round 12 - Todd Martin ( U.S. ) beat Andrea Gaudenzi ( Italy ) 6-3 6-2 6-2 Stefan Edberg ( Sweden ) beat Bernd Karbacher ( Germany ) 3-6 6-3 6-3 1-0 retired ( leg injury )",U.S. is a location entity
+"Add men 's singles , second round 12 - Todd Martin ( U.S. ) beat Andrea Gaudenzi ( Italy ) 6-3 6-2 6-2 Stefan Edberg ( Sweden ) beat Bernd Karbacher ( Germany ) 3-6 6-3 6-3 1-0 retired ( leg injury )",Andrea Gaudenzi is a person entity
+"Add men 's singles , second round 12 - Todd Martin ( U.S. ) beat Andrea Gaudenzi ( Italy ) 6-3 6-2 6-2 Stefan Edberg ( Sweden ) beat Bernd Karbacher ( Germany ) 3-6 6-3 6-3 1-0 retired ( leg injury )",Italy is a location entity
+"Add men 's singles , second round 12 - Todd Martin ( U.S. ) beat Andrea Gaudenzi ( Italy ) 6-3 6-2 6-2 Stefan Edberg ( Sweden ) beat Bernd Karbacher ( Germany ) 3-6 6-3 6-3 1-0 retired ( leg injury )",Stefan Edberg is a person entity
+"Add men 's singles , second round 12 - Todd Martin ( U.S. ) beat Andrea Gaudenzi ( Italy ) 6-3 6-2 6-2 Stefan Edberg ( Sweden ) beat Bernd Karbacher ( Germany ) 3-6 6-3 6-3 1-0 retired ( leg injury )",Sweden is a location entity
+"Add men 's singles , second round 12 - Todd Martin ( U.S. ) beat Andrea Gaudenzi ( Italy ) 6-3 6-2 6-2 Stefan Edberg ( Sweden ) beat Bernd Karbacher ( Germany ) 3-6 6-3 6-3 1-0 retired ( leg injury )",Bernd Karbacher is a person entity
+"Add men 's singles , second round 12 - Todd Martin ( U.S. ) beat Andrea Gaudenzi ( Italy ) 6-3 6-2 6-2 Stefan Edberg ( Sweden ) beat Bernd Karbacher ( Germany ) 3-6 6-3 6-3 1-0 retired ( leg injury )",Germany is a location entity
+BASEBALL - MAJOR LEAGUE STANDINGS AFTER THURSDAY 'S GAMES .,MAJOR LEAGUE is an other entity
+NEW YORK 1996-08-30,NEW YORK is a location entity
+Major League Baseball,Major League Baseball is an other entity
+AMERICAN LEAGUE,AMERICAN LEAGUE is an other entity
+EASTERN DIVISION,EASTERN DIVISION is an other entity
+NEW YORK 74 59 .556 -,NEW YORK is an organization entity
+BALTIMORE 70 63 .526 4,BALTIMORE is an organization entity
+BOSTON 69 65 .515 5 1/2,BOSTON is an organization entity
+TORONTO 63 71 .470 11 1/2,TORONTO is an organization entity
+DETROIT 48 86 .358 26 1/2,DETROIT is an organization entity
+CENTRAL DIVISION,CENTRAL DIVISION is an other entity
+CLEVELAND 80 53 .602 -,CLEVELAND is an organization entity
+CHICAGO 71 64 .526 10,CHICAGO is an organization entity
+MINNESOTA 67 67 .500 13 1/2,MINNESOTA is an organization entity
+MILWAUKEE 64 71 .474 17,MILWAUKEE is an organization entity
+KANSAS CITY 61 74 .452 20,KANSAS CITY is an organization entity
+WESTERN DIVISION,WESTERN DIVISION is an other entity
+TEXAS 75 58 .564 -,TEXAS is an organization entity
+SEATTLE 70 63 .526 5,SEATTLE is an organization entity
+OAKLAND 64 72 .471 12 1/2,OAKLAND is an organization entity
+CALIFORNIA 62 72 .463 13 1/2,CALIFORNIA is an organization entity
+KANSAS CITY AT DETROIT,KANSAS CITY is an organization entity
+KANSAS CITY AT DETROIT,DETROIT is a location entity
+CHICAGO AT TORONTO,CHICAGO is an organization entity
+CHICAGO AT TORONTO,TORONTO is a location entity
+MINNESOTA AT MILWAUKEE,MINNESOTA is an organization entity
+MINNESOTA AT MILWAUKEE,MILWAUKEE is a location entity
+CLEVELAND AT TEXAS,CLEVELAND is an organization entity
+CLEVELAND AT TEXAS,TEXAS is a location entity
+NEW YORK AT CALIFORNIA,NEW YORK is an organization entity
+NEW YORK AT CALIFORNIA,CALIFORNIA is a location entity
+BOSTON AT OAKLAND,BOSTON is an organization entity
+BOSTON AT OAKLAND,OAKLAND is a location entity
+BALTIMORE AT SEATTLE,BALTIMORE is an organization entity
+BALTIMORE AT SEATTLE,SEATTLE is a location entity
+NATIONAL LEAGUE,NATIONAL LEAGUE is an other entity
+EASTERN DIVISION,EASTERN DIVISION is an other entity
+ATLANTA 83 49 .629 -,ATLANTA is an organization entity
+MONTREAL 71 61 .538 12,MONTREAL is an organization entity
+FLORIDA 64 70 .478 20,FLORIDA is an organization entity
+NEW YORK 59 75 .440 25,NEW YORK is an organization entity
+PHILADELPHIA 54 80 .403 30,PHILADELPHIA is an organization entity
+CENTRAL DIVISION,CENTRAL DIVISION is an other entity
+HOUSTON 72 63 .533 -,HOUSTON is an organization entity
+ST LOUIS 69 65 .515 2 1/2,ST LOUIS is an organization entity
+CINCINNATI 66 67 .496 5,CINCINNATI is an organization entity
+CHICAGO 65 66 .496 5,CHICAGO is an organization entity
+PITTSBURGH 56 77 .421 15,PITTSBURGH is an organization entity
+WESTERN DIVISION,WESTERN DIVISION is an other entity
+SAN DIEGO 75 60 .556 -,SAN DIEGO is an organization entity
+LOS ANGELES 72 61 .541 2,LOS ANGELES is an organization entity
+COLORADO 70 65 .519 5,COLORADO is an organization entity
+SAN FRANCISCO 57 74 .435 16,SAN FRANCISCO is an organization entity
+ATLANTA AT CHICAGO,ATLANTA is an organization entity
+ATLANTA AT CHICAGO,CHICAGO is a location entity
+FLORIDA AT CINCINNATI,FLORIDA is an organization entity
+FLORIDA AT CINCINNATI,CINCINNATI is a location entity
+SAN DIEGO AT MONTREAL,SAN DIEGO is an organization entity
+SAN DIEGO AT MONTREAL,MONTREAL is a location entity
+LOS ANGELES AT PHILADELPHIA,LOS ANGELES is an organization entity
+LOS ANGELES AT PHILADELPHIA,PHILADELPHIA is a location entity
+HOUSTON AT PITTSBURGH,HOUSTON is an organization entity
+HOUSTON AT PITTSBURGH,PITTSBURGH is a location entity
+SAN FRANCISCO AT NEW YORK,SAN FRANCISCO is an organization entity
+SAN FRANCISCO AT NEW YORK,NEW YORK is a location entity
+COLORADO AT ST LOUIS,COLORADO is an organization entity
+COLORADO AT ST LOUIS,ST LOUIS is a location entity
+BASEBALL - MAJOR LEAGUE RESULTS THURSDAY .,MAJOR LEAGUE is an other entity
+NEW YORK 1996-08-30,NEW YORK is a location entity
+Results of Major League,Major League is an other entity
+American League,American League is an other entity
+DETROIT 4 Kansas City 1,DETROIT is an organization entity
+DETROIT 4 Kansas City 1,Kansas City is an organization entity
+Minnesota 6 MILWAUKEE 1,Minnesota is an organization entity
+Minnesota 6 MILWAUKEE 1,MILWAUKEE is an organization entity
+CALIFORNIA 14 New York 3,CALIFORNIA is an organization entity
+CALIFORNIA 14 New York 3,New York is an organization entity
+SEATTLE 9 Baltimore 6,SEATTLE is an organization entity
+SEATTLE 9 Baltimore 6,Baltimore is an organization entity
+National League,National League is an other entity
+San Diego 3 NEW YORK 2,San Diego is an organization entity
+San Diego 3 NEW YORK 2,NEW YORK is an organization entity
+Chicago 4 HOUSTON 3,Chicago is an organization entity
+Chicago 4 HOUSTON 3,HOUSTON is an organization entity
+Cincinnati 18 COLORADO 7,Cincinnati is an organization entity
+Cincinnati 18 COLORADO 7,COLORADO is an organization entity
+Atlanta 5 PITTSBURGH 1,Atlanta is an organization entity
+Atlanta 5 PITTSBURGH 1,PITTSBURGH is an organization entity
+Los Angeles 2 MONTREAL 1,Los Angeles is an organization entity
+Los Angeles 2 MONTREAL 1,MONTREAL is an organization entity
+Florida 10 ST LOUIS 9,Florida is an organization entity
+Florida 10 ST LOUIS 9,ST LOUIS is an organization entity
+"TENNIS - TARANGO , O'BRIEN SPRING TWIN UPSETS UNDER THE LIGHTS .",TARANGO is a person entity
+"TENNIS - TARANGO , O'BRIEN SPRING TWIN UPSETS UNDER THE LIGHTS .",O'BRIEN is a person entity
+Larry Fine,Larry Fine is a person entity
+NEW YORK 1996-08-30,NEW YORK is a location entity
+Andre Agassi escaped disaster on Thursday but Wimbledon finalist MaliVai Washington and Marcelo Rios were not so fortunate on a night of upsets at the U.S. Open .,Andre Agassi is a person entity
+Andre Agassi escaped disaster on Thursday but Wimbledon finalist MaliVai Washington and Marcelo Rios were not so fortunate on a night of upsets at the U.S. Open .,Wimbledon is an other entity
+Andre Agassi escaped disaster on Thursday but Wimbledon finalist MaliVai Washington and Marcelo Rios were not so fortunate on a night of upsets at the U.S. Open .,MaliVai Washington is a person entity
+Andre Agassi escaped disaster on Thursday but Wimbledon finalist MaliVai Washington and Marcelo Rios were not so fortunate on a night of upsets at the U.S. Open .,Marcelo Rios is a person entity
+Andre Agassi escaped disaster on Thursday but Wimbledon finalist MaliVai Washington and Marcelo Rios were not so fortunate on a night of upsets at the U.S. Open .,U.S. Open is an other entity
+The 11th-seeded Washington fell short of reprising his Wimbledon miracle comeback as he lost to red-hot wildcard Alex O'Brien 6-3 6-4 5-7 3-6 6-3 in a two hour 51 minute struggle on the Stadium court .,Washington is a person entity
+The 11th-seeded Washington fell short of reprising his Wimbledon miracle comeback as he lost to red-hot wildcard Alex O'Brien 6-3 6-4 5-7 3-6 6-3 in a two hour 51 minute struggle on the Stadium court .,Wimbledon is an other entity
+The 11th-seeded Washington fell short of reprising his Wimbledon miracle comeback as he lost to red-hot wildcard Alex O'Brien 6-3 6-4 5-7 3-6 6-3 in a two hour 51 minute struggle on the Stadium court .,Alex O'Brien is a person entity
+"Next door on the grandstand , 10th seed Rios lost to another player with a Wimbledon connection -- bad boy Jeff Tarango .",Rios is a person entity
+"Next door on the grandstand , 10th seed Rios lost to another player with a Wimbledon connection -- bad boy Jeff Tarango .",Wimbledon is an other entity
+"Next door on the grandstand , 10th seed Rios lost to another player with a Wimbledon connection -- bad boy Jeff Tarango .",Jeff Tarango is a person entity
+The temperamental left-hander defeated the Chilean 6-4 4-6 7-6 6-2 .,Chilean is an other entity
+"The day programme went smoothly although sixth-seeded former champion Agassi had to wriggle out of a dangerous 3-6 0-4 hole , winning 18 of the last 19 games against India 's Leander Paes .",Agassi is a person entity
+"The day programme went smoothly although sixth-seeded former champion Agassi had to wriggle out of a dangerous 3-6 0-4 hole , winning 18 of the last 19 games against India 's Leander Paes .",India is a location entity
+"The day programme went smoothly although sixth-seeded former champion Agassi had to wriggle out of a dangerous 3-6 0-4 hole , winning 18 of the last 19 games against India 's Leander Paes .",Leander Paes is a person entity
+"Washington , who climbed back from a 1-5 deficit , two sets down in the third set against Todd Martin in the Wimbledon semifinals , looked poised for another sensational comeback .",Washington is a person entity
+"Washington , who climbed back from a 1-5 deficit , two sets down in the third set against Todd Martin in the Wimbledon semifinals , looked poised for another sensational comeback .",Todd Martin is a person entity
+"Washington , who climbed back from a 1-5 deficit , two sets down in the third set against Todd Martin in the Wimbledon semifinals , looked poised for another sensational comeback .",Wimbledon is an other entity
+"O'Brien , a winner two weeks ago in New Haven for his first pro title , served for the match at 5-4 in the third set before Washington came charging back .",O'Brien is a person entity
+"O'Brien , a winner two weeks ago in New Haven for his first pro title , served for the match at 5-4 in the third set before Washington came charging back .",New Haven is a location entity
+"O'Brien , a winner two weeks ago in New Haven for his first pro title , served for the match at 5-4 in the third set before Washington came charging back .",Washington is a person entity
+""" I just kept saying to myself , ' keep giving yourself the best chance to win , keep battling , maybe something will happen , ' "" said the 26-year-old O'Brien , ranked 65th .",O'Brien is a person entity
+"The hard-serving O'Brien , a former U.S. collegiate national champion , fired up 17 aces to ultimately subdue the never-say-die Washington .",O'Brien is a person entity
+"The hard-serving O'Brien , a former U.S. collegiate national champion , fired up 17 aces to ultimately subdue the never-say-die Washington .",U.S. is a location entity
+"The hard-serving O'Brien , a former U.S. collegiate national champion , fired up 17 aces to ultimately subdue the never-say-die Washington .",Washington is a person entity
+"The fifth set stayed on serve until the sixth game , when Washington , after saving one break point with a forehand winner down the line , netted a backhand to give O'Brien a 4-2 lead .",Washington is a person entity
+"The fifth set stayed on serve until the sixth game , when Washington , after saving one break point with a forehand winner down the line , netted a backhand to give O'Brien a 4-2 lead .",O'Brien is a person entity
