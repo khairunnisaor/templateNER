@@ -34,13 +34,22 @@ from transformers import (
     BertForMaskedLM,
     BertModel,
     BertTokenizer,
+    EncoderDecoderConfig,
+    EncoderDecoderModel,
     PreTrainedModel,
     PreTrainedTokenizer,
     RobertaConfig,
     RobertaModel,
     RobertaTokenizer,
     get_linear_schedule_with_warmup,
+
+    MBartConfig,
+    MBartForConditionalGeneration,
+    MBartTokenizer,
+    MBart50Tokenizer,
 )
+
+from indobenchmark import IndoNLGTokenizer
 
 from simpletransformers.config.global_args import global_args
 # from modeling_blenderbot_small import BlenderbotSmallForConditionalGeneration
@@ -61,6 +70,8 @@ MODEL_CLASSES = {
     "bart": (BartConfig, BartForConditionalGeneration, BartTokenizer),
     "bert": (BertConfig, BertModel, BertTokenizer),
     "roberta": (RobertaConfig, RobertaModel, RobertaTokenizer),
+    "mbart": (MBartConfig, MBartForConditionalGeneration, MBart50Tokenizer),
+    "indobart": (MBartConfig, MBartForConditionalGeneration, IndoNLGTokenizer),
     # "blender": (BlenderbotSmallConfig, BlenderbotSmallForConditionalGeneration, BlenderbotSmallTokenizer),
     # "blender-large": (BlenderbotConfig, BlenderbotForConditionalGeneration, BlenderbotTokenizer)
 }
@@ -157,9 +168,9 @@ class Seq2SeqModel:
         else:
             config_class, model_class, tokenizer_class = MODEL_CLASSES[encoder_type]
 
-        if encoder_decoder_type in ["bart", "marian", "blender", "blender-large"]:
+        if encoder_decoder_type in ["bart", "marian", "blender", "blender-large", "mbart", "indobart"]:
             self.model = model_class.from_pretrained(encoder_decoder_name)
-            if encoder_decoder_type in ["bart", "blender", "blender-large"]:
+            if encoder_decoder_type in ["bart", "blender", "blender-large", "mbart", "indobart"]:
                 self.encoder_tokenizer = tokenizer_class.from_pretrained(encoder_decoder_name)
                 # self.encoder_tokenizer = tokenizer_class.from_pretrained(encoder_decoder_name, additional_special_tokens=['__defi__', '__sim__'])
                 # self.model.resize_token_embeddings(len(self.encoder_tokenizer))
@@ -825,7 +836,7 @@ class Seq2SeqModel:
                 )["input_ids"]
             input_ids = input_ids.to(self.device)
 
-            if self.args.model_type in ["bart", "marian", "blender", "blender-large"]:
+            if self.args.model_type in ["bart", "marian", "blender", "blender-large","mbart","indobart"]:
 
                 outputs = self.model.generate(
                     input_ids=input_ids,
@@ -875,6 +886,17 @@ class Seq2SeqModel:
                 for output_id in all_outputs
             ]
 
+            # if self.args.model_type in ["bart", "marian", "blender", "blender-large","mbart"]:
+            #     outputs = [
+            #         self.decoder_tokenizer.decode(output_id, skip_special_tokens=True, clean_up_tokenization_spaces=True)
+            #         for output_id in all_outputs
+            #     ]
+            # elif self.args.model_type == "indobart":
+            #     outputs = [
+            #         self.decoder_tokenizer.decode(output_id, skip_special_tokens=True)
+            #         for output_id in all_outputs
+            #     ]
+
         if self.args.num_return_sequences > 1:
             return [
                 outputs[i : i + self.args.num_return_sequences]
@@ -912,7 +934,7 @@ class Seq2SeqModel:
                 )["input_ids"]
             input_ids = input_ids.to(self.device)
 
-            if self.args.model_type in ["bart", "marian", "blender", "blender-large"]:
+            if self.args.model_type in ["bart", "marian", "blender", "blender-large","mbart","indobart"]:
                 outputs = self.model.generate(
                     input_ids=input_ids,
                     num_beams=self.args.num_beams,
@@ -1032,7 +1054,7 @@ class Seq2SeqModel:
             CustomDataset = args.dataset_class
             return CustomDataset(encoder_tokenizer, decoder_tokenizer, args, data, mode)
         else:
-            if args.model_type in ["bart", "marian", "blender", "blender-large"]:
+            if args.model_type in ["bart", "marian", "blender", "blender-large","mbart","indobart"]:
                 return SimpleSummarizationDataset(encoder_tokenizer, self.args, data, mode)
             else:
                 return Seq2SeqDataset(encoder_tokenizer, decoder_tokenizer, self.args, data, mode,)
@@ -1064,11 +1086,13 @@ class Seq2SeqModel:
             model_to_save = model.module if hasattr(model, "module") else model
             self._save_model_args(output_dir)
 
-            if self.args.model_type in ["bart", "marian", "blender", "blender-large"]:
+            if self.args.model_type in ["bart", "marian", "blender", "blender-large","mbart","indobart"]:
                 os.makedirs(os.path.join(output_dir), exist_ok=True)
                 model_to_save.save_pretrained(output_dir)
                 self.config.save_pretrained(output_dir)
-                if self.args.model_type in ["bart", "blender", "blender-large"]:
+                if self.args.model_type in ["bart", "blender", "blender-large","mbart"]:
+                    self.encoder_tokenizer.save_pretrained(output_dir)
+                if self.args.model_type == "indobart":
                     self.encoder_tokenizer.save_pretrained(output_dir)
             else:
                 os.makedirs(os.path.join(output_dir, "encoder"), exist_ok=True)
@@ -1119,7 +1143,7 @@ class Seq2SeqModel:
                 "decoder_input_ids": y_ids.to(device),
                 "lm_labels": lm_labels.to(device),
             }
-        elif self.args.model_type in ["blender", "bart", "blender-large"]:
+        elif self.args.model_type in ["blender", "bart", "blender-large","mbart","indobart"]:
             pad_token_id = self.encoder_tokenizer.pad_token_id
             source_ids, source_mask, y = batch["source_ids"], batch["source_mask"], batch["target_ids"]
             y_ids = y[:, :-1].contiguous()
