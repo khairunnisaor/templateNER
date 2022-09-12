@@ -6,6 +6,10 @@ from collections import Counter
 from seqeval.metrics import classification_report
 import spacy
 import string
+from random import sample
+import seaborn as sns
+import matplotlib.pyplot as plt
+import pandas as pd
 
 def token_label(textfile):
     text = textfile.readlines()
@@ -454,10 +458,10 @@ def token2prompt(nerfile):
     }
 
     nerLabelID = { # Indonesian Label
-        "PER": "tokoh",
+        "PER": "orang",
         "ORG": "organisasi",
         "LOC": "lokasi",
-        "PPL": "tokoh",
+        "PPL": "orang",
         "FNB": "makanan",
         "PLC": "lokasi",
         "EVT": "event",
@@ -470,12 +474,13 @@ def token2prompt(nerfile):
         prevLabel = ''
         prevToken = ''
         sentence = []
+
         sent_ent = []
+        sent_ent_temp = []
+        sent_nonent_temp = []
         for tokens in line:
-            # print(tokens)
             tok, lbl = tokens.split('\t')
-            # print(tok)
-            sentence.append(tok)
+            sentence.append(tok) # remove this to put entities special tokens
             # print(tok,lbl, prevLabel)
 
             # # with the non-entities
@@ -483,10 +488,12 @@ def token2prompt(nerfile):
             #     ent = [tok]
             # elif prevLabel == 'O' and len(prevToken) > 1:
             #     # print(ent[0] + ' is not an entity.')
+            #     # sentence.append(tok)
             #     if prevLabel not in ['']:
             #         # print(' '.join(ent) + ' is a ' + nerLabel[prevLabel] +' entity.')
             #         # sent_ent.append(' '.join(ent) + ' is a not an entity') # template in english
-            #         sent_ent.append(' '.join(ent) + ' adalah bukan entitas .') # template in indonesian
+            #         sent_nonent_temp.append(' '.join(ent) + ' adalah bukan entitas .') # template in indonesian
+            #         # sentence.append(' '.join(ent)) # add this to put entities special tokens
             #     ent = [tok]
 
             # without the non-entities   
@@ -500,13 +507,60 @@ def token2prompt(nerfile):
                     if prevLabel not in ['']:
                         # print(' '.join(ent) + ' is a ' + nerLabel[prevLabel] +' entity.')
                         # sent_ent.append(' '.join(ent) + ' is a ' + nerLabel[prevLabel] +' entity') # template in english
-                        sent_ent.append(' '.join(ent) + ' adalah entitas ' + nerLabelID[prevLabel] + ' .') # template in indonesian
-                    ent = [tok]                            
+                        sent_ent_temp.append(' '.join(ent) + ' adalah entitas ' + nerLabelID[prevLabel] + ' .') # template in indonesian
+                        # sentence.append( '<ENT>' + ' '.join(ent) + '</ENT>') # add this to put entities special tokens   
+                    ent = [tok]
+
             prevLabel = lbl[-3:]
             prevToken = tok
-        for i in sent_ent:
-            print('"' + ' '.join(sentence) + '",' + i)
-            # save the output using cli > blablabla.out
+
+        len_ent = len(sent_ent_temp)
+        neg_sample = round(len_ent * 1.5)        
+
+        if len_ent > 0:
+            if neg_sample < len(sent_nonent_temp):
+                sent_ent.append(sent_ent_temp)
+                sent_ent.append(sample(sent_nonent_temp, neg_sample)) 
+            else:
+                sent_ent.append(sent_ent_temp)
+                sent_ent.append(sent_nonent_temp) 
+        sent_ent_temp = []  
+        sent_nonent_temp = []  
+
+        for sent in sent_ent:
+            for i in sent:
+                print('"' + ' '.join(sentence) + '","' + i + '"')
+                # save the output using cli > blablabla.out
+
+def add_spc_tok_bio(nerfile):
+    ner = nerfile.read().split('\n\n')
+
+    line_updated = []
+    for sent in ner:
+        line = sent.split('\n')
+
+        prevLabel = ''
+        tok_spc = '<ENT>'
+        lbl_spc = 'O'
+        # line_updated = []
+        for tokens in line:
+            tok, lbl = tokens.split('\t')
+            if lbl[:2] == 'B-':
+                line_updated.append(tok_spc + '\t' + lbl_spc)
+                line_updated.append(tok + '\t' + lbl)
+            elif lbl == 'O' and prevLabel[:2] == 'I-':
+                line_updated.append(tok_spc + '\t' + lbl_spc)
+                line_updated.append(tok + '\t' + lbl)
+            elif lbl == 'O' and prevLabel[:2] == 'B-':
+                line_updated.append(tok_spc + '\t' + lbl_spc)
+                line_updated.append(tok + '\t' + lbl)
+            else:
+                line_updated.append(tok + '\t' + lbl)
+            prevLabel = lbl
+        line_updated.append('\n')
+
+    for i in line_updated:
+        print(i)
 
 def lowercased(textfile):
     file = textfile.readlines()
@@ -519,24 +573,142 @@ def lowercased(textfile):
     
     return lowercased_text
 
+def create_fewshot(textfile, num_sample):
+    text = textfile.read() # bio file
+    sents = text.split('\n\n')
+
+    all_sents = []
+    for line in sents:
+        all_sents.append(line)
+        # all_sents.append('\n')
+
+    few_shot = sample(all_sents,num_sample)
+    for i in few_shot:
+        print(i)
+        print('')
+
+def sent_length(textfile):
+    text = textfile.read() # bio file
+    sents = text.split('\n\n')
+
+    all_sents = []
+    all_sents_len = []
+    per_len = []
+    org_len = []
+    loc_len = []
+    for line in sents:
+        all_sents.append(line)
+        all_sents_len.append(len(line.split())/2)
+
+    # print(len(all_sents))
+        per = 0 
+        org = 0
+        loc = 0
+        for tok in line.split():
+            # print(tok_lbl)
+            # tok, lbl = tok_lbl.split('\t')
+            # tok = tok_lbl.split()
+        # print(tok)
+            if tok == 'B-PER':
+                per += 1
+            elif tok == 'B-ORG':
+                org += 1
+            elif tok == 'B-LOC':
+                loc += 1
+        per_len.append(per)
+        org_len.append(org)
+        loc_len.append(loc)
+
+    return all_sents_len, per_len, org_len, loc_len
+
 def remove_line_cond(condition, filename):
     for line in filename:
         if not condition in line:
             print(line[:-1])
 
+def nonSamples(fulldata_file, sample_file):
+    fullF = fulldata_file.readlines()
+    sampleF = sample_file.readlines()
+    
+    full_sent = []
+    sample_sent = []
+    for line in fullF[1:]:
+        sent = line.split('",')[0]
+        if sent not in full_sent:
+            full_sent.append(sent)
+    
+    for line in sampleF:
+        sent = line.split('",')[0]
+        if sent not in sample_sent:
+            sample_sent.append(sent)
+    
+    for line in full_sent:
+        if line not in sample_sent:
+            print(line)
+
+def nonSamples_bio(full_file, sample_file):
+    s_text = sample_file.read() # bio file
+    s_sents = s_text.split('\n\n')
+
+    sample_sents = []
+    for line in s_sents:
+        sample_sents.append(line)
+    
+    f_text = full_file.read() # bio file
+    f_sents = f_text.split('\n\n')
+
+    full_sents = []
+    for line in f_sents:
+        full_sents.append(line)
+    
+    for line in full_sents:
+        if line not in sample_sents:
+            print(line + "\n")
+    
+
 if __name__ == "__main__":
+    # fulldata = open('./data/idner2k/dev_bio.txt')
+    # sampledata = open('./data/idner2k/dev_bio_half_1.txt')
+
+    # non_smpl = nonSamples_bio(fulldata, sampledata)
+    # print(non_smpl)
+
+    # file = open('./data/idner2k/test_bio.txt')
+    # print(add_spc_tok_bio(file))
+
     # # Extract token_label data
     # text = open('./data/test_wpos.txt', 'r', encoding='utf-8')
     # extracted = token_label(text)
     # write_data(extracted, './data/test-.txt')
 
     # Convert BIO to Prompt
-    file = open('./data/conll03/dev_en_trans_idn.csv')
-    textfile = lowercased(file)
-    # textfile = token2prompt(file)
-    # print(textfile)
+    file = open('./data/idner2k/dev_bio.txt')
+    textfile = token2prompt(file)
+    # # print(textfile)
 
-    write_data(textfile, './data/conll03/dev_en_trans_idn_low.csv')
+    # # Create Few-shot data
+    # file = open('./data/idner2k/dev_bio.txt')
+    # textfile = create_fewshot(file, 183)
+
+    # Count sentence length
+    # file1 = open('./data/idner2k-fewshot/invtg/notin_train_bio_1300_1.txt')
+    # file2 = open('./data/nerui/test_bio.txt')
+    # # file3 = open('./data/idner2k-fewshot/train_bio_1300_3.txt')
+    # # file4 = open('./data/idner2k-fewshot/train_bio_1300_4.txt')
+    # # file5 = open('./data/idner2k-fewshot/train_bio_1300_5.txt')
+
+    # sent_len, per, org, loc = sent_length(file1)
+    # print(sent_len)
+    # print(per)
+    # print(org)
+    # print(loc)
+    # textfile2 = sent_length(file2)
+    # textfile3 = sent_length(file3)
+    # textfile4 = sent_length(file4)
+    # textfile5 = sent_length(file5)
+
+    # write_data(textfile, './data/conll03/dev_en_trans_idn_low.csv')
+    # write_data(textfile, './data/idner2k/dev_id_prompt15.csv')
 
     # # Took first x sentence from NER file
     # text = open('./data/modeltf/en-train.txt', 'r', encoding='utf-8')
